@@ -3,17 +3,18 @@ configuration:
   markdown_footer_file: "config/footer.md"
 
 categories:
-  # - category: "data-engineering"
-  #   title: "Machine Learning & Data Engineering"
-  #   subtitle: "Best-of lists about machine learning, data engieering, data science, or other topics related to big data."
+  - category: "community-addons"
+    title: "Community Addons"
+    subtitle: "Anyone can create an add-on, the following are created by the community."
 
 labels:
-  # - label: "python"
-  #   image: "https://www.python.org/static/favicon.ico"
-  #   description: "Best-of list with Python projects"
+  - label: "frontend"
+    name: "frontend"
+  - label: "integration"
+    name: "integration"
 
 projects:
-  # - name: best-of-ml-python
-  #   github_id: ml-tooling/best-of-ml-python
-  #   labels: ["python"]
-  #   category: "data-engineering"
+  - name: SSH & Web Terminal
+    github_id: hassio-addons/addon-ssh
+    docs_url: https://github.com/hassio-addons/addon-ssh/blob/main/ssh/DOCS.md
+    category: community-addons
