@@ -47,9 +47,9 @@ This curated list contains 1 awesome open-source projects with a total of 190 st
 
 _Anyone can create an add-on, the following are created by the community._
 
-<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 190 · ➕) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 190) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 23 · 🔀 69 · 📋 190 - 2% open · ⏱️ 08.08.2022):
+- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 23 · 🔀 69 · 📋 190 - 2% open · ⏱️ 18.08.2022):
 
 	```
 	git clone https://github.com/hassio-addons/addon-ssh
