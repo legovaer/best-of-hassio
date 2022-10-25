@@ -15,7 +15,7 @@
     <a href="https://github.com/legovaer/best-of-hassio/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/legovaer/best-of-hassio?color=green&label=updated"></a>
 </p>
 
-This curated list contains 1 awesome open-source projects with a total of 190 stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 1 awesome open-source projects with a total of 200 stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -47,9 +47,9 @@ This curated list contains 1 awesome open-source projects with a total of 190 st
 
 _Anyone can create an add-on, the following are created by the community._
 
-<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 190) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 200) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 23 · 🔀 70 · 📋 190 - 1% open · ⏱️ 18.08.2022):
+- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 23 · 🔀 73 · ⏱️ 19.09.2022):
 
 	```
 	git clone https://github.com/hassio-addons/addon-ssh
