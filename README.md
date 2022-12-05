@@ -10,18 +10,18 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-1-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/legovaer/best-of-hassio/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/legovaer/best-of-hassio?color=green&label=updated"></a>
 </p>
 
-This curated list contains 1 awesome open-source projects with a total of 200 stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 2 awesome open-source projects with a total of 350 stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Community Addons](#community-addons) _1 projects_
+- [Community Addons](#community-addons) _2 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -55,12 +55,21 @@ _Anyone can create an add-on, the following are created by the community._
 	git clone https://github.com/hassio-addons/addon-ssh
 	```
 </details>
+<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥉10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 34 - 41% open · ⏱️ 29.05.2022):
+
+	```
+	git clone https://github.com/thomasloven/hass-lovelace_gen
+	```
+</details>
 
 ---
 
 ## Related Resources
 
 - [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
+- [**Awesome Home Assistant**](https://github.com/frenck/awesome-home-assistant): A curated list of amazingly awesome Home Assistant resources.
 
 ## Contribution
 
