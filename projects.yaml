@@ -6,12 +6,18 @@ categories:
   - category: "community-addons"
     title: "Community Addons"
     subtitle: "Anyone can create an add-on, the following are created by the community."
-
+  - category: "custom-cards"
+    title: "Custom Cards"
+    subtitle: "The Home Assistant Dashboards allows people to build custom cards on top of it, which you can easily add to your instance."
+  - title: "Custom Integrations"
+    category: "custom-integrations"
+    subtitle: "Additional integrations for Home Assistant, that were created by the community."
+  - category: "themes"
+    title: "Themes"
+    subtitle: "It is all about the looks, apply some style."
 labels:
-  - label: "lovelace"
-    name: "lovelace"
-  - label: "integration"
-    name: "integration"
+  - label: "hacs"
+    name: "HACS"
 
 projects:
   - name: SSH & Web Terminal
@@ -20,6 +26,11 @@ projects:
     category: community-addons
   - name: lovelace_gen
     github_id: thomasloven/hass-lovelace_gen
-    category: community-addons
     docs_url: https://github.com/thomasloven/hass-lovelace_gen
-    category: community-addons
+    category: custom-integrations
+    label: "hacs"
+  - name: Lovelace button-card
+    github_id: custom-cards/button-card
+    docs_url: https://github.com/custom-cards/button-card
+    category: custom-cards
+    label: "hacs"
