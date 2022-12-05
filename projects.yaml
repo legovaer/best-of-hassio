@@ -8,8 +8,8 @@ categories:
     subtitle: "Anyone can create an add-on, the following are created by the community."
 
 labels:
-  - label: "frontend"
-    name: "frontend"
+  - label: "lovelace"
+    name: "lovelace"
   - label: "integration"
     name: "integration"
 
@@ -17,4 +17,9 @@ projects:
   - name: SSH & Web Terminal
     github_id: hassio-addons/addon-ssh
     docs_url: https://github.com/hassio-addons/addon-ssh/blob/main/ssh/DOCS.md
+    category: community-addons
+  - name: lovelace_gen
+    github_id: thomasloven/hass-lovelace_gen
+    category: community-addons
+    docs_url: https://github.com/thomasloven/hass-lovelace_gen
     category: community-addons
