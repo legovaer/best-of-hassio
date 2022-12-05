@@ -2,5 +2,5 @@
 
 _Projects that were recently added to this best-of list._
 
-- <b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥉10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/custom-cards/button-card">Lovelace button-card</a></b> (🥇23 ·  ⭐ 1.2K · 💀) - Lovelace button-card for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
