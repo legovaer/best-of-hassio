@@ -10,18 +10,21 @@
 
 <p align="center">
     <a href="https://best-of.org" title="Best-of Badge"><img src="http://bit.ly/3o3EHNN"></a>
-    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-2-blue.svg?color=5ac4bf"></a>
+    <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-3-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/legovaer/best-of-hassio/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/legovaer/best-of-hassio?color=green&label=updated"></a>
 </p>
 
-This curated list contains 2 awesome open-source projects with a total of 350 stars grouped into 1 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 3 awesome open-source projects with a total of 1.6K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
 ## Contents
 
-- [Community Addons](#community-addons) _2 projects_
+- [Community Addons](#community-addons) _1 projects_
+- [Custom Cards](#custom-cards) _1 projects_
+- [Custom Integrations](#custom-integrations) _1 projects_
+- [Themes](#themes) _0 projects_
 
 ## Explanation
 - 🥇🥈🥉&nbsp; Combined project-quality score
@@ -55,7 +58,27 @@ _Anyone can create an add-on, the following are created by the community._
 	git clone https://github.com/hassio-addons/addon-ssh
 	```
 </details>
-<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥉10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<br>
+
+## Custom Cards
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_The Home Assistant Dashboards allows people to build custom cards on top of it, which you can easily add to your instance._
+
+<details><summary>Show 1 hidden projects...</summary>
+
+- <b><a href="https://github.com/custom-cards/button-card">Lovelace button-card</a></b> (🥇23 ·  ⭐ 1.2K · 💀) - Lovelace button-card for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+</details>
+<br>
+
+## Custom Integrations
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_Additional integrations for Home Assistant, that were created by the community._
+
+<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥇10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 34 - 41% open · ⏱️ 29.05.2022):
 
@@ -63,6 +86,14 @@ _Anyone can create an add-on, the following are created by the community._
 	git clone https://github.com/thomasloven/hass-lovelace_gen
 	```
 </details>
+<br>
+
+## Themes
+
+<a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
+
+_It is all about the looks, apply some style._
+
 
 ---
 
