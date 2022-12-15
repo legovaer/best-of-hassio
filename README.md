@@ -52,7 +52,7 @@ _Anyone can create an add-on, the following are created by the community._
 
 <details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 200) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 73 · 📋 200 - 0% open · ⏱️ 15.11.2022):
+- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 73 · ⏱️ 12.12.2022):
 
 	```
 	git clone https://github.com/hassio-addons/addon-ssh
@@ -68,7 +68,7 @@ _The Home Assistant Dashboards allows people to build custom cards on top of it,
 
 <details><summary>Show 1 hidden projects...</summary>
 
-- <b><a href="https://github.com/custom-cards/button-card">Lovelace button-card</a></b> (🥇23 ·  ⭐ 1.2K · 💀) - Lovelace button-card for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/custom-cards/button-card">Lovelace button-card</a></b> (🥇23 ·  ⭐ 1.3K · 💀) - Lovelace button-card for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 </details>
 <br>
 
