@@ -50,7 +50,7 @@ This curated list contains 3 awesome open-source projects with a total of 1.6K s
 
 _Anyone can create an add-on, the following are created by the community._
 
-<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 200) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 210) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 73 · ⏱️ 12.12.2022):
 
@@ -78,7 +78,7 @@ _The Home Assistant Dashboards allows people to build custom cards on top of it,
 
 _Additional integrations for Home Assistant, that were created by the community._
 
-<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥇10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥇10 ·  ⭐ 150 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 34 - 41% open · ⏱️ 29.05.2022):
 
