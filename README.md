@@ -15,7 +15,7 @@
     <a href="https://github.com/legovaer/best-of-hassio/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/legovaer/best-of-hassio?color=green&label=updated"></a>
 </p>
 
-This curated list contains 3 awesome open-source projects with a total of 1.6K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
+This curated list contains 3 awesome open-source projects with a total of 1.7K stars grouped into 4 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/legovaer/best-of-hassio/issues/new/choose), submit a [pull request](https://github.com/legovaer/best-of-hassio/pulls), or directly edit the [projects.yaml](https://github.com/legovaer/best-of-hassio/edit/main/projects.yaml). Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md).
 
@@ -50,9 +50,9 @@ This curated list contains 3 awesome open-source projects with a total of 1.6K s
 
 _Anyone can create an add-on, the following are created by the community._
 
-<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 200) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 210) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 73 · ⏱️ 12.12.2022):
+- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 74 · 📋 210 - 0% open · ⏱️ 07.01.2023):
 
 	```
 	git clone https://github.com/hassio-addons/addon-ssh
@@ -78,9 +78,9 @@ _The Home Assistant Dashboards allows people to build custom cards on top of it,
 
 _Additional integrations for Home Assistant, that were created by the community._
 
-<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥇10 ·  ⭐ 140 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥇10 ·  ⭐ 150 · 💤) - Improve the lovelace yaml parser for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 34 - 41% open · ⏱️ 29.05.2022):
+- [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 35 - 40% open · ⏱️ 29.05.2022):
 
 	```
 	git clone https://github.com/thomasloven/hass-lovelace_gen
