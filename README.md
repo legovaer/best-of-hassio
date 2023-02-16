@@ -52,7 +52,7 @@ _Anyone can create an add-on, the following are created by the community._
 
 <details><summary><b><a href="https://github.com/hassio-addons/addon-ssh">SSH & Web Terminal</a></b> (🥇19 ·  ⭐ 220) - SSH & Web Terminal - Home Assistant Community Add-ons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 71 · 📋 210 - 1% open · ⏱️ 18.01.2023):
+- [GitHub](https://github.com/hassio-addons/addon-ssh) (👨‍💻 25 · 🔀 71 · 📋 210 - 0% open · ⏱️ 18.01.2023):
 
 	```
 	git clone https://github.com/hassio-addons/addon-ssh
