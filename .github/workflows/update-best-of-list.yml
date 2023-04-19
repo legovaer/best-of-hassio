@@ -58,23 +58,19 @@ jobs:
           tagging_message: ${{ env.VERSION  }}
           skip_dirty_check: true
           commit_options: "--allow-empty"
-      - name: create-pull-request
-        shell: bash
-        run: |
-          # Stops script execution if a command has an error
-          set -e
-          curl -fsSL https://github.com/github/hub/raw/master/script/get | bash -s 2.14.2
-          bin/hub pull-request -b ${{ env.DEFAULT_BRANCH }} -h ${{ env.BRANCH_PREFIX }}${{ env.VERSION  }} --no-edit -m "Best-of update: ${{ env.VERSION  }}" -m "To finish this update: Select <code>Merge pull request</code> below and <code>Confirm merge</code>. Also, make sure to publish the created draft release in the [releases section](../releases) as well." || true
-          rm bin/hub
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Merge release branch into main
+        uses: devmasx/merge-branch@master
+        with:
+          type: now
+          target_branch: main
+          message: Update best-of list for version ${{ env.VERSION  }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
       - name: create-release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: softprops/action-gh-release@v1
         with:
           tag_name: ${{ env.VERSION  }}
-          release_name: "Update: ${{ env.VERSION  }}"
+          name: "Update: ${{ env.VERSION  }}"
           body_path: "latest-changes.md"
-          draft: true
+          draft: false
+          token: ${{ secrets.GITHUB_TOKEN }}
           prerelease: false
