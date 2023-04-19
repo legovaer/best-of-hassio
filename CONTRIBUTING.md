@@ -116,3 +116,20 @@ If you want to create your own best-of list, we strongly recommend to follow [th
 ## Code of Conduct
 
 All members of the project community must abide by the [Contributor Covenant, version 2.0](./.github/CODE_OF_CONDUCT.md). Only by respecting each other we can develop a productive, collaborative community. Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting a project maintainer.
+
+## Project Specific Information
+
+In order to generate this list, I extract the information from HACS. When I have all this information, I _simply_ run a bash script that helps me generating the `projects.yaml` file:
+
+```bash
+
+$ demoji integration.json | jq '.data[] | {name: (if (.repository_manifest == {} and (.repository_manifest | select(has("name") | not))) then .full_name else .repository_manifest.name end), github_id: .full_name, description: (if .description != null then .description else "" end), category: .category}' > parsed.json
+
+```
+
+Then I only need to transform the `parsed.json` data to a _YAML_ format:
+
+```bash
+
+$ cat parsed.json | yq -P > parsed.yaml
+```
