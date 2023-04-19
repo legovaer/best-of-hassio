@@ -22,175 +22,163 @@ categories:
   - category: "information"
     title: "Additional information about Home Assistant: blogs, awesome lists, ..."
 
-labels:
-  - label: "hacs"
-    name: "HACS"
 
 projects:
   - name: SSH & Web Terminal
     github_id: hassio-addons/addon-ssh
     docs_url: https://github.com/hassio-addons/addon-ssh/blob/main/ssh/DOCS.md
     category: community-addons
-  - name: lovelace_gen
-    github_id: thomasloven/hass-lovelace_gen
-    docs_url: https://github.com/thomasloven/hass-lovelace_gen
-    category: custom-integrations
-    label: "hacs"
-  - name: Lovelace button-card
-    github_id: custom-cards/button-card
-    docs_url: https://github.com/custom-cards/button-card
-    category: custom-cards
-    label: "hacs"
-# 
-  - name: 
-    github_id: custom-components/remote_homeassistant
-    docs_url: https://github.com/custom-components/remote_homeassistant
-    subtitle: Links multiple home-assistant instances together
-    category: custom-integrations
-
-  - name: home-assistant.io
-    github_id: home-assistant/home-assistant.io
-    docs_url: https://www.home-assistant.io
-    category: core
-    subtitle: ':blue_book: Home Assistant User documentation'
-  - name: frontend
-    github_id: home-assistant/frontend
-    docs_url: https://demo.home-assistant.io
-    category: core
-    subtitle: ':lollipop: Frontend for Home Assistant'
-  - name: Home-AssistantConfig
-    github_id: CCOSTAN/Home-AssistantConfig
-    docs_url: https://www.vCloudInfo.com
-    category: configurations
-    subtitle: ':house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!'
-  - name: operating-system
-    github_id: home-assistant/operating-system
-    docs_url: https://github.com/home-assistant/operating-system
-    category: core
-    subtitle: ':beginner: Home Assistant Operating System'
-  - name: brands
-    github_id: home-assistant/brands
-    docs_url: https://github.com/home-assistant/brands
-    category: core
-    subtitle: "\U0001F3A8 Brands for Home Assistant"
-  - name: ha-floorplan
-    github_id: pkozul/ha-floorplan
-    docs_url: https://github.com/pkozul/ha-floorplan
-    category: custom-cards
-    subtitle: Floorplan for Home Assistant
-  - name: repository
-    github_id: hassio-addons/repository
-    docs_url: https://addons.community
-    category: community-addons
-    subtitle: Home Assistant Community Add-ons
-  - name: developers.home-assistant
-    github_id: home-assistant/developers.home-assistant
-    docs_url: https://developers.home-assistant.io
-    docs_url: https://github.com/home-assistant/developers.home-assistant
-    category: information
-    subtitle: Developers website for Home Assistant.
-  - name: awesome-home-assistant
-    github_id: frenck/awesome-home-assistant
-    docs_url: https://awesome-ha.com
-    category: information
-    subtitle: A curated list of amazingly awesome Home Assistant resources.
-  - name: android
-    github_id: home-assistant/android
-    docs_url: https://companion.home-assistant.io/
-    category: core
-    subtitle: ':iphone: Home Assistant Companion for Android'
-  - name: hass-config-lajv
-    github_id: lukevink/hass-config-lajv
-    docs_url: https://github.com/lukevink/hass-config-lajv
-    category: configurations
-    subtitle: Home Assistant Configuration
-  - name: homeassistant
-    github_id: geekofweek/homeassistant
-    docs_url: https://github.com/geekofweek/homeassistant
-    category: configurations
-    subtitle: Example Home Assistant Configs
-  - name: supervisor
-    github_id: home-assistant/supervisor
-    docs_url: https://home-assistant.io/hassio/
-    category: core
-    subtitle: ':house_with_garden: Home Assistant Supervisor'
-  - name: homeassistant-config
-    github_id: pnbruckner/homeassistant-config
-    docs_url: https://github.com/pnbruckner/homeassistant-config
-    category: configurations
-    subtitle: Home Assistant Configuration
-  - name: Gladys
-    github_id: GladysAssistant/Gladys
-    docs_url: https://gladysassistant.com
-    category: community-addons
-    subtitle: A privacy-first, open-source home assistant
-  - name: SWAKES_hassio
-    github_id: pqpxo/SWAKES_hassio
-    docs_url: https://github.com/pqpxo/SWAKES_hassio
-    category: configurations
-    subtitle: Home Assistant
-  - name: addons
-    github_id: home-assistant/addons
-    docs_url: https://github.com/home-assistant/addons
-    category: core
-    subtitle: ':heavy_plus_sign: Docker add-ons for Home Assistant'
-  - name: reolink_dev
-    github_id: fwestenberg/reolink_dev
-    docs_url: https://github.com/fwestenberg/reolink_dev
-    category: community-addons
-    subtitle: Home Assistant Reolink addon
-  - name: ShellyForHASS
-    github_id: StyraHem/ShellyForHASS
-    docs_url: https://github.com/StyraHem/ShellyForHASS
-    category: community-addons
-    subtitle: Shelly smart home platform for Home Assistant
-  - name: home-assistant-config
-    github_id: frenck/home-assistant-config
-    docs_url: https://www.frenck.dev
-    category: configurations
-    subtitle: ':house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!'
-  - name: iOS
-    github_id: home-assistant/iOS
-    docs_url: https://companion.home-assistant.io
-    category: core
-    subtitle: ':iphone: Home Assistant for Apple platforms'
-  - name: home-assistant-config
-    github_id: basnijholt/home-assistant-config
-    docs_url: https://github.com/basnijholt/home-assistant-config
-    category: configurations
-    subtitle: 'Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:'
-  - name: intents
-    github_id: home-assistant/intents
-    docs_url: https://developers.home-assistant.io/docs/voice/overview/
-    category: core
-    subtitle: Intents to be used with Home Assistant
-  - name: Home-Assistant-Config
-    github_id: JamesMcCarthy79/Home-Assistant-Config
-    docs_url: https://github.com/JamesMcCarthy79/Home-Assistant-Config
-    category: configurations
-    subtitle: Home Assistant Configuration & Documentation for my Smart House.
-  - name: hass-configurator
-    github_id: danielperna84/hass-configurator
-    docs_url: https://github.com/danielperna84/hass-configurator
-    category: community-addons
-    subtitle: Configuration UI for Home Assistant
-  - name: button-card
-    github_id: custom-cards/button-card
-    docs_url: https://github.com/custom-cards/button-card
-    category: custom-cards
-    subtitle: ❇️ Lovelace button-card for home assistant
-  - name: tuya-home-assistant
-    github_id: tuya/tuya-home-assistant
-    docs_url: https://github.com/tuya/tuya-home-assistant
-    category: custom-integrations
-    subtitle: Home Assistant integration for controlling Powered by Tuya  (PBT) devices using Tuya Open API, maintained by the Home Assistant Community and Tuya Developer Team.
-  - name: .homeassistant
-    github_id: Yonsm/.homeassistant
-    docs_url: https://github.com/Yonsm/.homeassistant
-    category: configurations
-    subtitle: Home Assistant Extras for Yonsm
-  - name: hassio-zigbee2mqtt
-    github_id: zigbee2mqtt/hassio-zigbee2mqtt
-    docs_url: https://www.zigbee2mqtt.io
-    category: community-addons
-    subtitle: Official Zigbee2MQTT Home Assistant add-on
+  # - name: lovelace_gen
+  #   github_id: thomasloven/hass-lovelace_gen
+  #   docs_url: https://github.com/thomasloven/hass-lovelace_gen
+  #   category: custom-integrations
+  # - name: Remote Home Assistant
+  #   github_id: custom-components/remote_homeassistant
+  #   docs_url: https://github.com/custom-components/remote_homeassistant
+  #   subtitle: Links multiple home-assistant instances together
+  #   category: custom-integrations
+  # - name: home-assistant.io
+  #   github_id: home-assistant/home-assistant.io
+  #   docs_url: https://www.home-assistant.io
+  #   category: information
+  #   subtitle: ':blue_book: Home Assistant User documentation'
+  # - name: core frontend
+  #   github_id: home-assistant/frontend
+  #   docs_url: https://demo.home-assistant.io
+  #   category: core
+  #   subtitle: ':lollipop: Frontend for Home Assistant'
+  # - name: CCOSTAN Home-AssistantConfig
+  #   github_id: CCOSTAN/Home-AssistantConfig
+  #   docs_url: https://www.vCloudInfo.com
+  #   category: configurations
+  #   subtitle: ':house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!'
+  # - name: operating-system
+  #   github_id: home-assistant/operating-system
+  #   docs_url: https://github.com/home-assistant/operating-system
+  #   category: core
+  #   subtitle: ':beginner: Home Assistant Operating System'
+  # - name: brands
+  #   github_id: home-assistant/brands
+  #   docs_url: https://github.com/home-assistant/brands
+  #   category: core
+  #   subtitle: "\U0001F3A8 Brands for Home Assistant"
+  # - name: ha-floorplan
+  #   github_id: pkozul/ha-floorplan
+  #   docs_url: https://github.com/pkozul/ha-floorplan
+  #   category: custom-cards
+  #   subtitle: Floorplan for Home Assistant
+  # - name: addons repository
+  #   github_id: hassio-addons/repository
+  #   docs_url: https://addons.community
+  #   category: community-addons
+  #   subtitle: Home Assistant Community Add-ons
+  # - name: developers.home-assistant
+  #   github_id: home-assistant/developers.home-assistant
+  #   docs_url: https://developers.home-assistant.io
+  #   category: information
+  #   subtitle: Developers website for Home Assistant.
+  # - name: awesome-home-assistant
+  #   github_id: frenck/awesome-home-assistant
+  #   docs_url: https://awesome-ha.com
+  #   category: information
+  #   subtitle: A curated list of amazingly awesome Home Assistant resources.
+  # - name: core android
+  #   github_id: home-assistant/android
+  #   docs_url: https://companion.home-assistant.io/
+  #   category: core
+  #   subtitle: ':iphone: Home Assistant Companion for Android'
+  # - name: hass-config-lajv
+  #   github_id: lukevink/hass-config-lajv
+  #   docs_url: https://github.com/lukevink/hass-config-lajv
+  #   category: configurations
+  #   subtitle: Home Assistant Configuration
+  # - name: geekofweek homeassistant
+  #   github_id: geekofweek/homeassistant
+  #   docs_url: https://github.com/geekofweek/homeassistant
+  #   category: configurations
+  #   subtitle: Example Home Assistant Configs
+  # - name: core supervisor
+  #   github_id: home-assistant/supervisor
+  #   docs_url: https://home-assistant.io/hassio/
+  #   category: core
+  #   subtitle: ':house_with_garden: Home Assistant Supervisor'
+  # - name: pnbruckner homeassistant-config
+  #   github_id: pnbruckner/homeassistant-config
+  #   docs_url: https://github.com/pnbruckner/homeassistant-config
+  #   category: configurations
+  #   subtitle: Home Assistant Configuration
+  # - name: Gladys
+  #   github_id: GladysAssistant/Gladys
+  #   docs_url: https://gladysassistant.com
+  #   category: community-addons
+  #   subtitle: A privacy-first, open-source home assistant
+  # - name: SWAKES_hassio
+  #   github_id: pqpxo/SWAKES_hassio
+  #   docs_url: https://github.com/pqpxo/SWAKES_hassio
+  #   category: configurations
+  #   subtitle: Home Assistant
+  # - name: core addons
+  #   github_id: home-assistant/addons
+  #   docs_url: https://github.com/home-assistant/addons
+  #   category: core
+  #   subtitle: ':heavy_plus_sign: Docker add-ons for Home Assistant'
+  # - name: reolink_dev
+  #   github_id: fwestenberg/reolink_dev
+  #   docs_url: https://github.com/fwestenberg/reolink_dev
+  #   category: community-addons
+  #   subtitle: Home Assistant Reolink addon
+  # - name: ShellyForHASS
+  #   github_id: StyraHem/ShellyForHASS
+  #   docs_url: https://github.com/StyraHem/ShellyForHASS
+  #   category: community-addons
+  #   subtitle: Shelly smart home platform for Home Assistant
+  # - name: frenck home-assistant-config
+  #   github_id: frenck/home-assistant-config
+  #   docs_url: https://www.frenck.dev
+  #   category: configurations
+  #   subtitle: ':house: My Home Assistant configuration, a bit different that others :) Be sure to :star2: this repository for updates!'
+  # - name: iOS
+  #   github_id: home-assistant/iOS
+  #   docs_url: https://companion.home-assistant.io
+  #   category: core
+  #   subtitle: ':iphone: Home Assistant for Apple platforms'
+  # - name: basnijholt home-assistant-config
+  #   github_id: basnijholt/home-assistant-config
+  #   docs_url: https://github.com/basnijholt/home-assistant-config
+  #   category: configurations
+  #   subtitle: 'Home Assistant config files, rewritten to use the latest features, 100+ documented automations, automatically generated ToC :house: :robot:'
+  # - name: intents
+  #   github_id: home-assistant/intents
+  #   docs_url: https://developers.home-assistant.io/docs/voice/overview/
+  #   category: core
+  #   subtitle: Intents to be used with Home Assistant
+  # - name: JamesMcCarthy79 Home-Assistant-Config
+  #   github_id: JamesMcCarthy79/Home-Assistant-Config
+  #   docs_url: https://github.com/JamesMcCarthy79/Home-Assistant-Config
+  #   category: configurations
+  #   subtitle: Home Assistant Configuration & Documentation for my Smart House.
+  # - name: hass-configurator
+  #   github_id: danielperna84/hass-configurator
+  #   docs_url: https://github.com/danielperna84/hass-configurator
+  #   category: community-addons
+  #   subtitle: Configuration UI for Home Assistant
+  # - name: button-card
+  #   github_id: custom-cards/button-card
+  #   docs_url: https://github.com/custom-cards/button-card
+  #   category: custom-cards
+  #   subtitle: ❇️ Lovelace button-card for home assistant
+  # - name: tuya-home-assistant
+  #   github_id: tuya/tuya-home-assistant
+  #   docs_url: https://github.com/tuya/tuya-home-assistant
+  #   category: custom-integrations
+  #   subtitle: Home Assistant integration for controlling Powered by Tuya  (PBT) devices using Tuya Open API, maintained by the Home Assistant Community and Tuya Developer Team.
+  # - name: .homeassistant
+  #   github_id: Yonsm/.homeassistant
+  #   docs_url: https://github.com/Yonsm/.homeassistant
+  #   category: configurations
+  #   subtitle: Home Assistant Extras for Yonsm
+  # - name: hassio-zigbee2mqtt
+  #   github_id: zigbee2mqtt/hassio-zigbee2mqtt
+  #   docs_url: https://www.zigbee2mqtt.io
+  #   category: community-addons
+  #   subtitle: Official Zigbee2MQTT Home Assistant add-on
