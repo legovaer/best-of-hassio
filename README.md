@@ -49,9 +49,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/hacs/integration">HACS</a></b> (🥇34 ·  ⭐ 3.5K) - HACS gives you a powerful UI to handle downloads of all your custom needs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/hacs/integration">HACS</a></b> (🥇33 ·  ⭐ 3.6K · 📉) - HACS gives you a powerful UI to handle downloads of all your custom needs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hacs/integration) (👨‍💻 92 · 🔀 910 · 📥 2.8M · 📦 270 · 📋 1.8K - 0% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/hacs/integration) (👨‍💻 92 · 🔀 910 · 📥 2.8M · 📦 270 · 📋 1.8K - 0% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/hacs/integration
@@ -59,7 +59,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/al-one/hass-xiaomi-miot">Xiaomi Miot Auto</a></b> (🥇28 ·  ⭐ 2.4K) - Automatic integrate all Xiaomi devices to HomeAssistant.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/al-one/hass-xiaomi-miot) (👨‍💻 41 · 🔀 330 · 📥 300K · 📋 1K - 14% open · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/al-one/hass-xiaomi-miot) (👨‍💻 43 · 🔀 330 · 📥 300K · 📋 1K - 15% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/al-one/hass-xiaomi-miot
@@ -67,7 +67,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/UI-Lovelace-Minimalist/UI">UI Lovelace Minimalist</a></b> (🥇28 ·  ⭐ 1.1K) - UI-Lovelace-Minimalist is a theme for HomeAssistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/UI-Lovelace-Minimalist/UI) (👨‍💻 170 · 🔀 360 · 📥 150K · 📋 420 - 28% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/UI-Lovelace-Minimalist/UI) (👨‍💻 170 · 🔀 360 · 📥 150K · 📋 430 - 28% open · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/UI-Lovelace-Minimalist/UI
@@ -75,15 +75,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/alexa_media_player">Alexa Media Player</a></b> (🥇27 ·  ⭐ 1.1K) - This is a custom component to allow control of Amazon.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/alexa_media_player) (👨‍💻 47 · 🔀 230 · 📥 590K · 📋 1.2K - 2% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/custom-components/alexa_media_player) (👨‍💻 47 · 🔀 230 · 📥 590K · 📋 1.2K - 2% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/custom-components/alexa_media_player
 	```
 </details>
-<details><summary><b><a href="https://github.com/bramstroker/homeassistant-powercalc">Powercalc</a></b> (🥇27 ·  ⭐ 650) - Custom component to calculate estimated power consumption of lights and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bramstroker/homeassistant-powercalc">Powercalc</a></b> (🥇27 ·  ⭐ 660) - Custom component to calculate estimated power consumption of lights and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bramstroker/homeassistant-powercalc) (👨‍💻 140 · 🔀 170 · 📥 160K · 📋 560 - 1% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/bramstroker/homeassistant-powercalc) (👨‍💻 140 · 🔀 170 · 📥 150K · 📋 560 - 1% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/bramstroker/homeassistant-powercalc
@@ -91,15 +91,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/ble_monitor">Passive BLE monitor integration</a></b> (🥇24 ·  ⭐ 1.6K) - BLE monitor passively monitors BLE sensors (Xiaomi,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/ble_monitor) (👨‍💻 51 · 🔀 220 · 📋 770 - 6% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/custom-components/ble_monitor) (👨‍💻 51 · 🔀 220 · 📋 780 - 6% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/custom-components/ble_monitor
 	```
 </details>
-<details><summary><b><a href="https://github.com/mampfes/hacs_waste_collection_schedule">Waste Collection Schedule</a></b> (🥇24 ·  ⭐ 400) - Home Assistant integration framework for (garbage.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mampfes/hacs_waste_collection_schedule">Waste Collection Schedule</a></b> (🥇24 ·  ⭐ 410) - Home Assistant integration framework for (garbage.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mampfes/hacs_waste_collection_schedule) (👨‍💻 230 · 🔀 300 · 📋 350 - 7% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/mampfes/hacs_waste_collection_schedule) (👨‍💻 230 · 🔀 300 · 📋 360 - 5% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/mampfes/hacs_waste_collection_schedule
@@ -107,13 +107,13 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/AlexxIT/SonoffLAN">Sonoff LAN</a></b> (🥇23 ·  ⭐ 2.1K) - Control Sonoff Devices with eWeLink (original) firmware over LAN.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/AlexxIT/SonoffLAN) (👨‍💻 37 · 🔀 350 · 📋 950 - 4% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/AlexxIT/SonoffLAN) (👨‍💻 37 · 🔀 360 · 📋 960 - 5% open · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/AlexxIT/SonoffLAN
 	```
 </details>
-<details><summary><b><a href="https://github.com/StyraHem/ShellyForHASS">ShellyForHass (Shelly integration)</a></b> (🥇23 ·  ⭐ 580 · 📈) - Shelly smart home platform for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/StyraHem/ShellyForHASS">ShellyForHass (Shelly integration)</a></b> (🥇23 ·  ⭐ 580) - Shelly smart home platform for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/StyraHem/ShellyForHASS) (👨‍💻 27 · 🔀 110 · 📥 140K · 📋 640 - 25% open · ⏱️ 19.04.2023):
 
@@ -123,7 +123,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/alandtse/tesla">Tesla</a></b> (🥇23 ·  ⭐ 290) - Tesla custom integration for Home Assistant. This requires a refresh.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alandtse/tesla) (👨‍💻 36 · 🔀 58 · 📥 94K · 📋 280 - 18% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/alandtse/tesla) (👨‍💻 36 · 🔀 58 · 📥 97K · 📋 280 - 18% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/alandtse/tesla
@@ -131,7 +131,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/AlexxIT/XiaomiGateway3">Xiaomi Gateway 3</a></b> (🥇22 ·  ⭐ 1.9K) - Control Zigbee, BLE and Mesh devices from Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/AlexxIT/XiaomiGateway3) (👨‍💻 60 · 🔀 280 · 📋 800 - 5% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/AlexxIT/XiaomiGateway3) (👨‍💻 60 · 🔀 280 · 📋 800 - 6% open · ⏱️ 15.04.2023):
 
 	```
 	git clone https://github.com/AlexxIT/XiaomiGateway3
@@ -139,15 +139,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/rospogrigio/localtuya">Local Tuya</a></b> (🥇21 ·  ⭐ 1.8K) - local handling for Tuya devices. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/rospogrigio/localtuya) (👨‍💻 43 · 🔀 420 · 📋 1K - 74% open · ⏱️ 07.02.2023):
+- [GitHub](https://github.com/rospogrigio/localtuya) (👨‍💻 43 · 🔀 420 · 📋 1.1K - 75% open · ⏱️ 07.02.2023):
 
 	```
 	git clone https://github.com/rospogrigio/localtuya
 	```
 </details>
-<details><summary><b><a href="https://github.com/nielsfaber/alarmo">Alarmo</a></b> (🥇21 ·  ⭐ 770) - Easy to use alarm system integration for Home Assistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/nielsfaber/alarmo">Alarmo</a></b> (🥇21 ·  ⭐ 780) - Easy to use alarm system integration for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/nielsfaber/alarmo) (👨‍💻 37 · 🔀 93 · 📥 140K · 📋 590 - 4% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/nielsfaber/alarmo) (👨‍💻 37 · 🔀 94 · 📥 150K · 📋 600 - 3% open · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/nielsfaber/alarmo
@@ -155,15 +155,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/pyscript">pyscript</a></b> (🥇21 ·  ⭐ 610) - Pyscript adds rich Python scripting to HASS. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/pyscript) (👨‍💻 13 · 🔀 33 · 📥 37K · 📋 230 - 19% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/custom-components/pyscript) (👨‍💻 13 · 🔀 33 · 📥 38K · 📋 230 - 19% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/custom-components/pyscript
 	```
 </details>
-<details><summary><b><a href="https://github.com/music-assistant/hass-music-assistant">Music Assistant</a></b> (🥇21 ·  ⭐ 570) - Turn your Home Assistant instance into a jukebox, hassle.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/music-assistant/hass-music-assistant">Music Assistant</a></b> (🥇21 ·  ⭐ 580) - Turn your Home Assistant instance into a jukebox, hassle.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/music-assistant/hass-music-assistant) (👨‍💻 16 · 🔀 24 · 📥 83K · 📋 580 - 5% open · ⏱️ 16.03.2023):
+- [GitHub](https://github.com/music-assistant/hass-music-assistant) (👨‍💻 16 · 🔀 24 · 📥 83K · 📋 590 - 4% open · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/music-assistant/hass-music-assistant
@@ -171,7 +171,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/moralmunky/Home-Assistant-Mail-And-Packages">Mail and Packages</a></b> (🥇21 ·  ⭐ 430 · 💤) - Home Assistant integration providing day of package.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) (👨‍💻 15 · 🔀 52 · 📥 47K · 📋 320 - 1% open · ⏱️ 01.06.2022):
+- [GitHub](https://github.com/moralmunky/Home-Assistant-Mail-And-Packages) (👨‍💻 15 · 🔀 54 · 📥 47K · 📋 320 - 1% open · ⏱️ 01.06.2022):
 
 	```
 	git clone https://github.com/moralmunky/Home-Assistant-Mail-And-Packages
@@ -179,7 +179,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/bruxy70/Garbage-Collection">Garbage Collection</a></b> (🥇21 ·  ⭐ 350) - Custom Home Assistant sensor for scheduling garbage.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bruxy70/Garbage-Collection) (👨‍💻 26 · 🔀 67 · 📥 170K · 📋 320 - 1% open · ⏱️ 03.03.2023):
+- [GitHub](https://github.com/bruxy70/Garbage-Collection) (👨‍💻 26 · 🔀 68 · 📥 170K · 📋 320 - 1% open · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/bruxy70/Garbage-Collection
@@ -187,7 +187,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/basnijholt/adaptive-lighting">Adaptive Lighting</a></b> (🥇20 ·  ⭐ 930) - Adaptive Lighting custom component for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/basnijholt/adaptive-lighting) (👨‍💻 49 · 🔀 83 · 📋 320 - 17% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/basnijholt/adaptive-lighting) (👨‍💻 49 · 🔀 83 · 📋 320 - 17% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/basnijholt/adaptive-lighting
@@ -195,15 +195,23 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ollo69/ha-smartthinq-sensors">SmartThinQ LGE Sensors</a></b> (🥇20 ·  ⭐ 680) - HomeAssistant custom integration for SmartThinQ LG.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ollo69/ha-smartthinq-sensors) (👨‍💻 32 · 🔀 120 · 📋 410 - 9% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/ollo69/ha-smartthinq-sensors) (👨‍💻 32 · 🔀 120 · 📋 410 - 10% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/ollo69/ha-smartthinq-sensors
 	```
 </details>
-<details><summary><b><a href="https://github.com/StephanJoubert/home_assistant_solarman">Solarman Integration</a></b> (🥇20 ·  ⭐ 270) - Home Assistant component for Solarman collectors used.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/blakeblackshear/frigate-hass-integration">Frigate</a></b> (🥇20 ·  ⭐ 390) - Frigate integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/StephanJoubert/home_assistant_solarman) (👨‍💻 25 · 🔀 110 · 📋 160 - 68% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) (👨‍💻 25 · 🔀 68 · 📋 240 - 13% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/blakeblackshear/frigate-hass-integration
+	```
+</details>
+<details><summary><b><a href="https://github.com/StephanJoubert/home_assistant_solarman">Solarman Integration</a></b> (🥇20 ·  ⭐ 280) - Home Assistant component for Solarman collectors used.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/StephanJoubert/home_assistant_solarman) (👨‍💻 25 · 🔀 110 · 📋 160 - 67% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/StephanJoubert/home_assistant_solarman
@@ -211,87 +219,63 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/robinostlund/homeassistant-volkswagencarnet">Volkswagen We Connect</a></b> (🥇20 ·  ⭐ 210) - Volkswagen Carnet Component for home assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/robinostlund/homeassistant-volkswagencarnet) (👨‍💻 21 · 🔀 45 · 📥 28K · 📋 220 - 15% open · ⏱️ 19.01.2023):
+- [GitHub](https://github.com/robinostlund/homeassistant-volkswagencarnet) (👨‍💻 21 · 🔀 45 · 📥 28K · 📋 230 - 15% open · ⏱️ 19.01.2023):
 
 	```
 	git clone https://github.com/robinostlund/homeassistant-volkswagencarnet
 	```
 </details>
-<details><summary><b><a href="https://github.com/asantaga/wiserHomeAssistantPlatform">Drayton Wiser Integration for Home Assistant</a></b> (🥇20 ·  ⭐ 170) - Platform and related climate/sensors to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MTrab/landroid_cloud">Landroid Cloud</a></b> (🥇20 ·  ⭐ 180) - Landroid Cloud component for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/asantaga/wiserHomeAssistantPlatform) (👨‍💻 13 · 🔀 31 · 📥 5.6K · 📋 260 - 0% open · ⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/asantaga/wiserHomeAssistantPlatform
-	```
-</details>
-<details><summary><b><a href="https://github.com/MTrab/landroid_cloud">Landroid Cloud</a></b> (🥇20 ·  ⭐ 170 · 📈) - Landroid Cloud component for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/MTrab/landroid_cloud) (👨‍💻 14 · 🔀 21 · 📥 21K · 📋 190 - 4% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/MTrab/landroid_cloud) (👨‍💻 15 · 🔀 21 · 📥 22K · 📋 200 - 3% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/MTrab/landroid_cloud
 	```
 </details>
+<details><summary><b><a href="https://github.com/asantaga/wiserHomeAssistantPlatform">Drayton Wiser Integration for Home Assistant</a></b> (🥇20 ·  ⭐ 170) - Platform and related climate/sensors to support the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/asantaga/wiserHomeAssistantPlatform) (👨‍💻 13 · 🔀 31 · 📥 6.1K · 📋 260 - 0% open · ⏱️ 24.04.2023):
+
+	```
+	git clone https://github.com/asantaga/wiserHomeAssistantPlatform
+	```
+</details>
 <details><summary><b><a href="https://github.com/Thomas55555/husqvarna_automower">Husqvarna Automower</a></b> (🥇20 ·  ⭐ 61) - Custom component for Home Assistant to monitor and control.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Thomas55555/husqvarna_automower) (👨‍💻 21 · 🔀 21 · 📥 19K · 📋 100 - 4% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/Thomas55555/husqvarna_automower) (👨‍💻 22 · 🔀 21 · 📥 20K · 📋 110 - 5% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/Thomas55555/husqvarna_automower
 	```
 </details>
-<details><summary><b><a href="https://github.com/dwainscheeren/dwains-lovelace-dashboard">Dwains Dashboard</a></b> (🥇19 ·  ⭐ 1.3K) - An fully auto generating Home Assistant UI dashboard.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/dwainscheeren/dwains-lovelace-dashboard) (👨‍💻 26 · 🔀 160 · 📋 550 - 19% open · ⏱️ 18.03.2023):
-
-	```
-	git clone https://github.com/dwainscheeren/dwains-lovelace-dashboard
-	```
-</details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor">Xiaomi Cloud Map Extractor</a></b> (🥇19 ·  ⭐ 920) - This custom integration provides a way to present a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) (👨‍💻 14 · 🔀 97 · 📥 99K · 📋 290 - 16% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor) (👨‍💻 14 · 🔀 97 · 📥 99K · 📋 300 - 17% open · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor
 	```
 </details>
-<details><summary><b><a href="https://github.com/fondberg/spotcast">Spotcast</a></b> (🥇19 ·  ⭐ 510) - Home assistant custom component to start Spotify playback on an idle.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/fondberg/spotcast) (👨‍💻 48 · 🔀 73 · 📋 260 - 7% open · ⏱️ 19.03.2023):
-
-	```
-	git clone https://github.com/fondberg/spotcast
-	```
-</details>
 <details><summary><b><a href="https://github.com/JurajNyiri/HomeAssistant-Tapo-Control">Tapo: Cameras Control</a></b> (🥇19 ·  ⭐ 500) - Control for Tapo cameras as a Home Assistant component. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) (👨‍💻 15 · 🔀 58 · 📋 260 - 5% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/JurajNyiri/HomeAssistant-Tapo-Control) (👨‍💻 17 · 🔀 59 · 📋 260 - 6% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/JurajNyiri/HomeAssistant-Tapo-Control
 	```
 </details>
-<details><summary><b><a href="https://github.com/KartoffelToby/better_thermostat">Better Thermostat</a></b> (🥇19 ·  ⭐ 410) - This custom component for Home Assistant will add.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/KartoffelToby/better_thermostat">Better Thermostat</a></b> (🥇19 ·  ⭐ 420) - This custom component for Home Assistant will add.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/KartoffelToby/better_thermostat) (👨‍💻 28 · 🔀 74 · 📋 520 - 19% open · ⏱️ 22.03.2023):
+- [GitHub](https://github.com/KartoffelToby/better_thermostat) (👨‍💻 28 · 🔀 76 · 📋 520 - 19% open · ⏱️ 22.03.2023):
 
 	```
 	git clone https://github.com/KartoffelToby/better_thermostat
 	```
 </details>
-<details><summary><b><a href="https://github.com/blakeblackshear/frigate-hass-integration">Frigate</a></b> (🥇19 ·  ⭐ 390) - Frigate integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/blakeblackshear/frigate-hass-integration) (👨‍💻 23 · 🔀 67 · 📋 240 - 15% open · ⏱️ 13.04.2023):
-
-	```
-	git clone https://github.com/blakeblackshear/frigate-hass-integration
-	```
-</details>
 <details><summary><b><a href="https://github.com/Hyundai-Kia-Connect/kia_uvo">Kia Uvo / Hyundai Bluelink</a></b> (🥇19 ·  ⭐ 230) - A Home Assistant HACS integration that supports Kia.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Hyundai-Kia-Connect/kia_uvo) (👨‍💻 23 · 🔀 47 · 📋 350 - 8% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/Hyundai-Kia-Connect/kia_uvo) (👨‍💻 23 · 🔀 48 · 📋 350 - 9% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/Hyundai-Kia-Connect/kia_uvo
@@ -307,10 +291,26 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer">pippyn/Home-Assistant-Sensor-Afvalbeheer</a></b> (🥇19 ·  ⭐ 200) - Provides Home Assistant sensors for multiple Dutch.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer) (👨‍💻 37 · 🔀 69 · 📋 330 - 5% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer) (👨‍💻 37 · 🔀 69 · 📋 330 - 3% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/pippyn/Home-Assistant-Sensor-Afvalbeheer
+	```
+</details>
+<details><summary><b><a href="https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy">Octopus Energy</a></b> (🥇19 ·  ⭐ 190) - Home Assistant integration for interacting with Octopus Energy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) (👨‍💻 5 · 🔀 21 · 📋 140 - 8% open · ⏱️ 18.04.2023):
+
+	```
+	git clone https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
+	```
+</details>
+<details><summary><b><a href="https://github.com/FutureTense/keymaster">keymaster</a></b> (🥇19 ·  ⭐ 170) - Home Assistant integration for managing Z-Wave enabled locks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/FutureTense/keymaster) (👨‍💻 15 · 🔀 35 · 📥 32K · 📋 170 - 10% open · ⏱️ 28.01.2023):
+
+	```
+	git clone https://github.com/FutureTense/keymaster
 	```
 </details>
 <details><summary><b><a href="https://github.com/pinkywafer/Anniversaries">Anniversaries</a></b> (🥇19 ·  ⭐ 130) - Anniversary Countdown Sensor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -321,17 +321,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/pinkywafer/Anniversaries
 	```
 </details>
-<details><summary><b><a href="https://github.com/lbbrhzn/ocpp">Open Charge Point Protocol (OCPP)</a></b> (🥇19 ·  ⭐ 120) - Home Assistant integration for electric vehicle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/RogerSelwyn/O365-HomeAssistant">Office 365 Integration</a></b> (🥇19 ·  ⭐ 88) - Office 365 integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/lbbrhzn/ocpp) (👨‍💻 23 · 🔀 35 · 📥 5K · 📋 130 - 5% open · ⏱️ 31.01.2023):
-
-	```
-	git clone https://github.com/lbbrhzn/ocpp
-	```
-</details>
-<details><summary><b><a href="https://github.com/RogerSelwyn/O365-HomeAssistant">Office 365 Integration</a></b> (🥇19 ·  ⭐ 85) - Office 365 integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/RogerSelwyn/O365-HomeAssistant) (👨‍💻 11 · 🔀 7 · 📥 25K · 📋 89 - 2% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/RogerSelwyn/O365-HomeAssistant) (👨‍💻 11 · 🔀 7 · 📥 26K · 📋 90 - 1% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/RogerSelwyn/O365-HomeAssistant
@@ -339,10 +331,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ha0y/xiaomi_miot_raw">Xiaomi MIoT</a></b> (🥇18 ·  ⭐ 2K · 💤) - All-in-one & Easy-to-use. Integrate all your Xiaomi Smart.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ha0y/xiaomi_miot_raw) (👨‍💻 11 · 🔀 210 · 📋 460 - 50% open · ⏱️ 09.04.2022):
+- [GitHub](https://github.com/ha0y/xiaomi_miot_raw) (👨‍💻 11 · 🔀 210 · 📋 470 - 50% open · ⏱️ 09.04.2022):
 
 	```
 	git clone https://github.com/ha0y/xiaomi_miot_raw
+	```
+</details>
+<details><summary><b><a href="https://github.com/dwainscheeren/dwains-lovelace-dashboard">Dwains Dashboard</a></b> (🥇18 ·  ⭐ 1.4K · 📉) - An fully auto generating Home Assistant UI dashboard.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/dwainscheeren/dwains-lovelace-dashboard) (👨‍💻 26 · 🔀 160 · 📋 550 - 19% open · ⏱️ 18.03.2023):
+
+	```
+	git clone https://github.com/dwainscheeren/dwains-lovelace-dashboard
 	```
 </details>
 <details><summary><b><a href="https://github.com/dext0r/yandex_smart_home">Yandex Smart Home</a></b> (🥇18 ·  ⭐ 610) - Adds support for Yandex Smart Home (Alice voice.. <code>❗Unlicensed</code></summary>
@@ -353,9 +353,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/dext0r/yandex_smart_home
 	```
 </details>
+<details><summary><b><a href="https://github.com/fondberg/spotcast">Spotcast</a></b> (🥇18 ·  ⭐ 510) - Home assistant custom component to start Spotify playback on an idle.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/fondberg/spotcast) (👨‍💻 48 · 🔀 73 · 📋 260 - 7% open · ⏱️ 19.03.2023):
+
+	```
+	git clone https://github.com/fondberg/spotcast
+	```
+</details>
 <details><summary><b><a href="https://github.com/petretiandrea/home-assistant-tapo-p100">Tapo Controller</a></b> (🥇18 ·  ⭐ 360) - A custom integration to control Tapo devices from home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/petretiandrea/home-assistant-tapo-p100) (👨‍💻 20 · 🔀 67 · 📋 180 - 12% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/petretiandrea/home-assistant-tapo-p100) (👨‍💻 20 · 🔀 67 · 📋 190 - 12% open · ⏱️ 01.03.2023):
 
 	```
 	git clone https://github.com/petretiandrea/home-assistant-tapo-p100
@@ -371,21 +379,21 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/twrecked/hass-aarlo">Arlo Camera Support</a></b> (🥇18 ·  ⭐ 300) - Asynchronous Arlo Component for Home Assistant. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/twrecked/hass-aarlo) (👨‍💻 27 · 🔀 71 · 📋 460 - 45% open · ⏱️ 19.02.2023):
+- [GitHub](https://github.com/twrecked/hass-aarlo) (👨‍💻 27 · 🔀 71 · 📋 470 - 45% open · ⏱️ 19.02.2023):
 
 	```
 	git clone https://github.com/twrecked/hass-aarlo
 	```
 </details>
-<details><summary><b><a href="https://github.com/ollo69/ha-samsungtv-smart">SamsungTV Smart</a></b> (🥇18 ·  ⭐ 280) - Home Assistant SamsungTV Smart Component with simplified.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/ollo69/ha-samsungtv-smart">SamsungTV Smart</a></b> (🥇18 ·  ⭐ 290) - Home Assistant SamsungTV Smart Component with simplified.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ollo69/ha-samsungtv-smart) (👨‍💻 11 · 🔀 46 · 📋 220 - 8% open · ⏱️ 26.03.2023):
+- [GitHub](https://github.com/ollo69/ha-samsungtv-smart) (👨‍💻 11 · 🔀 46 · 📋 220 - 8% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/ollo69/ha-samsungtv-smart
 	```
 </details>
-<details><summary><b><a href="https://github.com/wlcrs/huawei_solar">Huawei Solar</a></b> (🥇18 ·  ⭐ 230) - Home Assistant integration for Huawei Solar inverters via.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/wlcrs/huawei_solar">Huawei Solar</a></b> (🥇18 ·  ⭐ 240) - Home Assistant integration for Huawei Solar inverters via.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/wlcrs/huawei_solar) (👨‍💻 11 · 🔀 45 · 📋 210 - 2% open · ⏱️ 06.04.2023):
 
@@ -395,7 +403,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/jcwillox/hass-auto-backup">Auto Backup</a></b> (🥇18 ·  ⭐ 200) - :card file box: Improved Backup Service for Home Assistant that can.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jcwillox/hass-auto-backup) (👨‍💻 7 · 🔀 18 · 📥 85K · 📋 85 - 20% open · ⏱️ 09.04.2023):
+- [GitHub](https://github.com/jcwillox/hass-auto-backup) (👨‍💻 7 · 🔀 17 · 📥 86K · 📋 86 - 20% open · ⏱️ 09.04.2023):
 
 	```
 	git clone https://github.com/jcwillox/hass-auto-backup
@@ -403,7 +411,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/rgc99/irrigation_unlimited">Irrigation Unlimited</a></b> (🥇18 ·  ⭐ 190) - Irrigation controller for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rgc99/irrigation_unlimited) (👨‍💻 7 · 🔀 35 · 📋 96 - 20% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/rgc99/irrigation_unlimited) (👨‍💻 7 · 🔀 36 · 📋 96 - 20% open · ⏱️ 16.04.2023):
 
 	```
 	git clone https://github.com/rgc99/irrigation_unlimited
@@ -417,25 +425,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tomaae/homeassistant-mikrotik_router
 	```
 </details>
-<details><summary><b><a href="https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy">Octopus Energy</a></b> (🥇18 ·  ⭐ 180) - Home Assistant integration for interacting with Octopus Energy. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy) (👨‍💻 5 · 🔀 20 · 📋 140 - 6% open · ⏱️ 18.04.2023):
-
-	```
-	git clone https://github.com/BottlecapDave/HomeAssistant-OctopusEnergy
-	```
-</details>
-<details><summary><b><a href="https://github.com/FutureTense/keymaster">keymaster</a></b> (🥇18 ·  ⭐ 170) - Home Assistant integration for managing Z-Wave enabled locks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/FutureTense/keymaster) (👨‍💻 15 · 🔀 35 · 📥 32K · 📋 170 - 28% open · ⏱️ 28.01.2023):
-
-	```
-	git clone https://github.com/FutureTense/keymaster
-	```
-</details>
 <details><summary><b><a href="https://github.com/ekutner/home-connect-hass">Home Connect Alt</a></b> (🥇18 ·  ⭐ 160) - Alternative (and improved) Home Connect integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ekutner/home-connect-hass) (👨‍💻 19 · 🔀 28 · 📋 110 - 4% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/ekutner/home-connect-hass) (👨‍💻 19 · 🔀 28 · 📋 120 - 5% open · ⏱️ 08.04.2023):
 
 	```
 	git clone https://github.com/ekutner/home-connect-hass
@@ -443,10 +435,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/fondberg/easee_hass">Easee EV Charger</a></b> (🥇18 ·  ⭐ 150) - Custom component for Easee EV charger. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fondberg/easee_hass) (👨‍💻 12 · 🔀 22 · 📥 16K · 📋 140 - 25% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/fondberg/easee_hass) (👨‍💻 13 · 🔀 22 · 📥 17K · 📋 140 - 23% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/fondberg/easee_hass
+	```
+</details>
+<details><summary><b><a href="https://github.com/lbbrhzn/ocpp">Open Charge Point Protocol (OCPP)</a></b> (🥇18 ·  ⭐ 120) - Home Assistant integration for electric vehicle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/lbbrhzn/ocpp) (👨‍💻 23 · 🔀 35 · 📥 5.1K · 📋 130 - 6% open · ⏱️ 31.01.2023):
+
+	```
+	git clone https://github.com/lbbrhzn/ocpp
 	```
 </details>
 <details><summary><b><a href="https://github.com/custom-components/grocy">Grocy custom component</a></b> (🥇18 ·  ⭐ 100) - Custom Grocy integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -457,7 +457,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/custom-components/grocy
 	```
 </details>
-<details><summary><b><a href="https://github.com/MTrab/energidataservice">Energi Data Service</a></b> (🥇18 ·  ⭐ 96) - Fetches spot prices from Energi Data Service. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/MTrab/energidataservice">Energi Data Service</a></b> (🥇18 ·  ⭐ 97) - Fetches spot prices from Energi Data Service. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/MTrab/energidataservice) (👨‍💻 5 · 🔀 18 · 📥 21K · 📋 120 - 7% open · ⏱️ 10.04.2023):
 
@@ -465,17 +465,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/MTrab/energidataservice
 	```
 </details>
-<details><summary><b><a href="https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer">SkyQ</a></b> (🥇18 ·  ⭐ 80) - Home Assistant SkyQ Media player component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer">SkyQ</a></b> (🥇18 ·  ⭐ 81) - Home Assistant SkyQ Media player component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer) (👨‍💻 9 · 🔀 16 · 📥 41K · ⏱️ 01.04.2023):
+- [GitHub](https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer) (👨‍💻 9 · 🔀 17 · 📥 42K · ⏱️ 01.04.2023):
 
 	```
 	git clone https://github.com/RogerSelwyn/Home_Assistant_SkyQ_MediaPlayer
 	```
 </details>
-<details><summary><b><a href="https://github.com/astrandb/miele">Miele</a></b> (🥇18 ·  ⭐ 71) - A modern integration for Miele devices in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/astrandb/miele">Miele</a></b> (🥇18 ·  ⭐ 75) - A modern integration for Miele devices in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/astrandb/miele) (👨‍💻 11 · 🔀 18 · 📥 13K · 📋 85 - 5% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/astrandb/miele) (👨‍💻 11 · 🔀 19 · 📥 13K · 📋 86 - 6% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/astrandb/miele
@@ -483,15 +483,23 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/mdeweerd/zha-toolkit">:toolbox: ZHA Toolkit - Service for advanced Zigbee Usage</a></b> (🥇18 ·  ⭐ 71) - Zigbee Home Assistant Toolkit - service for rare.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/mdeweerd/zha-toolkit) (👨‍💻 10 · 🔀 7 · 📥 51K · 📋 48 - 8% open · ⏱️ 02.03.2023):
+- [GitHub](https://github.com/mdeweerd/zha-toolkit) (👨‍💻 10 · 🔀 7 · 📥 53K · 📋 49 - 8% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/mdeweerd/zha-toolkit
 	```
 </details>
-<details><summary><b><a href="https://github.com/thomasloven/hass-browser_mod">browser_mod</a></b> (🥇17 ·  ⭐ 940) - :small blue diamond: A Home Assistant integration to turn your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tomaae/homeassistant-openmediavault">OpenMediaVault</a></b> (🥇18 ·  ⭐ 65 · 📈) - OpenMediaVault integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/hass-browser_mod) (👨‍💻 18 · 🔀 140 · 📋 520 - 13% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/tomaae/homeassistant-openmediavault) (👨‍💻 8 · 🔀 12 · 📥 16K · 📋 89 - 2% open · ⏱️ 27.04.2023):
+
+	```
+	git clone https://github.com/tomaae/homeassistant-openmediavault
+	```
+</details>
+<details><summary><b><a href="https://github.com/thomasloven/hass-browser_mod">browser_mod</a></b> (🥇17 ·  ⭐ 950) - :small blue diamond: A Home Assistant integration to turn your.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/thomasloven/hass-browser_mod) (👨‍💻 18 · 🔀 140 · 📋 520 - 12% open · ⏱️ 08.04.2023):
 
 	```
 	git clone https://github.com/thomasloven/hass-browser_mod
@@ -499,15 +507,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/AlexxIT/YandexStation">Yandex.Station</a></b> (🥇17 ·  ⭐ 940) - . Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/AlexxIT/YandexStation) (👨‍💻 16 · 🔀 98 · 📋 310 - 12% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/AlexxIT/YandexStation) (👨‍💻 16 · 🔀 99 · 📋 310 - 12% open · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/AlexxIT/YandexStation
 	```
 </details>
-<details><summary><b><a href="https://github.com/AlexxIT/WebRTC">WebRTC Camera</a></b> (🥇17 ·  ⭐ 860) - Home Assistant custom component for viewing almost any.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/AlexxIT/WebRTC">WebRTC Camera</a></b> (🥇17 ·  ⭐ 870) - Home Assistant custom component for viewing almost any.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/AlexxIT/WebRTC) (👨‍💻 36 · 🔀 110 · 📋 420 - 17% open · ⏱️ 25.03.2023):
+- [GitHub](https://github.com/AlexxIT/WebRTC) (👨‍💻 36 · 🔀 110 · 📋 430 - 18% open · ⏱️ 25.03.2023):
 
 	```
 	git clone https://github.com/AlexxIT/WebRTC
@@ -523,7 +531,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/fuatakgun/eufy_security">Eufy Security</a></b> (🥇17 ·  ⭐ 520) - Home Assistant integration to manage Eufy Security.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fuatakgun/eufy_security) (👨‍💻 23 · 🔀 60 · 📋 600 - 8% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/fuatakgun/eufy_security) (👨‍💻 23 · 🔀 60 · 📋 600 - 8% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/fuatakgun/eufy_security
@@ -539,23 +547,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/gcobb321/icloud3">gcobb321/icloud3</a></b> (🥇17 ·  ⭐ 350) - iCloud3, Version 2 - An advanced device tracker custom.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/gcobb321/icloud3) (👨‍💻 6 · 🔀 44 · 📥 18K · 📋 250 - 6% open · ⏱️ 23.02.2023):
+- [GitHub](https://github.com/gcobb321/icloud3) (👨‍💻 6 · 🔀 44 · 📥 18K · 📋 250 - 8% open · ⏱️ 23.02.2023):
 
 	```
 	git clone https://github.com/gcobb321/icloud3
 	```
 </details>
-<details><summary><b><a href="https://github.com/dolezsa/thermal_comfort">Thermal Comfort</a></b> (🥇17 ·  ⭐ 340) - Thermal Comfort sensor for HA (absolute humidity, heat.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/dolezsa/thermal_comfort) (👨‍💻 29 · 🔀 58 · 📥 360 · 📋 98 - 14% open · ⏱️ 02.03.2023):
-
-	```
-	git clone https://github.com/dolezsa/thermal_comfort
-	```
-</details>
 <details><summary><b><a href="https://github.com/zachowj/hass-node-red">Node-RED Companion</a></b> (🥇17 ·  ⭐ 340) - Companion Component for node-red-contrib-home-assistant-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zachowj/hass-node-red) (👨‍💻 16 · 🔀 170 · 📋 100 - 2% open · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/zachowj/hass-node-red) (👨‍💻 16 · 🔀 170 · 📋 100 - 1% open · ⏱️ 07.04.2023):
 
 	```
 	git clone https://github.com/zachowj/hass-node-red
@@ -563,7 +563,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/HandyHat/ha-hildebrandglow-dcc">Hildebrand Glow (DCC)</a></b> (🥇17 ·  ⭐ 180) - Home Assistant integration for UK SMETS (Smart) meters.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/HandyHat/ha-hildebrandglow-dcc) (👨‍💻 10 · 🔀 22 · 📋 86 - 10% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/HandyHat/ha-hildebrandglow-dcc) (👨‍💻 10 · 🔀 22 · 📋 89 - 13% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/HandyHat/ha-hildebrandglow-dcc
@@ -571,7 +571,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/bosch-thermostat/home-assistant-bosch-custom-component">Bosch thermostat</a></b> (🥇17 ·  ⭐ 140) - HA custom component for Bosch thermostats. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bosch-thermostat/home-assistant-bosch-custom-component) (👨‍💻 4 · 🔀 28 · 📋 280 - 4% open · ⏱️ 03.04.2023):
+- [GitHub](https://github.com/bosch-thermostat/home-assistant-bosch-custom-component) (👨‍💻 4 · 🔀 28 · 📋 280 - 5% open · ⏱️ 03.04.2023):
 
 	```
 	git clone https://github.com/bosch-thermostat/home-assistant-bosch-custom-component
@@ -579,7 +579,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/xirixiz/homeassistant-afvalwijzer">Afvalwijzer</a></b> (🥇17 ·  ⭐ 130) - Provides sensors for some Dutch waste collectors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/xirixiz/homeassistant-afvalwijzer) (👨‍💻 24 · 🔀 56 · 📋 190 - 1% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/xirixiz/homeassistant-afvalwijzer) (👨‍💻 24 · 🔀 58 · 📋 190 - 1% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/xirixiz/homeassistant-afvalwijzer
@@ -595,39 +595,31 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/DeebotUniverse/Deebot-4-Home-Assistant">Deebot 4 Home Assistant</a></b> (🥇17 ·  ⭐ 120) - Home Assistant integration for deebot vacuums. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/DeebotUniverse/Deebot-4-Home-Assistant) (👨‍💻 13 · 🔀 18 · 📥 30K · 📋 110 - 15% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/DeebotUniverse/Deebot-4-Home-Assistant) (👨‍💻 13 · 🔀 18 · 📥 30K · 📋 110 - 14% open · ⏱️ 16.04.2023):
 
 	```
 	git clone https://github.com/DeebotUniverse/Deebot-4-Home-Assistant
 	```
 </details>
-<details><summary><b><a href="https://github.com/frenck/spook">Spook :ghost: Not your homie</a></b> (🥇17 ·  ⭐ 110 · 🐣) - Spook Not your homie. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/frenck/spook">Spook :ghost: Not your homie</a></b> (🥇17 ·  ⭐ 120 · 🐣) - Spook Not your homie. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/frenck/spook) (👨‍💻 9 · 🔀 12 · 📥 4K · 📋 24 - 12% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/frenck/spook) (👨‍💻 9 · 🔀 12 · 📥 4.1K · 📋 25 - 12% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/frenck/spook
 	```
 </details>
-<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus">Tauron AMIplus</a></b> (🥇17 ·  ⭐ 90) - This sensor uses unofficial API to get energy usage and generation.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus) (👨‍💻 8 · 🔀 25 · 📥 8.6K · 📋 84 - 3% open · ⏱️ 01.03.2023):
-
-	```
-	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus
-	```
-</details>
 <details><summary><b><a href="https://github.com/elden1337/hass-peaq">Peaqev ev-Charging</a></b> (🥇17 ·  ⭐ 39) - Home Assistant custom component to help ev-chargers.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/elden1337/hass-peaq) (👨‍💻 5 · 🔀 5 · 📥 1.3K · 📋 200 - 13% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/elden1337/hass-peaq) (👨‍💻 5 · 🔀 5 · 📥 1.3K · 📋 210 - 8% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/elden1337/hass-peaq
 	```
 </details>
-<details><summary><b><a href="https://github.com/bruxy70/Holidays">Holidays</a></b> (🥇17 ·  ⭐ 33) - Custom Home Assistant integration for public holidays - also used for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/bruxy70/Holidays">Holidays</a></b> (🥇17 ·  ⭐ 34) - Custom Home Assistant integration for public holidays - also used for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bruxy70/Holidays) (👨‍💻 24 · 🔀 8 · 📥 24K · ⏱️ 03.03.2023):
+- [GitHub](https://github.com/bruxy70/Holidays) (👨‍💻 24 · 🔀 9 · 📥 24K · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/bruxy70/Holidays
@@ -635,21 +627,29 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/nielsfaber/scheduler-component">Scheduler component</a></b> (🥇16 ·  ⭐ 420) - Custom component for HA that enables the creation of.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/nielsfaber/scheduler-component) (👨‍💻 13 · 🔀 34 · 📥 1.3K · 📋 220 - 5% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/nielsfaber/scheduler-component) (👨‍💻 13 · 🔀 33 · 📥 1.3K · 📋 220 - 5% open · ⏱️ 07.03.2023):
 
 	```
 	git clone https://github.com/nielsfaber/scheduler-component
 	```
 </details>
+<details><summary><b><a href="https://github.com/dolezsa/thermal_comfort">Thermal Comfort</a></b> (🥇16 ·  ⭐ 340) - Thermal Comfort sensor for HA (absolute humidity, heat.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/dolezsa/thermal_comfort) (👨‍💻 29 · 🔀 58 · 📥 380 · 📋 98 - 13% open · ⏱️ 02.03.2023):
+
+	```
+	git clone https://github.com/dolezsa/thermal_comfort
+	```
+</details>
 <details><summary><b><a href="https://github.com/mudape/iphonedetect">iPhone Device Tracker</a></b> (🥇16 ·  ⭐ 260) - A custom component for Home Assistant to detect iPhones.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mudape/iphonedetect) (👨‍💻 5 · 🔀 30 · 📥 23K · 📋 78 - 16% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/mudape/iphonedetect) (👨‍💻 5 · 🔀 29 · 📥 23K · 📋 78 - 16% open · ⏱️ 09.03.2023):
 
 	```
 	git clone https://github.com/mudape/iphonedetect
 	```
 </details>
-<details><summary><b><a href="https://github.com/rroller/dahua">Dahua</a></b> (🥇16 ·  ⭐ 240) - Dahua Camera and Doorbell Home Assistant Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rroller/dahua">Dahua</a></b> (🥇16 ·  ⭐ 250) - Dahua Camera and Doorbell Home Assistant Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/rroller/dahua) (👨‍💻 17 · 🔀 47 · 📋 230 - 46% open · ⏱️ 01.12.2022):
 
@@ -657,20 +657,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/rroller/dahua
 	```
 </details>
-<details><summary><b><a href="https://github.com/danobot/entity-controller">Entity Controller</a></b> (🥇16 ·  ⭐ 210) - Entity and lighting controller for managing devices via.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/danobot/entity-controller">Entity Controller</a></b> (🥇16 ·  ⭐ 220) - Entity and lighting controller for managing devices via.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/danobot/entity-controller) (👨‍💻 31 · 🔀 32 · 📦 1 · 📋 190 - 5% open · ⏱️ 08.11.2022):
 
 	```
 	git clone https://github.com/danobot/entity-controller
-	```
-</details>
-<details><summary><b><a href="https://github.com/iMicknl/ha-nest-protect">Nest Protect</a></b> (🥇16 ·  ⭐ 210) - Nest Protect integration for Home Assistant. This will allow you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/iMicknl/ha-nest-protect) (👨‍💻 10 · 🔀 26 · 📋 100 - 30% open · ⏱️ 30.01.2023):
-
-	```
-	git clone https://github.com/iMicknl/ha-nest-protect
 	```
 </details>
 <details><summary><b><a href="https://github.com/jeroenterheerdt/HAsmartirrigation">Smart Irrigation</a></b> (🥇16 ·  ⭐ 210) - Smart Irrigation custom component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -681,9 +673,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/jeroenterheerdt/HAsmartirrigation
 	```
 </details>
+<details><summary><b><a href="https://github.com/iMicknl/ha-nest-protect">Nest Protect</a></b> (🥇16 ·  ⭐ 210) - Nest Protect integration for Home Assistant. This will allow you to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/iMicknl/ha-nest-protect) (👨‍💻 11 · 🔀 28 · 📋 110 - 28% open · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/iMicknl/ha-nest-protect
+	```
+</details>
 <details><summary><b><a href="https://github.com/sebr/bhyve-home-assistant">Orbit BHyve</a></b> (🥇16 ·  ⭐ 190) - Orbit BHyve custom component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/sebr/bhyve-home-assistant) (👨‍💻 11 · 🔀 30 · 📋 110 - 9% open · ⏱️ 24.02.2023):
+- [GitHub](https://github.com/sebr/bhyve-home-assistant) (👨‍💻 11 · 🔀 30 · 📋 110 - 10% open · ⏱️ 24.02.2023):
 
 	```
 	git clone https://github.com/sebr/bhyve-home-assistant
@@ -691,7 +691,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/roleoroleo/yi-hack_ha_integration">yi-hack Home Assistant integration</a></b> (🥇16 ·  ⭐ 160) - Home Assistant custom integration for Yi cameras: yi-.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/roleoroleo/yi-hack_ha_integration) (👨‍💻 11 · 🔀 23 · 📋 110 - 44% open · ⏱️ 21.03.2023):
+- [GitHub](https://github.com/roleoroleo/yi-hack_ha_integration) (👨‍💻 11 · 🔀 24 · 📋 110 - 43% open · ⏱️ 21.03.2023):
 
 	```
 	git clone https://github.com/roleoroleo/yi-hack_ha_integration
@@ -699,7 +699,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/jason0x43/hacs-hubitat">Hubitat</a></b> (🥇16 ·  ⭐ 140) - A Hubitat integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jason0x43/hacs-hubitat) (👨‍💻 15 · 🔀 39 · 📋 180 - 18% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/jason0x43/hacs-hubitat) (👨‍💻 15 · 🔀 40 · 📋 180 - 18% open · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/jason0x43/hacs-hubitat
@@ -707,18 +707,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dckiller51/bodymiscale">Bodymiscale</a></b> (🥇16 ·  ⭐ 140) - Custom_components Body Metrics for Xiaomi Miscale 1 and 2.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dckiller51/bodymiscale) (👨‍💻 13 · 🔀 29 · 📋 66 - 22% open · ⏱️ 02.04.2023):
+- [GitHub](https://github.com/dckiller51/bodymiscale) (👨‍💻 13 · 🔀 28 · 📋 66 - 22% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/dckiller51/bodymiscale
-	```
-</details>
-<details><summary><b><a href="https://github.com/hultenvp/solis-sensor">Ginlong Solis PV portal integration</a></b> (🥇16 ·  ⭐ 110) - HomeAssistant integration for the Ginlong Solis PV.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/hultenvp/solis-sensor) (👨‍💻 8 · 🔀 29 · 📋 140 - 9% open · ⏱️ 14.02.2023):
-
-	```
-	git clone https://github.com/hultenvp/solis-sensor
 	```
 </details>
 <details><summary><b><a href="https://github.com/mletenay/home-assistant-goodwe-inverter">GoodWe Inverter (experimental)</a></b> (🥇16 ·  ⭐ 99) - Experimental version of Home Assistant integration.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -731,13 +723,13 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/amosyuen/ha-tplink-deco">TP-Link Deco</a></b> (🥇16 ·  ⭐ 99) - Home Assistant TP-Link Deco Custom Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amosyuen/ha-tplink-deco) (👨‍💻 11 · 🔀 18 · 📋 73 - 16% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/amosyuen/ha-tplink-deco) (👨‍💻 11 · 🔀 18 · 📋 73 - 9% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/amosyuen/ha-tplink-deco
 	```
 </details>
-<details><summary><b><a href="https://github.com/pyalarmdotcom/alarmdotcom">Alarm.com</a></b> (🥇16 ·  ⭐ 98) - Custom component to allow Home Assistant to interface with Alarm.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/pyalarmdotcom/alarmdotcom">Alarm.com</a></b> (🥇16 ·  ⭐ 97) - Custom component to allow Home Assistant to interface with Alarm.com. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/pyalarmdotcom/alarmdotcom) (👨‍💻 12 · 🔀 25 · 📋 160 - 12% open · ⏱️ 14.03.2023):
 
@@ -745,17 +737,25 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/pyalarmdotcom/alarmdotcom
 	```
 </details>
-<details><summary><b><a href="https://github.com/custom-components/places">Places</a></b> (🥇16 ·  ⭐ 80) - Component to integrate with OpenStreetMap Reverse Geocode (places). <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus">Tauron AMIplus</a></b> (🥇16 ·  ⭐ 91) - This sensor uses unofficial API to get energy usage and generation.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/places) (👨‍💻 16 · 🔀 23 · 📋 57 - 1% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus) (👨‍💻 8 · 🔀 25 · 📥 8.6K · 📋 85 - 3% open · ⏱️ 01.03.2023):
+
+	```
+	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Tauron-AMIplus
+	```
+</details>
+<details><summary><b><a href="https://github.com/custom-components/places">Places</a></b> (🥇16 ·  ⭐ 81) - Component to integrate with OpenStreetMap Reverse Geocode (places). <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/custom-components/places) (👨‍💻 16 · 🔀 23 · 📋 59 - 3% open · ⏱️ 15.04.2023):
 
 	```
 	git clone https://github.com/custom-components/places
 	```
 </details>
-<details><summary><b><a href="https://github.com/scottyphillips/echonetlite_homeassistant">ECHONETLite Platform</a></b> (🥇16 ·  ⭐ 80) - A Home Assistant custom component for use with ECHONET.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/scottyphillips/echonetlite_homeassistant">ECHONETLite Platform</a></b> (🥇16 ·  ⭐ 81) - A Home Assistant custom component for use with ECHONET.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/scottyphillips/echonetlite_homeassistant) (👨‍💻 17 · 🔀 25 · 📋 80 - 7% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/scottyphillips/echonetlite_homeassistant) (👨‍💻 17 · 🔀 25 · 📋 80 - 5% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/scottyphillips/echonetlite_homeassistant
@@ -763,29 +763,21 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dvd-dev/hilo">Hilo</a></b> (🥇16 ·  ⭐ 79) - Home Assistant Hilo Integration via HACS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dvd-dev/hilo) (👨‍💻 12 · 🔀 19 · 📋 84 - 7% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/dvd-dev/hilo) (👨‍💻 12 · 🔀 19 · 📋 85 - 8% open · ⏱️ 18.04.2023):
 
 	```
 	git clone https://github.com/dvd-dev/hilo
 	```
 </details>
-<details><summary><b><a href="https://github.com/CJNE/ha-myenergi">myenergi</a></b> (🥇16 ·  ⭐ 77) - Home Assistant integration for MyEnergi devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/CJNE/ha-myenergi">myenergi</a></b> (🥇16 ·  ⭐ 79) - Home Assistant integration for MyEnergi devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/CJNE/ha-myenergi) (👨‍💻 7 · 🔀 18 · 📋 65 - 33% open · ⏱️ 05.04.2023):
+- [GitHub](https://github.com/CJNE/ha-myenergi) (👨‍💻 7 · 🔀 18 · 📋 66 - 34% open · ⏱️ 05.04.2023):
 
 	```
 	git clone https://github.com/CJNE/ha-myenergi
 	```
 </details>
-<details><summary><b><a href="https://github.com/WillCodeForCats/solaredge-modbus-multi">SolarEdge Modbus Multi Device</a></b> (🥇16 ·  ⭐ 77) - A Home Assistant custom integration for SolarEdge.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/WillCodeForCats/solaredge-modbus-multi) (👨‍💻 6 · 🔀 10 · 📋 90 - 5% open · ⏱️ 20.04.2023):
-
-	```
-	git clone https://github.com/WillCodeForCats/solaredge-modbus-multi
-	```
-</details>
-<details><summary><b><a href="https://github.com/tomaae/homeassistant-truenas">TrueNAS</a></b> (🥇16 ·  ⭐ 76) - TrueNAS integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/tomaae/homeassistant-truenas">TrueNAS</a></b> (🥇16 ·  ⭐ 78) - TrueNAS integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/tomaae/homeassistant-truenas) (👨‍💻 7 · 🔀 10 · 📥 11K · 📋 56 - 17% open · ⏱️ 17.04.2023):
 
@@ -793,15 +785,23 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tomaae/homeassistant-truenas
 	```
 </details>
-<details><summary><b><a href="https://github.com/DurgNomis-drol/ha_toyota">Toyota Connected Services</a></b> (🥇16 ·  ⭐ 75) - Toyota Connected Services integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/WillCodeForCats/solaredge-modbus-multi">SolarEdge Modbus Multi Device</a></b> (🥇16 ·  ⭐ 77) - A Home Assistant custom integration for SolarEdge.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/DurgNomis-drol/ha_toyota) (👨‍💻 6 · 🔀 15 · 📥 6.3K · 📋 52 - 25% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/WillCodeForCats/solaredge-modbus-multi) (👨‍💻 6 · 🔀 10 · 📋 91 - 5% open · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/WillCodeForCats/solaredge-modbus-multi
+	```
+</details>
+<details><summary><b><a href="https://github.com/DurgNomis-drol/ha_toyota">Toyota Connected Services</a></b> (🥇16 ·  ⭐ 76) - Toyota Connected Services integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/DurgNomis-drol/ha_toyota) (👨‍💻 7 · 🔀 16 · 📥 6.3K · 📋 52 - 25% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/DurgNomis-drol/ha_toyota
 	```
 </details>
-<details><summary><b><a href="https://github.com/heyajohnny/afvalinfo">Afvalinfo</a></b> (🥇16 ·  ⭐ 71) - Provides Home Assistant sensors for multiple Dutch waste.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/heyajohnny/afvalinfo">Afvalinfo</a></b> (🥇16 ·  ⭐ 72) - Provides Home Assistant sensors for multiple Dutch waste.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/heyajohnny/afvalinfo) (👨‍💻 10 · 🔀 23 · 📋 360 - 1% open · ⏱️ 20.04.2023):
 
@@ -809,20 +809,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/heyajohnny/afvalinfo
 	```
 </details>
-<details><summary><b><a href="https://github.com/jonasbkarlsson/ev_smart_charging">EV Smart Charging</a></b> (🥇16 ·  ⭐ 68) - Electric vehicle smart charging for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jonasbkarlsson/ev_smart_charging">EV Smart Charging</a></b> (🥇16 ·  ⭐ 70) - Electric vehicle smart charging for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jonasbkarlsson/ev_smart_charging) (👨‍💻 3 · 🔀 9 · 📥 2.5K · 📋 59 - 18% open · ⏱️ 18.03.2023):
 
 	```
 	git clone https://github.com/jonasbkarlsson/ev_smart_charging
-	```
-</details>
-<details><summary><b><a href="https://github.com/tomaae/homeassistant-openmediavault">OpenMediaVault</a></b> (🥇16 ·  ⭐ 64) - OpenMediaVault integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/tomaae/homeassistant-openmediavault) (👨‍💻 8 · 🔀 12 · 📥 16K · 📋 86 - 3% open · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/tomaae/homeassistant-openmediavault
 	```
 </details>
 <details><summary><b><a href="https://github.com/tijsverkoyen/HomeAssistant-FusionSolar">Fusion Solar</a></b> (🥇16 ·  ⭐ 49 · 🐣) - Integrate FusionSolar into your Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -833,20 +825,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tijsverkoyen/HomeAssistant-FusionSolar
 	```
 </details>
-<details><summary><b><a href="https://github.com/robbinjanssen/home-assistant-omnik-inverter">Omnik Inverter Solar Sensor (No Cloud)</a></b> (🥇16 ·  ⭐ 44) - Read the current, daily and total Wh from your Omnik.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/marcolivierarsenault/moonraker-home-assistant">Moonraker</a></b> (🥇16 ·  ⭐ 48 · 🐣) - Home Assistant integration for Moonraker, Klipper, mainsail. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/robbinjanssen/home-assistant-omnik-inverter) (👨‍💻 12 · 🔀 13 · 📋 72 - 8% open · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/robbinjanssen/home-assistant-omnik-inverter
-	```
-</details>
-<details><summary><b><a href="https://github.com/marcolivierarsenault/moonraker-home-assistant">Moonraker</a></b> (🥇16 ·  ⭐ 43 · 🐣) - Home Assistant integration for Moonraker, Klipper, mainsail. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/marcolivierarsenault/moonraker-home-assistant) (👨‍💻 6 · 🔀 5 · 📋 41 - 17% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/marcolivierarsenault/moonraker-home-assistant) (👨‍💻 6 · 🔀 5 · 📋 42 - 14% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/marcolivierarsenault/moonraker-home-assistant
+	```
+</details>
+<details><summary><b><a href="https://github.com/robbinjanssen/home-assistant-omnik-inverter">Omnik Inverter Solar Sensor (No Cloud)</a></b> (🥇16 ·  ⭐ 45) - Read the current, daily and total Wh from your Omnik.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/robbinjanssen/home-assistant-omnik-inverter) (👨‍💻 12 · 🔀 13 · 📋 72 - 8% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/robbinjanssen/home-assistant-omnik-inverter
 	```
 </details>
 <details><summary><b><a href="https://github.com/golles/ha-kamstrup_403">Kamstrup 403</a></b> (🥇16 ·  ⭐ 41) - Custom component that integrates the Kamstrup 403 heating system.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -859,7 +851,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/claudegel/sinope-130">Sinope Neviweb130</a></b> (🥇16 ·  ⭐ 40) - Neviweb custom component for Home Assistant to manage.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/claudegel/sinope-130) (👨‍💻 3 · 🔀 8 · 📋 55 - 7% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/claudegel/sinope-130) (👨‍💻 4 · 🔀 9 · 📋 56 - 8% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/claudegel/sinope-130
@@ -875,7 +867,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/remote_homeassistant">Remote Home-Assistant</a></b> (🥈15 ·  ⭐ 620) - Links multiple home-assistant instances together. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/remote_homeassistant) (👨‍💻 18 · 🔀 57 · 📋 180 - 33% open · ⏱️ 09.01.2023):
+- [GitHub](https://github.com/custom-components/remote_homeassistant) (👨‍💻 18 · 🔀 57 · 📋 180 - 32% open · ⏱️ 09.01.2023):
 
 	```
 	git clone https://github.com/custom-components/remote_homeassistant
@@ -883,7 +875,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/albertogeniola/meross-homeassistant">Meross Integration</a></b> (🥈15 ·  ⭐ 540) - Custom component that leverages the Meross IoT.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/albertogeniola/meross-homeassistant) (👨‍💻 12 · 🔀 64 · 📥 790 · 📋 410 - 3% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/albertogeniola/meross-homeassistant) (👨‍💻 12 · 🔀 63 · 📥 790 · 📋 410 - 4% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/albertogeniola/meross-homeassistant
@@ -891,7 +883,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/mac-zhou/midea-ac-py">Midea Smart Aircon</a></b> (🥈15 ·  ⭐ 450 · 💤) - Home Assistant Custom Integration for Midea.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mac-zhou/midea-ac-py) (👨‍💻 15 · 🔀 94 · 📋 180 - 32% open · ⏱️ 15.07.2022):
+- [GitHub](https://github.com/mac-zhou/midea-ac-py) (👨‍💻 15 · 🔀 93 · 📋 180 - 32% open · ⏱️ 15.07.2022):
 
 	```
 	git clone https://github.com/mac-zhou/midea-ac-py
@@ -899,7 +891,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/georgezhao2010/midea_ac_lan">Midea AC LAN</a></b> (🥈15 ·  ⭐ 440) - Auto-configure and then control your Midea M-Smart devices (Air.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/georgezhao2010/midea_ac_lan) (👨‍💻 9 · 🔀 46 · 📋 160 - 39% open · ⏱️ 22.12.2022):
+- [GitHub](https://github.com/georgezhao2010/midea_ac_lan) (👨‍💻 9 · 🔀 47 · 📋 160 - 40% open · ⏱️ 22.12.2022):
 
 	```
 	git clone https://github.com/georgezhao2010/midea_ac_lan
@@ -913,15 +905,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/LaggAt/hacs-govee
 	```
 </details>
-<details><summary><b><a href="https://github.com/jseidl/hass-magic_areas">Magic Areas</a></b> (🥈15 ·  ⭐ 150) - Areas with batteries included for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/jseidl/hass-magic_areas) (👨‍💻 7 · 🔀 21 · 📋 150 - 6% open · ⏱️ 05.03.2023):
-
-	```
-	git clone https://github.com/jseidl/hass-magic_areas
-	```
-</details>
-<details><summary><b><a href="https://github.com/vinteo/hass-opensprinkler">OpenSprinkler integration for Home Assistant</a></b> (🥈15 ·  ⭐ 140) - OpenSprinkler Integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vinteo/hass-opensprinkler">OpenSprinkler integration for Home Assistant</a></b> (🥈15 ·  ⭐ 150) - OpenSprinkler Integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vinteo/hass-opensprinkler) (👨‍💻 13 · 🔀 29 · 📋 120 - 16% open · ⏱️ 26.02.2023):
 
@@ -931,7 +915,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/danieldotnl/ha-multiscrape">Multiscrape</a></b> (🥈15 ·  ⭐ 140) - Home Assistant custom component for scraping (html, xml or json).. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/danieldotnl/ha-multiscrape) (👨‍💻 5 · 🔀 11 · 📋 77 - 5% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/danieldotnl/ha-multiscrape) (👨‍💻 5 · 🔀 11 · 📋 77 - 5% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/danieldotnl/ha-multiscrape
@@ -947,7 +931,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/JonasPed/homeassistant-eloverblik">Eloverblik</a></b> (🥈15 ·  ⭐ 130) - Home Assistant Custom Component showing data from eloverblik.dk. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JonasPed/homeassistant-eloverblik) (👨‍💻 12 · 🔀 31 · 📋 67 - 10% open · ⏱️ 12.03.2023):
+- [GitHub](https://github.com/JonasPed/homeassistant-eloverblik) (👨‍💻 12 · 🔀 32 · 📋 67 - 10% open · ⏱️ 12.03.2023):
 
 	```
 	git clone https://github.com/JonasPed/homeassistant-eloverblik
@@ -955,15 +939,23 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/py-smart-gardena/hass-gardena-smart-system">Gardena Smart System</a></b> (🥈15 ·  ⭐ 130) - Home Assistant custom component integration for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/py-smart-gardena/hass-gardena-smart-system) (👨‍💻 18 · 🔀 32 · 📋 140 - 30% open · ⏱️ 14.03.2023):
+- [GitHub](https://github.com/py-smart-gardena/hass-gardena-smart-system) (👨‍💻 19 · 🔀 33 · 📋 140 - 30% open · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/py-smart-gardena/hass-gardena-smart-system
 	```
 </details>
+<details><summary><b><a href="https://github.com/hultenvp/solis-sensor">Ginlong Solis PV portal integration</a></b> (🥈15 ·  ⭐ 120) - HomeAssistant integration for the Ginlong Solis PV.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hultenvp/solis-sensor) (👨‍💻 8 · 🔀 29 · 📋 140 - 9% open · ⏱️ 14.02.2023):
+
+	```
+	git clone https://github.com/hultenvp/solis-sensor
+	```
+</details>
 <details><summary><b><a href="https://github.com/Vaskivskyi/ha-asusrouter">AsusRouter</a></b> (🥈15 ·  ⭐ 100) - Monitor and control your AsusWRT-powered router from Home.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Vaskivskyi/ha-asusrouter) (👨‍💻 10 · 🔀 10 · 📋 140 - 15% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/Vaskivskyi/ha-asusrouter) (👨‍💻 10 · 🔀 11 · 📋 140 - 16% open · ⏱️ 07.03.2023):
 
 	```
 	git clone https://github.com/Vaskivskyi/ha-asusrouter
@@ -977,7 +969,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Limych/ha-iaquk
 	```
 </details>
-<details><summary><b><a href="https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager">Switch Manager</a></b> (🥈15 ·  ⭐ 75 · 🐣) - Switch manager is a centralised component to handle.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager">Switch Manager</a></b> (🥈15 ·  ⭐ 76 · 🐣) - Switch manager is a centralised component to handle.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Sian-Lee-SA/Home-Assistant-Switch-Manager) (👨‍💻 32 · 🔀 40 · 📋 45 - 2% open · ⏱️ 18.04.2023):
 
@@ -995,7 +987,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/edwork/homeassistant-peloton-sensor">Peloton</a></b> (🥈15 ·  ⭐ 62) - A platform which allows you to get current and past ride data from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/edwork/homeassistant-peloton-sensor) (👨‍💻 12 · 🔀 15 · 📥 1.6K · 📋 37 - 16% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/edwork/homeassistant-peloton-sensor) (👨‍💻 12 · 🔀 15 · 📥 1.6K · 📋 37 - 16% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/edwork/homeassistant-peloton-sensor
@@ -1003,7 +995,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/freol35241/ltss">ltss</a></b> (🥈15 ·  ⭐ 55) - Long time state storage (LTSS) custom component for Home Assistant using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/freol35241/ltss) (👨‍💻 6 · 🔀 15 · 📋 34 - 11% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/freol35241/ltss) (👨‍💻 6 · 🔀 15 · 📋 35 - 14% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/freol35241/ltss
@@ -1025,7 +1017,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/kukulich/home-assistant-jablotron100
 	```
 </details>
-<details><summary><b><a href="https://github.com/golles/ha-knmi">KNMI</a></b> (🥈15 ·  ⭐ 38) - Custom component that integrates KNMI weather service in to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/golles/ha-knmi">KNMI</a></b> (🥈15 ·  ⭐ 39) - Custom component that integrates KNMI weather service in to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/golles/ha-knmi) (👨‍💻 4 · 🔀 7 · ⏱️ 18.04.2023):
 
@@ -1051,15 +1043,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Cyr-ius/hass-livebox-component">Orange Livebox routeur</a></b> (🥈15 ·  ⭐ 34) - Livebox Component for Home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Cyr-ius/hass-livebox-component) (👨‍💻 9 · 🔀 16 · 📋 52 - 5% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/Cyr-ius/hass-livebox-component) (👨‍💻 9 · 🔀 16 · 📋 54 - 9% open · ⏱️ 19.04.2023):
 
 	```
 	git clone https://github.com/Cyr-ius/hass-livebox-component
 	```
 </details>
-<details><summary><b><a href="https://github.com/henricm/ha-ferroamp">Ferroamp Sensors</a></b> (🥈15 ·  ⭐ 28) - Ferroamp MQTT Home Assistant sensors for EnergyHub, SSO, ESM.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/henricm/ha-ferroamp">Ferroamp Sensors</a></b> (🥈15 ·  ⭐ 29) - Ferroamp MQTT Home Assistant sensors for EnergyHub, SSO, ESM.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/henricm/ha-ferroamp) (👨‍💻 10 · 🔀 12 · 📋 45 - 2% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/henricm/ha-ferroamp) (👨‍💻 10 · 🔀 12 · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/henricm/ha-ferroamp
@@ -1067,10 +1059,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/scaarup/aula">Aula</a></b> (🥈15 ·  ⭐ 26 · 🐣) - Fetches information from Aula about your children. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/scaarup/aula) (👨‍💻 6 · 🔀 4 · 📥 2.2K · 📋 24 - 4% open · ⏱️ 12.02.2023):
+- [GitHub](https://github.com/scaarup/aula) (👨‍💻 6 · 🔀 4 · 📥 2.4K · 📋 27 - 3% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/scaarup/aula
+	```
+</details>
+<details><summary><b><a href="https://github.com/JonasJoKuJonas/homeassistant-WebUntis">Web Untis</a></b> (🥈15 ·  ⭐ 20 · 🐣) - Custom component to access data from Web Untis in Home.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/JonasJoKuJonas/homeassistant-WebUntis) (👨‍💻 4 · 🔀 4 · 📥 2K · 📋 38 - 13% open · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/JonasJoKuJonas/homeassistant-WebUntis
 	```
 </details>
 <details><summary><b><a href="https://github.com/syssi/xiaomi_fan">Xiaomi Mi Smart Pedestal Fan Integration</a></b> (🥈14 ·  ⭐ 330) - Xiaomi Mi Smart Fan integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1083,7 +1083,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/jaruba/ha-samsungtv-tizen">SamsungTV Tizen</a></b> (🥈14 ·  ⭐ 250 · 💤) - HomeAssistant - For Samsung TVs 2016+, Includes.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/jaruba/ha-samsungtv-tizen) (👨‍💻 14 · 🔀 65 · 📋 170 - 47% open · ⏱️ 16.07.2022):
+- [GitHub](https://github.com/jaruba/ha-samsungtv-tizen) (👨‍💻 14 · 🔀 66 · 📋 170 - 47% open · ⏱️ 16.07.2022):
 
 	```
 	git clone https://github.com/jaruba/ha-samsungtv-tizen
@@ -1091,7 +1091,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/alexander0042/pirate-weather-ha">Pirate Weather</a></b> (🥈14 ·  ⭐ 250) - Replacement for the default Dark Sky Home Assistant.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/alexander0042/pirate-weather-ha) (👨‍💻 4 · 🔀 11 · 📋 99 - 20% open · ⏱️ 05.04.2023):
+- [GitHub](https://github.com/alexander0042/pirate-weather-ha) (👨‍💻 4 · 🔀 12 · 📋 100 - 21% open · ⏱️ 05.04.2023):
 
 	```
 	git clone https://github.com/alexander0042/pirate-weather-ha
@@ -1105,7 +1105,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Limych/ha-average
 	```
 </details>
-<details><summary><b><a href="https://github.com/dummylabs/thewatchman">Watchman</a></b> (🥈14 ·  ⭐ 220) - Home Assistant custom integration to keep track of missing entities and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dummylabs/thewatchman">Watchman</a></b> (🥈14 ·  ⭐ 230) - Home Assistant custom integration to keep track of missing entities and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/dummylabs/thewatchman) (👨‍💻 6 · 🔀 10 · 📋 78 - 39% open · ⏱️ 02.02.2023):
 
@@ -1121,17 +1121,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/ScratMan/HASmartThermostat
 	```
 </details>
-<details><summary><b><a href="https://github.com/Tasshack/dreame-vacuum">Dreame Vacuum</a></b> (🥈14 ·  ⭐ 180 · 🐣) - Home Assistant integration for Dreame Gen2 Lidar robot vacuums.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jseidl/hass-magic_areas">Magic Areas</a></b> (🥈14 ·  ⭐ 150) - Areas with batteries included for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Tasshack/dreame-vacuum) (👨‍💻 12 · 🔀 25 · 📋 93 - 4% open · ⏱️ 20.02.2023):
+- [GitHub](https://github.com/jseidl/hass-magic_areas) (👨‍💻 7 · 🔀 20 · 📋 150 - 6% open · ⏱️ 05.03.2023):
 
 	```
-	git clone https://github.com/Tasshack/dreame-vacuum
+	git clone https://github.com/jseidl/hass-magic_areas
 	```
 </details>
 <details><summary><b><a href="https://github.com/lendy007/homeassistant-skodaconnect">Skoda Connect</a></b> (🥈14 ·  ⭐ 140) - Skoda Connect - An home assistant plugin to add integration.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/lendy007/homeassistant-skodaconnect) (👨‍💻 12 · 🔀 17 · 📥 37 · 📋 170 - 5% open · ⏱️ 22.03.2023):
+- [GitHub](https://github.com/lendy007/homeassistant-skodaconnect) (👨‍💻 12 · 🔀 18 · 📥 37 · 📋 170 - 6% open · ⏱️ 22.03.2023):
 
 	```
 	git clone https://github.com/lendy007/homeassistant-skodaconnect
@@ -1139,7 +1139,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dmamontov/hass-miwifi">MiWiFi</a></b> (🥈14 ·  ⭐ 130) - MiWiFi for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/dmamontov/hass-miwifi) (👨‍💻 8 · 🔀 7 · 📋 81 - 7% open · ⏱️ 13.03.2023):
+- [GitHub](https://github.com/dmamontov/hass-miwifi) (👨‍💻 8 · 🔀 7 · 📋 82 - 8% open · ⏱️ 13.03.2023):
 
 	```
 	git clone https://github.com/dmamontov/hass-miwifi
@@ -1147,7 +1147,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan">Midea Air Appliances (LAN)</a></b> (🥈14 ·  ⭐ 120) - This Home Assistant custom component adding support.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) (👨‍💻 2 · 🔀 7 · 📋 81 - 24% open · ⏱️ 22.02.2023):
+- [GitHub](https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan) (👨‍💻 2 · 🔀 7 · 📋 83 - 26% open · ⏱️ 22.02.2023):
 
 	```
 	git clone https://github.com/nbogojevic/homeassistant-midea-air-appliances-lan
@@ -1163,7 +1163,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/cyberjunky/home-assistant-garmin_connect">Garmin Connect</a></b> (🥈14 ·  ⭐ 110) - The Garmin Connect integration allows you to expose data from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/cyberjunky/home-assistant-garmin_connect) (👨‍💻 5 · 🔀 15 · 📋 70 - 25% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/cyberjunky/home-assistant-garmin_connect) (👨‍💻 5 · 🔀 16 · 📋 71 - 26% open · ⏱️ 19.04.2023):
 
 	```
 	git clone https://github.com/cyberjunky/home-assistant-garmin_connect
@@ -1171,7 +1171,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/wills106/homeassistant-solax-modbus">SolaX Inverter Modbus</a></b> (🥈14 ·  ⭐ 100) - SolaX Power Modbus custom_component for Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/wills106/homeassistant-solax-modbus) (👨‍💻 13 · 🔀 32 · 📋 130 - 10% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/wills106/homeassistant-solax-modbus) (👨‍💻 14 · 🔀 32 · 📋 130 - 14% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/wills106/homeassistant-solax-modbus
@@ -1193,7 +1193,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/custom-components/sensor.airthings_wave
 	```
 </details>
-<details><summary><b><a href="https://github.com/vigonotion/hass-simpleicons">simpleicons</a></b> (🥈14 ·  ⭐ 95) - Use Simple Icons in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/vigonotion/hass-simpleicons">simpleicons</a></b> (🥈14 ·  ⭐ 96) - Use Simple Icons in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/vigonotion/hass-simpleicons) (👨‍💻 8 · 🔀 8 · 📥 19K · 📋 28 - 14% open · ⏱️ 08.10.2022):
 
@@ -1217,6 +1217,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/safepay/sensor.fronius
 	```
 </details>
+<details><summary><b><a href="https://github.com/djtimca/hagooglewifi">Google WiFi</a></b> (🥈14 ·  ⭐ 66) - Home Assistant integration for Google Wifi systems. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/djtimca/hagooglewifi) (👨‍💻 6 · 🔀 22 · 📋 84 - 19% open · ⏱️ 28.02.2023):
+
+	```
+	git clone https://github.com/djtimca/hagooglewifi
+	```
+</details>
 <details><summary><b><a href="https://github.com/davesmeghead/visonic">Visonic Intruder Alarm - PowerMax and PowerMaster Series</a></b> (🥈14 ·  ⭐ 66) - Visonic Custom Component for integration with Home.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/davesmeghead/visonic) (👨‍💻 7 · 🔀 14 · 📋 70 - 8% open · ⏱️ 14.04.2023):
@@ -1233,17 +1241,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/iprak/winix
 	```
 </details>
-<details><summary><b><a href="https://github.com/djtimca/hagooglewifi">Google WiFi</a></b> (🥈14 ·  ⭐ 65) - Home Assistant integration for Google Wifi systems. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/djtimca/hagooglewifi) (👨‍💻 6 · 🔀 22 · 📋 84 - 19% open · ⏱️ 28.02.2023):
-
-	```
-	git clone https://github.com/djtimca/hagooglewifi
-	```
-</details>
 <details><summary><b><a href="https://github.com/fsaris/home-assistant-zonneplan-one">Zonneplan ONE</a></b> (🥈14 ·  ⭐ 63) - Unofficial Zonneplan ONE + connect integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/fsaris/home-assistant-zonneplan-one) (👨‍💻 3 · 🔀 8 · 📋 43 - 9% open · ⏱️ 03.03.2023):
+- [GitHub](https://github.com/fsaris/home-assistant-zonneplan-one) (👨‍💻 4 · 🔀 9 · 📋 43 - 9% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/fsaris/home-assistant-zonneplan-one
@@ -1257,33 +1257,33 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/RobertD502/home-assistant-flair
 	```
 </details>
-<details><summary><b><a href="https://github.com/DarwinsBuddy/WienerNetzeSmartmeter">wnsm</a></b> (🥈14 ·  ⭐ 59) - A home-assistant integration supporting WienerNetze Smartmeters as.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/DarwinsBuddy/WienerNetzeSmartmeter">wnsm</a></b> (🥈14 ·  ⭐ 60) - A home-assistant integration supporting WienerNetze Smartmeters as.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter) (👨‍💻 4 · 🔀 3 · 📥 920 · 📋 38 - 15% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/DarwinsBuddy/WienerNetzeSmartmeter) (👨‍💻 5 · 🔀 3 · 📥 1.1K · 📋 41 - 14% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/DarwinsBuddy/WienerNetzeSmartmeter
 	```
 </details>
-<details><summary><b><a href="https://github.com/mauro-midolo/homeassistant_electrolux_status">Electrolux Care Integration (Not Official)</a></b> (🥈14 ·  ⭐ 54) - Get the status from your Electrolux Care devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mauro-midolo/homeassistant_electrolux_status">Electrolux Care Integration (Not Official)</a></b> (🥈14 ·  ⭐ 55) - Get the status from your Electrolux Care devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mauro-midolo/homeassistant_electrolux_status) (👨‍💻 17 · 🔀 15 · 📋 47 - 17% open · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/mauro-midolo/homeassistant_electrolux_status) (👨‍💻 17 · 🔀 16 · 📋 48 - 18% open · ⏱️ 12.04.2023):
 
 	```
 	git clone https://github.com/mauro-midolo/homeassistant_electrolux_status
 	```
 </details>
-<details><summary><b><a href="https://github.com/iprak/yahoofinance">Yahoo Finance</a></b> (🥈14 ·  ⭐ 53) - Home Assistant component which allows you to get stock updates from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/iprak/yahoofinance">Yahoo Finance</a></b> (🥈14 ·  ⭐ 54) - Home Assistant component which allows you to get stock updates from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iprak/yahoofinance) (👨‍💻 4 · 🔀 8 · 📋 55 - 9% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/iprak/yahoofinance) (👨‍💻 4 · 🔀 8 · 📋 55 - 7% open · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/iprak/yahoofinance
 	```
 </details>
-<details><summary><b><a href="https://github.com/Wibias/hass-variables">Variables+History</a></b> (🥈14 ·  ⭐ 48) - Home Assistant variables component. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Wibias/hass-variables">Variables+History</a></b> (🥈14 ·  ⭐ 49) - Home Assistant variables component. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Wibias/hass-variables) (👨‍💻 12 · 🔀 12 · 📋 33 - 3% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/Wibias/hass-variables) (👨‍💻 12 · 🔀 12 · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/Wibias/hass-variables
@@ -1305,6 +1305,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/gazoodle/gecko-home-assistant
 	```
 </details>
+<details><summary><b><a href="https://github.com/rowysock/home-assistant-HomeWhiz">HomeWhiz</a></b> (🥈14 ·  ⭐ 37) - Home Assistant custom component for devices that can connect to HomeWhiz.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/rowysock/home-assistant-HomeWhiz) (👨‍💻 11 · 🔀 10 · 📋 67 - 17% open · ⏱️ 19.04.2023):
+
+	```
+	git clone https://github.com/rowysock/home-assistant-HomeWhiz
+	```
+</details>
 <details><summary><b><a href="https://github.com/Chouffy/home_assistant_tgtg">TooGoodToGo</a></b> (🥈14 ·  ⭐ 36) - TooGoodToGo items stock as sensor in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Chouffy/home_assistant_tgtg) (👨‍💻 7 · 🔀 13 · 📋 41 - 17% open · ⏱️ 24.02.2023):
@@ -1313,25 +1321,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Chouffy/home_assistant_tgtg
 	```
 </details>
-<details><summary><b><a href="https://github.com/rowysock/home-assistant-HomeWhiz">HomeWhiz</a></b> (🥈14 ·  ⭐ 35) - Home Assistant custom component for devices that can connect to HomeWhiz.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dahlb/ha_hatch">Hatch Rest Mini Sound Machine</a></b> (🥈14 ·  ⭐ 34) - Home Assistant Integration for Hatch Rest Mini. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rowysock/home-assistant-HomeWhiz) (👨‍💻 11 · 🔀 10 · 📋 65 - 16% open · ⏱️ 19.04.2023):
-
-	```
-	git clone https://github.com/rowysock/home-assistant-HomeWhiz
-	```
-</details>
-<details><summary><b><a href="https://github.com/Daanoz/ha-google-photos">Google Photos</a></b> (🥈14 ·  ⭐ 34 · 🐣) - Home Assistant Google Photos integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/Daanoz/ha-google-photos) (👨‍💻 2 · 🔀 1 · 📥 5.2K · 📋 15 - 13% open · ⏱️ 08.04.2023):
-
-	```
-	git clone https://github.com/Daanoz/ha-google-photos
-	```
-</details>
-<details><summary><b><a href="https://github.com/dahlb/ha_hatch">Hatch Rest Mini Sound Machine</a></b> (🥈14 ·  ⭐ 33) - Home Assistant Integration for Hatch Rest Mini. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/dahlb/ha_hatch) (👨‍💻 7 · 🔀 6 · 📋 28 - 10% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/dahlb/ha_hatch) (👨‍💻 7 · 🔀 6 · 📋 28 - 10% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/dahlb/ha_hatch
@@ -1339,18 +1331,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/syssi/homeassistant-goecharger-mqtt">go-eCharger integration for Home Assistant using the MQTT API</a></b> (🥈14 ·  ⭐ 32) - go-eCharger integration for Home Assistant using the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/syssi/homeassistant-goecharger-mqtt) (👨‍💻 3 · 🔀 5 · 📋 53 - 22% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/syssi/homeassistant-goecharger-mqtt) (👨‍💻 5 · 🔀 6 · 📋 57 - 22% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/syssi/homeassistant-goecharger-mqtt
 	```
 </details>
-<details><summary><b><a href="https://github.com/peribeir/homeassistant-rademacher">Rademacher HomePilot Bridge</a></b> (🥈14 ·  ⭐ 28) - This custom integration provides access to Rademacher.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/erikkastelec/hass-WEM-Portal">Weishaupt WEM Portal</a></b> (🥈14 ·  ⭐ 31) - Custom component for retrieving sensor information from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/peribeir/homeassistant-rademacher) (👨‍💻 4 · 🔀 4 · 📥 3.5K · 📋 39 - 12% open · ⏱️ 21.03.2023):
+- [GitHub](https://github.com/erikkastelec/hass-WEM-Portal) (👨‍💻 6 · 🔀 7 · 📋 49 - 16% open · ⏱️ 25.04.2023):
 
 	```
-	git clone https://github.com/peribeir/homeassistant-rademacher
+	git clone https://github.com/erikkastelec/hass-WEM-Portal
 	```
 </details>
 <details><summary><b><a href="https://github.com/aneeshd/schedule_state">Schedule State</a></b> (🥈14 ·  ⭐ 27) - Home Assistant (HA) sensor that returns a string based on a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1379,23 +1371,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/MTrab/danfoss_ally">Danfoss Ally</a></b> (🥈14 ·  ⭐ 20) - Danfoss Ally intragration for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/MTrab/danfoss_ally) (👨‍💻 8 · 🔀 8 · 📥 1.6K · 📋 28 - 10% open · ⏱️ 14.03.2023):
+- [GitHub](https://github.com/MTrab/danfoss_ally) (👨‍💻 8 · 🔀 8 · 📥 1.7K · 📋 28 - 10% open · ⏱️ 14.03.2023):
 
 	```
 	git clone https://github.com/MTrab/danfoss_ally
 	```
 </details>
-<details><summary><b><a href="https://github.com/JonasJoKuJonas/homeassistant-WebUntis">Web Untis</a></b> (🥈14 ·  ⭐ 20 · 🐣) - Custom component to access data from Web Untis in Home.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/JonasJoKuJonas/homeassistant-WebUntis) (👨‍💻 4 · 🔀 4 · 📥 1.9K · 📋 37 - 21% open · ⏱️ 27.03.2023):
-
-	```
-	git clone https://github.com/JonasJoKuJonas/homeassistant-WebUntis
-	```
-</details>
 <details><summary><b><a href="https://github.com/danielrivard/homeassistant-innova">Innova Heat and A/C</a></b> (🥈14 ·  ⭐ 18) - Home Assistant Integration for Innova 2.0 Heat Pump.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/danielrivard/homeassistant-innova) (👨‍💻 5 · 🔀 5 · 📋 18 - 11% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/danielrivard/homeassistant-innova) (👨‍💻 5 · 🔀 5 · 📋 18 - 11% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/danielrivard/homeassistant-innova
@@ -1417,14 +1401,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/myTselection/telenet_telemeter
 	```
 </details>
-<details><summary><b><a href="https://github.com/denpamusic/homeassistant-plum-ecomax">Plum ecoMAX boiler controller integration</a></b> (🥈14 ·  ⭐ 15) - Plum ecoMAX boiler controller integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/denpamusic/homeassistant-plum-ecomax) (👨‍💻 2 · 🔀 2 · 📋 26 - 15% open · ⏱️ 16.04.2023):
-
-	```
-	git clone https://github.com/denpamusic/homeassistant-plum-ecomax
-	```
-</details>
 <details><summary><b><a href="https://github.com/bieniu/ha-zadnego-ale">Żadnego Ale</a></b> (🥈14 ·  ⭐ 15) - adnego Ale allergen concentration custom integration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/bieniu/ha-zadnego-ale) (👨‍💻 4 · 📥 4.8K · ⏱️ 12.04.2023):
@@ -1435,18 +1411,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dahlb/ha_kia_hyundai">HA Kia/Hyundai</a></b> (🥈14 ·  ⭐ 13) - A Home Assistant HACS integration that supports Kia Connect(Uvo)... <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dahlb/ha_kia_hyundai) (👨‍💻 11 · 🔀 4 · 📋 51 - 3% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/dahlb/ha_kia_hyundai) (👨‍💻 11 · 🔀 4 · 📋 51 - 3% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/dahlb/ha_kia_hyundai
-	```
-</details>
-<details><summary><b><a href="https://github.com/sHedC/homeassistant-mastertherm">Mastertherm</a></b> (🥈14 ·  ⭐ 3 · 🐣) - Home Assistant Mastertherm Component, to communicate and control.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/sHedC/homeassistant-mastertherm) (👨‍💻 2 · 🔀 1 · 📋 56 - 1% open · ⏱️ 10.04.2023):
-
-	```
-	git clone https://github.com/sHedC/homeassistant-mastertherm
 	```
 </details>
 <details><summary><b><a href="https://github.com/syssi/xiaomi_airconditioningcompanion">Xiaomi Mi and Aqara Air Conditioning Companion Integration</a></b> (🥈13 ·  ⭐ 370) - Xiaomi Mi and Aqara Air Conditioning Companion.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1459,7 +1427,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ualex73/monitor_docker">Monitor Docker</a></b> (🥈13 ·  ⭐ 200) - Monitor Docker containers from Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ualex73/monitor_docker) (👨‍💻 11 · 🔀 25 · 📋 110 - 36% open · ⏱️ 27.02.2023):
+- [GitHub](https://github.com/ualex73/monitor_docker) (👨‍💻 11 · 🔀 25 · 📋 110 - 37% open · ⏱️ 27.02.2023):
 
 	```
 	git clone https://github.com/ualex73/monitor_docker
@@ -1473,9 +1441,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/RobHofmann/HomeAssistant-GreeClimateComponent
 	```
 </details>
+<details><summary><b><a href="https://github.com/Tasshack/dreame-vacuum">Dreame Vacuum</a></b> (🥈13 ·  ⭐ 180 · 🐣) - Home Assistant integration for Dreame Gen2 Lidar robot vacuums.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Tasshack/dreame-vacuum) (👨‍💻 12 · 🔀 25 · 📋 94 - 5% open · ⏱️ 20.02.2023):
+
+	```
+	git clone https://github.com/Tasshack/dreame-vacuum
+	```
+</details>
 <details><summary><b><a href="https://github.com/cgarwood/homeassistant-fullykiosk">Fully Kiosk Browser</a></b> (🥈13 ·  ⭐ 150 · 💤) - Fully Kiosk Browser integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/cgarwood/homeassistant-fullykiosk) (👨‍💻 8 · 🔀 23 · 📋 82 - 32% open · ⏱️ 30.06.2022):
+- [GitHub](https://github.com/cgarwood/homeassistant-fullykiosk) (👨‍💻 8 · 🔀 23 · 📋 85 - 35% open · ⏱️ 30.06.2022):
 
 	```
 	git clone https://github.com/cgarwood/homeassistant-fullykiosk
@@ -1483,13 +1459,13 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/arjenvrh/audi_connect_ha">Audi connect</a></b> (🥈13 ·  ⭐ 140) - Adds an audi connect integration to home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/arjenvrh/audi_connect_ha) (👨‍💻 22 · 🔀 55 · 📋 150 - 38% open · ⏱️ 14.03.2023):
+- [GitHub](https://github.com/arjenvrh/audi_connect_ha) (👨‍💻 24 · 🔀 55 · 📋 150 - 37% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/arjenvrh/audi_connect_ha
 	```
 </details>
-<details><summary><b><a href="https://github.com/toreamun/amshan-homeassistant">AmsHan</a></b> (🥈13 ·  ⭐ 110) - Home Assistant integrasjon for strmmlere (AMS/HAN/P1). Integrasjonen stter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/toreamun/amshan-homeassistant">AmsHan</a></b> (🥈13 ·  ⭐ 120) - Home Assistant integrasjon for strmmlere (AMS/HAN/P1). Integrasjonen stter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/toreamun/amshan-homeassistant) (👨‍💻 4 · 🔀 5 · 📥 150 · 📋 47 - 23% open · ⏱️ 23.02.2023):
 
@@ -1499,7 +1475,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/thecode/ha-rpi_gpio">Raspberry Pi GPIO</a></b> (🥈13 ·  ⭐ 110) - Home Assistant Raspberry Pi GPIO Integration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/thecode/ha-rpi_gpio) (👨‍💻 3 · 🔀 20 · 📋 48 - 2% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/thecode/ha-rpi_gpio) (👨‍💻 3 · 🔀 20 · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/thecode/ha-rpi_gpio
@@ -1507,7 +1483,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/elad-bar/ha-edgeos">EdgeOS (Ubiquiti)</a></b> (🥈13 ·  ⭐ 110) - Integration with EdgeOS (Ubiquiti). <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/elad-bar/ha-edgeos) (👨‍💻 10 · 🔀 19 · 📋 84 - 9% open · ⏱️ 30.03.2023):
+- [GitHub](https://github.com/elad-bar/ha-edgeos) (👨‍💻 10 · 🔀 19 · 📋 85 - 10% open · ⏱️ 30.03.2023):
 
 	```
 	git clone https://github.com/elad-bar/ha-edgeos
@@ -1531,7 +1507,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/media_player.braviatv_psk">Bravia TV PSK</a></b> (🥈13 ·  ⭐ 100) - Sony Bravia TV (Pre-Shared Key) component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/media_player.braviatv_psk) (👨‍💻 9 · 🔀 20 · 📥 4.2K · ⏱️ 23.02.2023):
+- [GitHub](https://github.com/custom-components/media_player.braviatv_psk) (👨‍💻 9 · 🔀 20 · 📥 4.3K · ⏱️ 23.02.2023):
 
 	```
 	git clone https://github.com/custom-components/media_player.braviatv_psk
@@ -1545,9 +1521,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/ReneNulschDE/mbapi2020
 	```
 </details>
-<details><summary><b><a href="https://github.com/azogue/eventsensor">Event sensor</a></b> (🥈13 ·  ⭐ 82) - HomeAssistant custom sensor to track specific events. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/azogue/eventsensor">Event sensor</a></b> (🥈13 ·  ⭐ 83) - HomeAssistant custom sensor to track specific events. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/azogue/eventsensor) (👨‍💻 5 · 🔀 11 · 📋 34 - 23% open · ⏱️ 12.03.2023):
+- [GitHub](https://github.com/azogue/eventsensor) (👨‍💻 5 · 🔀 11 · 📋 35 - 25% open · ⏱️ 12.03.2023):
 
 	```
 	git clone https://github.com/azogue/eventsensor
@@ -1555,7 +1531,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/kongo09/philips-airpurifier-coap">Philips AirPurifier (with CoAP)</a></b> (🥈13 ·  ⭐ 80) - :dashing away: Philips AirPurifier custom component.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/kongo09/philips-airpurifier-coap) (👨‍💻 15 · 🔀 8 · 📋 46 - 10% open · ⏱️ 06.04.2023):
+- [GitHub](https://github.com/kongo09/philips-airpurifier-coap) (👨‍💻 15 · 🔀 8 · 📋 47 - 12% open · ⏱️ 06.04.2023):
 
 	```
 	git clone https://github.com/kongo09/philips-airpurifier-coap
@@ -1569,9 +1545,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/mvdwetering/huesyncbox
 	```
 </details>
-<details><summary><b><a href="https://github.com/dlarrick/hass-kumo">Mitsubishi Kumo Cloud</a></b> (🥈13 ·  ⭐ 64) - Home Assistant module interfacing with Mitsubishi mini-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dlarrick/hass-kumo">Mitsubishi Kumo Cloud</a></b> (🥈13 ·  ⭐ 65) - Home Assistant module interfacing with Mitsubishi mini-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dlarrick/hass-kumo) (👨‍💻 12 · 🔀 15 · 📋 74 - 13% open · ⏱️ 09.04.2023):
+- [GitHub](https://github.com/dlarrick/hass-kumo) (👨‍💻 12 · 🔀 15 · 📋 74 - 14% open · ⏱️ 09.04.2023):
 
 	```
 	git clone https://github.com/dlarrick/hass-kumo
@@ -1579,10 +1555,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Limych/ha-temperature-feels-like">Temperature Feels Like</a></b> (🥈13 ·  ⭐ 61) - Sensor of Temperature Feels Like for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Limych/ha-temperature-feels-like) (👨‍💻 24 · 🔀 8 · 📥 120 · 📋 17 - 23% open · ⏱️ 10.02.2023):
+- [GitHub](https://github.com/Limych/ha-temperature-feels-like) (👨‍💻 24 · 🔀 9 · 📥 120 · 📋 18 - 27% open · ⏱️ 10.02.2023):
 
 	```
 	git clone https://github.com/Limych/ha-temperature-feels-like
+	```
+</details>
+<details><summary><b><a href="https://github.com/wernerhp/ha.integration.load_shedding">Load Shedding</a></b> (🥈13 ·  ⭐ 61) - A Home Assistant integration to track your load schedding schedule. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/wernerhp/ha.integration.load_shedding) (👨‍💻 5 · 🔀 13 · 📋 55 - 27% open · ⏱️ 24.03.2023):
+
+	```
+	git clone https://github.com/wernerhp/ha.integration.load_shedding
 	```
 </details>
 <details><summary><b><a href="https://github.com/raman325/ha-zoom-automation">Zoom</a></b> (🥈13 ·  ⭐ 59) - Custom Home Assistant component for Zoom. Tracks when you are connected to a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1593,15 +1577,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/raman325/ha-zoom-automation
 	```
 </details>
-<details><summary><b><a href="https://github.com/wernerhp/ha.integration.load_shedding">Load Shedding</a></b> (🥈13 ·  ⭐ 58) - A Home Assistant integration to track your load schedding schedule. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/wernerhp/ha.integration.load_shedding) (👨‍💻 5 · 🔀 13 · 📋 54 - 25% open · ⏱️ 24.03.2023):
-
-	```
-	git clone https://github.com/wernerhp/ha.integration.load_shedding
-	```
-</details>
-<details><summary><b><a href="https://github.com/soloam/ha-pid-controller">PID Controller</a></b> (🥈13 ·  ⭐ 55) - PID Controller to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/soloam/ha-pid-controller">PID Controller</a></b> (🥈13 ·  ⭐ 56) - PID Controller to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/soloam/ha-pid-controller) (👨‍💻 5 · 🔀 5 · 📥 2.4K · 📋 25 - 64% open · ⏱️ 09.11.2022):
 
@@ -1619,7 +1595,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/user2684/imou_life">Imou Life</a></b> (🥈13 ·  ⭐ 47) - Home Assistant custom component for controlling Imou devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/user2684/imou_life) (👨‍💻 5 · 🔀 8 · 📥 99 · 📋 46 - 47% open · ⏱️ 19.02.2023):
+- [GitHub](https://github.com/user2684/imou_life) (👨‍💻 5 · 🔀 8 · 📥 100 · 📋 47 - 48% open · ⏱️ 19.02.2023):
 
 	```
 	git clone https://github.com/user2684/imou_life
@@ -1627,29 +1603,37 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/osk2/panasonic_smart_app">Panasonic Smart App</a></b> (🥈13 ·  ⭐ 47) - :ON! arrow: Panasonic Smart App integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/osk2/panasonic_smart_app) (👨‍💻 5 · 🔀 16 · 📋 56 - 7% open · ⏱️ 29.03.2023):
+- [GitHub](https://github.com/osk2/panasonic_smart_app) (👨‍💻 5 · 🔀 16 · 📋 57 - 8% open · ⏱️ 29.03.2023):
 
 	```
 	git clone https://github.com/osk2/panasonic_smart_app
 	```
 </details>
-<details><summary><b><a href="https://github.com/guerrerotook/securitas-direct-new-api">Securitas Direct Alarm</a></b> (🥈13 ·  ⭐ 45) - This repository contains the new securitas direct API.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/guerrerotook/securitas-direct-new-api">Securitas Direct Alarm</a></b> (🥈13 ·  ⭐ 47) - This repository contains the new securitas direct API.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/guerrerotook/securitas-direct-new-api) (👨‍💻 7 · 🔀 18 · 📋 99 - 27% open · ⏱️ 03.03.2023):
+- [GitHub](https://github.com/guerrerotook/securitas-direct-new-api) (👨‍💻 7 · 🔀 18 · 📋 100 - 28% open · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/guerrerotook/securitas-direct-new-api
 	```
 </details>
-<details><summary><b><a href="https://github.com/JohNan/homeassistant-wellbeing">Electrolux Wellbeing</a></b> (🥈13 ·  ⭐ 44) - Get the status from your Electrolux devices connected to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver">Saver</a></b> (🥈13 ·  ⭐ 46) - This custom component allows you to save current state of any entity and use.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/JohNan/homeassistant-wellbeing) (👨‍💻 4 · 🔀 8 · 📥 99 · ⏱️ 21.03.2023):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver) (🔀 3 · 📥 2.3K · 📋 12 - 16% open · ⏱️ 25.01.2023):
+
+	```
+	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver
+	```
+</details>
+<details><summary><b><a href="https://github.com/JohNan/homeassistant-wellbeing">Electrolux Wellbeing</a></b> (🥈13 ·  ⭐ 45) - Get the status from your Electrolux devices connected to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/JohNan/homeassistant-wellbeing) (👨‍💻 4 · 🔀 8 · 📥 99 · 📋 23 - 4% open · ⏱️ 21.03.2023):
 
 	```
 	git clone https://github.com/JohNan/homeassistant-wellbeing
 	```
 </details>
-<details><summary><b><a href="https://github.com/MislavMandaric/home-assistant-vaillant-vsmart">Vaillant vSMART</a></b> (🥈13 ·  ⭐ 43) - Home Assistant custom component for Vaillant vSMART. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MislavMandaric/home-assistant-vaillant-vsmart">Vaillant vSMART</a></b> (🥈13 ·  ⭐ 44) - Home Assistant custom component for Vaillant vSMART. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/MislavMandaric/home-assistant-vaillant-vsmart) (👨‍💻 7 · 🔀 8 · 📋 34 - 38% open · ⏱️ 07.01.2023):
 
@@ -1657,7 +1641,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/MislavMandaric/home-assistant-vaillant-vsmart
 	```
 </details>
-<details><summary><b><a href="https://github.com/tadasdanielius/daikin_altherma">Daikin Altherma</a></b> (🥈13 ·  ⭐ 41) - Daikin Altherma custom component for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tadasdanielius/daikin_altherma">Daikin Altherma</a></b> (🥈13 ·  ⭐ 43) - Daikin Altherma custom component for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/tadasdanielius/daikin_altherma) (👨‍💻 4 · 🔀 2 · 📋 41 - 17% open · ⏱️ 10.02.2023):
 
@@ -1673,6 +1657,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sbabcock23/hass-tryfi
 	```
 </details>
+<details><summary><b><a href="https://github.com/lichtteil/local_luftdaten">Local Luftdaten Sensor</a></b> (🥈13 ·  ⭐ 37) - Custom component for Home Assistant that integrates.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/lichtteil/local_luftdaten) (👨‍💻 8 · 🔀 17 · 📋 26 - 19% open · ⏱️ 23.11.2022):
+
+	```
+	git clone https://github.com/lichtteil/local_luftdaten
+	```
+</details>
 <details><summary><b><a href="https://github.com/briis/weatherbit">Weatherbit Weather Forecast for Home Assistant</a></b> (🥈13 ·  ⭐ 36) - The weatherbit integration adds support for the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/briis/weatherbit) (👨‍💻 7 · 🔀 10 · 📋 73 - 6% open · ⏱️ 04.02.2023):
@@ -1683,18 +1675,34 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/hg1337/homeassistant-dwd">Deutscher Wetterdienst (by hg1337)</a></b> (🥈13 ·  ⭐ 36) - Custom component for Home Assistant that integrates.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/hg1337/homeassistant-dwd) (👨‍💻 3 · 🔀 5 · 📋 5 - 40% open · ⏱️ 23.02.2023):
+- [GitHub](https://github.com/hg1337/homeassistant-dwd) (👨‍💻 3 · 🔀 5 · 📋 6 - 50% open · ⏱️ 23.02.2023):
 
 	```
 	git clone https://github.com/hg1337/homeassistant-dwd
 	```
 </details>
-<details><summary><b><a href="https://github.com/lichtteil/local_luftdaten">Local Luftdaten Sensor</a></b> (🥈13 ·  ⭐ 36) - Custom component for Home Assistant that integrates.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mawinkler/astroweather">AstroWeather</a></b> (🥈13 ·  ⭐ 36 · 📈) - Asynchronous Astro Weather Forecast for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/lichtteil/local_luftdaten) (👨‍💻 8 · 🔀 17 · 📋 26 - 19% open · ⏱️ 23.11.2022):
+- [GitHub](https://github.com/mawinkler/astroweather) (👨‍💻 4 · 🔀 6 · 📋 27 - 7% open · ⏱️ 26.04.2023):
 
 	```
-	git clone https://github.com/lichtteil/local_luftdaten
+	git clone https://github.com/mawinkler/astroweather
+	```
+</details>
+<details><summary><b><a href="https://github.com/bigbadblunt/homeassistant-lightwave2">Lightwave RF</a></b> (🥈13 ·  ⭐ 36) - Lightwave RF custom component for Home Assistant. Requires.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/bigbadblunt/homeassistant-lightwave2) (👨‍💻 5 · 🔀 11 · 📋 110 - 8% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/bigbadblunt/homeassistant-lightwave2
+	```
+</details>
+<details><summary><b><a href="https://github.com/weltenwort/home-assistant-rct-power-integration">RCT Power</a></b> (🥈13 ·  ⭐ 35) - A Home Assistant custom component to integrate with RCT Power inverters. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/weltenwort/home-assistant-rct-power-integration) (👨‍💻 5 · 🔀 9 · 📋 29 - 41% open · ⏱️ 27.04.2023):
+
+	```
+	git clone https://github.com/weltenwort/home-assistant-rct-power-integration
 	```
 </details>
 <details><summary><b><a href="https://github.com/custom-components/sensor.avanza_stock">Avanza Stock</a></b> (🥈13 ·  ⭐ 35) - Custom component to get stock data from Avanza for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1705,20 +1713,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/custom-components/sensor.avanza_stock
 	```
 </details>
-<details><summary><b><a href="https://github.com/ljmerza/ha-our-groceries">ljmerza/ha-our-groceries</a></b> (🥈13 ·  ⭐ 35) - Our Groceries Integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/ljmerza/ha-our-groceries) (👨‍💻 6 · 🔀 8 · 📋 28 - 25% open · ⏱️ 19.02.2023):
-
-	```
-	git clone https://github.com/ljmerza/ha-our-groceries
-	```
-</details>
 <details><summary><b><a href="https://github.com/msp1974/homeassistant-jlrincontrol">Jaguar Landrover InControl</a></b> (🥈13 ·  ⭐ 34) - An integration for JLR InControl to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/msp1974/homeassistant-jlrincontrol) (👨‍💻 7 · 🔀 8 · 📋 52 - 3% open · ⏱️ 12.01.2023):
+- [GitHub](https://github.com/msp1974/homeassistant-jlrincontrol) (👨‍💻 7 · 🔀 8 · 📋 55 - 1% open · ⏱️ 12.01.2023):
 
 	```
 	git clone https://github.com/msp1974/homeassistant-jlrincontrol
+	```
+</details>
+<details><summary><b><a href="https://github.com/Daanoz/ha-google-photos">Google Photos</a></b> (🥈13 ·  ⭐ 34 · 🐣) - Home Assistant Google Photos integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Daanoz/ha-google-photos) (👨‍💻 2 · 🔀 1 · 📥 5.4K · 📋 15 - 13% open · ⏱️ 08.04.2023):
+
+	```
+	git clone https://github.com/Daanoz/ha-google-photos
 	```
 </details>
 <details><summary><b><a href="https://github.com/parautenbach/hass-shairport-sync">Shairport Sync Media Player</a></b> (🥈13 ·  ⭐ 32) - A custom media player for Home Assistant that allows.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1729,47 +1737,39 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/parautenbach/hass-shairport-sync
 	```
 </details>
-<details><summary><b><a href="https://github.com/erikkastelec/hass-WEM-Portal">Weishaupt WEM Portal</a></b> (🥈13 ·  ⭐ 31) - Custom component for retrieving sensor information from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/briis/securityspy">SecuritySpy for Home Assistant</a></b> (🥈13 ·  ⭐ 30) - SecuritySpy Integration for Home Assistant with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/erikkastelec/hass-WEM-Portal) (👨‍💻 6 · 🔀 7 · 📋 45 - 22% open · ⏱️ 12.04.2023):
-
-	```
-	git clone https://github.com/erikkastelec/hass-WEM-Portal
-	```
-</details>
-<details><summary><b><a href="https://github.com/briis/securityspy">SecuritySpy for Home Assistant</a></b> (🥈13 ·  ⭐ 29) - SecuritySpy Integration for Home Assistant with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/briis/securityspy) (👨‍💻 3 · 🔀 5 · 📋 44 - 9% open · ⏱️ 04.02.2023):
+- [GitHub](https://github.com/briis/securityspy) (👨‍💻 3 · 🔀 5 · 📋 45 - 8% open · ⏱️ 04.02.2023):
 
 	```
 	git clone https://github.com/briis/securityspy
 	```
 </details>
-<details><summary><b><a href="https://github.com/markvader/ha-rpi_rf">Raspberry Pi RF</a></b> (🥈13 ·  ⭐ 24) - Home Assistant Raspberry Pi GPIO RF Integration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/peribeir/homeassistant-rademacher">Rademacher HomePilot Bridge</a></b> (🥈13 ·  ⭐ 29) - This custom integration provides access to Rademacher.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/markvader/ha-rpi_rf) (👨‍💻 4 · 🔀 4 · 📋 8 - 25% open · ⏱️ 03.04.2023):
-
-	```
-	git clone https://github.com/markvader/ha-rpi_rf
-	```
-</details>
-<details><summary><b><a href="https://github.com/claudegel/sinope-1">Sinope Neviweb</a></b> (🥈13 ·  ⭐ 23) - Neviweb Custom Component for Home Assistant to manage.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/claudegel/sinope-1) (👨‍💻 6 · 🔀 4 · ⏱️ 25.02.2023):
+- [GitHub](https://github.com/peribeir/homeassistant-rademacher) (👨‍💻 4 · 🔀 4 · 📥 3.6K · 📋 40 - 15% open · ⏱️ 21.03.2023):
 
 	```
-	git clone https://github.com/claudegel/sinope-1
+	git clone https://github.com/peribeir/homeassistant-rademacher
 	```
 </details>
-<details><summary><b><a href="https://github.com/signalkraft/mypyllant-component">MyVaillant</a></b> (🥈13 ·  ⭐ 23 · 🐣) - Home Assistant component that interfacts with the myVAILLANT API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/signalkraft/mypyllant-component">MyVaillant</a></b> (🥈13 ·  ⭐ 24 · 🐣) - Home Assistant component that interfacts with the myVAILLANT API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/signalkraft/mypyllant-component) (🔀 3 · 📋 12 - 25% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/signalkraft/mypyllant-component) (🔀 3 · 📋 12 - 16% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/signalkraft/mypyllant-component
 	```
 </details>
-<details><summary><b><a href="https://github.com/knudsvik/EnergyScore">EnergyScore</a></b> (🥈13 ·  ⭐ 23 · 🐣) - Custom Integration for Home Assistant to score how energy is.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/markvader/ha-rpi_rf">Raspberry Pi RF</a></b> (🥈13 ·  ⭐ 24) - Home Assistant Raspberry Pi GPIO RF Integration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/markvader/ha-rpi_rf) (👨‍💻 4 · 🔀 4 · 📋 8 - 25% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/markvader/ha-rpi_rf
+	```
+</details>
+<details><summary><b><a href="https://github.com/knudsvik/EnergyScore">EnergyScore</a></b> (🥈13 ·  ⭐ 24 · 🐣) - Custom Integration for Home Assistant to score how energy is.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/knudsvik/EnergyScore) (👨‍💻 2 · 🔀 2 · 📋 71 - 23% open · ⏱️ 14.03.2023):
 
@@ -1777,12 +1777,28 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/knudsvik/EnergyScore
 	```
 </details>
-<details><summary><b><a href="https://github.com/Andre0512/hon">Haier hOn</a></b> (🥈13 ·  ⭐ 17 · 🐣) - hOn app devices in Home Assistant: support for Haier/Candy/Hoover.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dave-code-ruiz/elkbledom">elkbledom</a></b> (🥈13 ·  ⭐ 23) - Home Assistant custom component for LED STRIP NAME ELK BLEDOM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Andre0512/hon) (👨‍💻 6 · 🔀 13 · 📥 450 · 📋 17 - 35% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/dave-code-ruiz/elkbledom) (👨‍💻 4 · 🔀 4 · 📋 18 - 11% open · ⏱️ 27.04.2023):
+
+	```
+	git clone https://github.com/dave-code-ruiz/elkbledom
+	```
+</details>
+<details><summary><b><a href="https://github.com/Andre0512/hon">Haier hOn</a></b> (🥈13 ·  ⭐ 18 · 🐣) - hOn app devices in Home Assistant: support for Haier/Candy/Hoover.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Andre0512/hon) (👨‍💻 6 · 🔀 13 · 📥 800 · 📋 20 - 35% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/Andre0512/hon
+	```
+</details>
+<details><summary><b><a href="https://github.com/denpamusic/homeassistant-plum-ecomax">Plum ecoMAX boiler controller integration</a></b> (🥈13 ·  ⭐ 15) - Plum ecoMAX boiler controller integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/denpamusic/homeassistant-plum-ecomax) (👨‍💻 2 · 🔀 2 · 📋 26 - 15% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/denpamusic/homeassistant-plum-ecomax
 	```
 </details>
 <details><summary><b><a href="https://github.com/eifinger/hass-foldingathomecontrol">Folding@HomeControl</a></b> (🥈13 ·  ⭐ 15) - Homeassistant integration for FoldingAtHomeControl. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1793,9 +1809,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/eifinger/hass-foldingathomecontrol
 	```
 </details>
+<details><summary><b><a href="https://github.com/CJNE/ha-porscheconnect">Porsche Connect</a></b> (🥈13 ·  ⭐ 13) - Porsche Connect custom component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/CJNE/ha-porscheconnect) (👨‍💻 8 · 🔀 7 · 📋 18 - 11% open · ⏱️ 23.04.2023):
+
+	```
+	git clone https://github.com/CJNE/ha-porscheconnect
+	```
+</details>
 <details><summary><b><a href="https://github.com/pail23/stiebel_eltron_isg_component">Stiebel Eltron ISG</a></b> (🥈13 ·  ⭐ 12) - Stiebel Eltron ISG integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pail23/stiebel_eltron_isg_component) (👨‍💻 4 · 🔀 5 · 📥 210 · 📋 21 - 9% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/pail23/stiebel_eltron_isg_component) (👨‍💻 4 · 🔀 5 · 📥 250 · 📋 21 - 9% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/pail23/stiebel_eltron_isg_component
@@ -1809,20 +1833,44 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/jobvk/Home-Assistant-Windcentrale
 	```
 </details>
-<details><summary><b><a href="https://github.com/LavermanJJ/home-assistant-solarfocus">Solarfocus eco manager-touch</a></b> (🥈13 ·  ⭐ 6 · 📈) - :house with garden: Solarfocus eco manager touch.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/laszlojakab/homeassistant-easycontrols">Helios EasyControls Modbus TCP/IP integration</a></b> (🥈13 ·  ⭐ 12 · 📈) - Helios EasyControls Modbus TCP/IP integration for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/LavermanJJ/home-assistant-solarfocus) (👨‍💻 5 · 🔀 4 · 📋 35 - 37% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/laszlojakab/homeassistant-easycontrols) (👨‍💻 5 · 🔀 7 · 📥 640 · 📋 34 - 11% open · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/laszlojakab/homeassistant-easycontrols
+	```
+</details>
+<details><summary><b><a href="https://github.com/LavermanJJ/home-assistant-solarfocus">Solarfocus eco manager-touch</a></b> (🥈13 ·  ⭐ 6) - :house with garden: Solarfocus eco manager touch.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/LavermanJJ/home-assistant-solarfocus) (👨‍💻 5 · 🔀 4 · 📋 35 - 28% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/LavermanJJ/home-assistant-solarfocus
 	```
 </details>
+<details><summary><b><a href="https://github.com/sHedC/homeassistant-mastertherm">Mastertherm</a></b> (🥈13 ·  ⭐ 3 · 🐣) - Home Assistant Mastertherm Component, to communicate and control.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/sHedC/homeassistant-mastertherm) (👨‍💻 2 · 🔀 1 · 📋 56 - 1% open · ⏱️ 10.04.2023):
+
+	```
+	git clone https://github.com/sHedC/homeassistant-mastertherm
+	```
+</details>
 <details><summary><b><a href="https://github.com/schwarzenbergf/irtrans">iRTrans</a></b> (🥈13 ·  ⭐ 1 · 🐣) - Integration for IRTrans Ethernet devices (LAN DB). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/schwarzenbergf/irtrans) (👨‍💻 3 · 🔀 1 · 📥 83 · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/schwarzenbergf/irtrans) (👨‍💻 3 · 🔀 1 · 📥 87 · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/schwarzenbergf/irtrans
+	```
+</details>
+<details><summary><b><a href="https://github.com/slashback100/presence_simulation">Presence Simulation</a></b> (🥈12 ·  ⭐ 220) - Home Assistant Presence Simulation. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/slashback100/presence_simulation) (👨‍💻 11 · 🔀 11 · 📥 23 · 📋 69 - 4% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/slashback100/presence_simulation
 	```
 </details>
 <details><summary><b><a href="https://github.com/snarky-snark/home-assistant-variables">Variable</a></b> (🥈12 ·  ⭐ 210) - A custom Home Assistant component for declaring and setting generic.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1833,12 +1881,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/snarky-snark/home-assistant-variables
 	```
 </details>
-<details><summary><b><a href="https://github.com/larry-wong/bemfa">bemfa</a></b> (🥈12 ·  ⭐ 190) - Home Assistant //. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/larry-wong/bemfa">bemfa</a></b> (🥈12 ·  ⭐ 200) - Home Assistant //. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/larry-wong/bemfa) (👨‍💻 2 · 🔀 44 · 📋 31 - 12% open · ⏱️ 08.04.2023):
 
 	```
 	git clone https://github.com/larry-wong/bemfa
+	```
+</details>
+<details><summary><b><a href="https://github.com/binsentsu/home-assistant-solaredge-modbus">Solaredge Modbus</a></b> (🥈12 ·  ⭐ 150) - Home assistant Component for reading data locally.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/binsentsu/home-assistant-solaredge-modbus) (👨‍💻 15 · 🔀 47 · 📋 110 - 40% open · ⏱️ 16.04.2023):
+
+	```
+	git clone https://github.com/binsentsu/home-assistant-solaredge-modbus
 	```
 </details>
 <details><summary><b><a href="https://github.com/itchannel/fordpass-ha">fordpass</a></b> (🥈12 ·  ⭐ 140) - Fordpass integration for Home Assistant. <code>❗Unlicensed</code></summary>
@@ -1851,18 +1907,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/elad-bar/ha-blueiris">BlueIris NVR</a></b> (🥈12 ·  ⭐ 140) - Integration with Blue Iris Video Security Software. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/elad-bar/ha-blueiris) (👨‍💻 6 · 🔀 35 · 📋 180 - 17% open · ⏱️ 05.12.2022):
+- [GitHub](https://github.com/elad-bar/ha-blueiris) (👨‍💻 6 · 🔀 34 · 📋 180 - 17% open · ⏱️ 05.12.2022):
 
 	```
 	git clone https://github.com/elad-bar/ha-blueiris
-	```
-</details>
-<details><summary><b><a href="https://github.com/travisghansen/hass-pfsense">pfSense integration for Home Assistant</a></b> (🥈12 ·  ⭐ 130) - pfSense integration with Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/travisghansen/hass-pfsense) (👨‍💻 7 · 🔀 18 · 📋 91 - 28% open · ⏱️ 26.03.2023):
-
-	```
-	git clone https://github.com/travisghansen/hass-pfsense
 	```
 </details>
 <details><summary><b><a href="https://github.com/syssi/xiaomi_cooker">Xiaomi Mi Electric Rice Cooker Integration</a></b> (🥈12 ·  ⭐ 120) - Xiaomi Mi Electric Rice Cooker integration for Home.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1889,7 +1937,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/custom-components/weatheralerts
 	```
 </details>
-<details><summary><b><a href="https://github.com/daenny/climate_group">Climate Group</a></b> (🥈12 ·  ⭐ 96) - Home Assistant Climate Group. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/daenny/climate_group">Climate Group</a></b> (🥈12 ·  ⭐ 97) - Home Assistant Climate Group. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/daenny/climate_group) (👨‍💻 12 · 🔀 24 · 📋 47 - 21% open · ⏱️ 28.03.2023):
 
@@ -1905,9 +1953,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/FL550/dwd_weather
 	```
 </details>
-<details><summary><b><a href="https://github.com/ofalvai/home-assistant-candy">Candy Simply-Fi</a></b> (🥈12 ·  ⭐ 77) - Unofficial Candy/Haier appliance integration for Home.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ofalvai/home-assistant-candy">Candy Simply-Fi</a></b> (🥈12 ·  ⭐ 78) - Unofficial Candy/Haier appliance integration for Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ofalvai/home-assistant-candy) (👨‍💻 11 · 🔀 21 · 📋 44 - 22% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/ofalvai/home-assistant-candy) (👨‍💻 11 · 🔀 22 · 📋 44 - 22% open · ⏱️ 01.03.2023):
 
 	```
 	git clone https://github.com/ofalvai/home-assistant-candy
@@ -1915,7 +1963,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/tybritten/ical-sensor-homeassistant">iCal Sensor</a></b> (🥈12 ·  ⭐ 76) - an iCal Sensor for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/tybritten/ical-sensor-homeassistant) (👨‍💻 13 · 🔀 28 · 📋 86 - 48% open · ⏱️ 28.03.2023):
+- [GitHub](https://github.com/tybritten/ical-sensor-homeassistant) (👨‍💻 13 · 🔀 28 · 📋 87 - 49% open · ⏱️ 28.03.2023):
 
 	```
 	git clone https://github.com/tybritten/ical-sensor-homeassistant
@@ -1929,7 +1977,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tschamm/boschshc-hass
 	```
 </details>
-<details><summary><b><a href="https://github.com/markgdev/home-assistant_OctopusAgile">Octopus Agile</a></b> (🥈12 ·  ⭐ 71) - Octopus Agile custom component for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/markgdev/home-assistant_OctopusAgile">Octopus Agile</a></b> (🥈12 ·  ⭐ 72) - Octopus Agile custom component for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/markgdev/home-assistant_OctopusAgile) (👨‍💻 10 · 🔀 32 · 📋 68 - 42% open · ⏱️ 11.03.2023):
 
@@ -1955,10 +2003,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Limych/ha-car_wash">Car Wash</a></b> (🥈12 ·  ⭐ 70) - Car Wash Binary Sensor for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Limych/ha-car_wash) (👨‍💻 29 · 🔀 12 · 📥 53 · 📋 14 - 14% open · ⏱️ 26.03.2023):
+- [GitHub](https://github.com/Limych/ha-car_wash) (👨‍💻 29 · 🔀 12 · 📥 56 · 📋 14 - 14% open · ⏱️ 26.03.2023):
 
 	```
 	git clone https://github.com/Limych/ha-car_wash
+	```
+</details>
+<details><summary><b><a href="https://github.com/macxq/foxess-ha">FoxESS Cloud</a></b> (🥈12 ·  ⭐ 68) - Home Assistant & FoxESS integration. Monitor you.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/macxq/foxess-ha) (👨‍💻 9 · 🔀 28 · 📋 94 - 29% open · ⏱️ 17.04.2023):
+
+	```
+	git clone https://github.com/macxq/foxess-ha
 	```
 </details>
 <details><summary><b><a href="https://github.com/sfstar/hass-victron">Victron GX modbus TCP</a></b> (🥈12 ·  ⭐ 67 · 🐣) - Integration for Home Assistant to fetch data from the.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1969,15 +2025,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sfstar/hass-victron
 	```
 </details>
-<details><summary><b><a href="https://github.com/macxq/foxess-ha">FoxESS Cloud</a></b> (🥈12 ·  ⭐ 66) - Home Assistant & FoxESS integration. Monitor you.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/macxq/foxess-ha) (👨‍💻 9 · 🔀 27 · 📋 91 - 27% open · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/macxq/foxess-ha
-	```
-</details>
-<details><summary><b><a href="https://github.com/vasqued2/ha-teamtracker">Team Tracker</a></b> (🥈12 ·  ⭐ 64) - Home Assistant integration that provides real-time scores.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/vasqued2/ha-teamtracker">Team Tracker</a></b> (🥈12 ·  ⭐ 65) - Home Assistant integration that provides real-time scores.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/vasqued2/ha-teamtracker) (👨‍💻 9 · 🔀 10 · 📋 40 - 2% open · ⏱️ 06.04.2023):
 
@@ -1985,7 +2033,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/vasqued2/ha-teamtracker
 	```
 </details>
-<details><summary><b><a href="https://github.com/sockless-coding/panasonic_cc">Panasonic Comfort Cloud</a></b> (🥈12 ·  ⭐ 63) - Panasonic Comfort Cloud - Home Assistant Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/sockless-coding/panasonic_cc">Panasonic Comfort Cloud</a></b> (🥈12 ·  ⭐ 64) - Panasonic Comfort Cloud - Home Assistant Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/sockless-coding/panasonic_cc) (👨‍💻 6 · 🔀 19 · 📋 100 - 51% open · ⏱️ 09.10.2022):
 
@@ -1993,15 +2041,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sockless-coding/panasonic_cc
 	```
 </details>
-<details><summary><b><a href="https://github.com/b0mbays/continuously_casting_dashboards">Continuously Casting Dashboard</a></b> (🥈12 ·  ⭐ 60 · 🐣) - HACS Integration for continuously casting a Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/b0mbays/continuously_casting_dashboards">Continuously Casting Dashboard</a></b> (🥈12 ·  ⭐ 63 · 🐣) - HACS Integration for continuously casting a Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/b0mbays/continuously_casting_dashboards) (📋 10 - 10% open · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/b0mbays/continuously_casting_dashboards) (🔀 1 · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/b0mbays/continuously_casting_dashboards
 	```
 </details>
-<details><summary><b><a href="https://github.com/meichthys/uptime_kuma">Uptime Kuma</a></b> (🥈12 ·  ⭐ 51) - Uptime Kuma HACS integration. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/meichthys/uptime_kuma">Uptime Kuma</a></b> (🥈12 ·  ⭐ 52) - Uptime Kuma HACS integration. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/meichthys/uptime_kuma) (👨‍💻 7 · 🔀 18 · 📋 39 - 15% open · ⏱️ 27.03.2023):
 
@@ -2009,20 +2057,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/meichthys/uptime_kuma
 	```
 </details>
-<details><summary><b><a href="https://github.com/GuySie/ha-meural">HA-meural</a></b> (🥈12 ·  ⭐ 47 · 💤) - Integration for NETGEAR Meural Canvas digital art frame in Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/GuySie/ha-meural">HA-meural</a></b> (🥈12 ·  ⭐ 48 · 💤) - Integration for NETGEAR Meural Canvas digital art frame in Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/GuySie/ha-meural) (👨‍💻 5 · 🔀 8 · 📋 35 - 20% open · ⏱️ 24.07.2022):
 
 	```
 	git clone https://github.com/GuySie/ha-meural
-	```
-</details>
-<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver">Saver</a></b> (🥈12 ·  ⭐ 46) - This custom component allows you to save current state of any entity and use.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver) (🔀 4 · 📥 2.3K · 📋 12 - 16% open · ⏱️ 25.01.2023):
-
-	```
-	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Saver
 	```
 </details>
 <details><summary><b><a href="https://github.com/cyberjunky/home-assistant-p2000">P2000 Sensor</a></b> (🥈12 ·  ⭐ 45) - This component tracks P2000 emergency events in The Netherlands. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2033,6 +2073,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/cyberjunky/home-assistant-p2000
 	```
 </details>
+<details><summary><b><a href="https://github.com/finity69x2/nws_alerts">NWS Alerts</a></b> (🥈12 ·  ⭐ 44) - An updated version of the nws_alerts custom integration for.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/finity69x2/nws_alerts) (👨‍💻 7 · 🔀 16 · 📋 40 - 5% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/finity69x2/nws_alerts
+	```
+</details>
 <details><summary><b><a href="https://github.com/TheRealWaldo/thermal">Thermal Vision</a></b> (🥈12 ·  ⭐ 43) - Thermal Vision Sensor and Camera for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/TheRealWaldo/thermal) (👨‍💻 7 · 🔀 4 · ⏱️ 17.02.2023):
@@ -2041,15 +2089,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/TheRealWaldo/thermal
 	```
 </details>
-<details><summary><b><a href="https://github.com/finity69x2/nws_alerts">NWS Alerts</a></b> (🥈12 ·  ⭐ 43) - An updated version of the nws_alerts custom integration for.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/finity69x2/nws_alerts) (👨‍💻 7 · 🔀 16 · 📋 39 - 2% open · ⏱️ 20.04.2023):
-
-	```
-	git clone https://github.com/finity69x2/nws_alerts
-	```
-</details>
-<details><summary><b><a href="https://github.com/linsvensson/sensor.greenely">Greenely Sensors</a></b> (🥈12 ·  ⭐ 41) - Custom component to get usage data and prices from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/linsvensson/sensor.greenely">Greenely Sensors</a></b> (🥈12 ·  ⭐ 42) - Custom component to get usage data and prices from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/linsvensson/sensor.greenely) (👨‍💻 3 · 🔀 19 · 📋 43 - 46% open · ⏱️ 19.12.2022):
 
@@ -2057,7 +2097,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/linsvensson/sensor.greenely
 	```
 </details>
-<details><summary><b><a href="https://github.com/atxbyea/samsungrac">Climate IP</a></b> (🥈12 ·  ⭐ 41) - Home Assistant Climate Device for controlling (not only).. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/LAB02-Research/HASS.Agent-Integration">HASS.Agent</a></b> (🥈12 ·  ⭐ 42) - HASS.Agents Home Assistant integration. Adds notifications and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/LAB02-Research/HASS.Agent-Integration) (👨‍💻 5 · 🔀 3 · 📋 19 - 36% open · ⏱️ 01.04.2023):
+
+	```
+	git clone https://github.com/LAB02-Research/HASS.Agent-Integration
+	```
+</details>
+<details><summary><b><a href="https://github.com/atxbyea/samsungrac">Climate IP</a></b> (🥈12 ·  ⭐ 42) - Home Assistant Climate Device for controlling (not only).. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/atxbyea/samsungrac) (👨‍💻 18 · 🔀 14 · 📋 44 - 36% open · ⏱️ 17.04.2023):
 
@@ -2067,7 +2115,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/youtube">youtube</a></b> (🥈12 ·  ⭐ 41) - A platform which give you info about the newest video on a channel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/youtube) (👨‍💻 8 · 🔀 13 · 📥 5.8K · 📋 32 - 6% open · ⏱️ 16.02.2023):
+- [GitHub](https://github.com/custom-components/youtube) (👨‍💻 8 · 🔀 14 · 📥 5.9K · 📋 32 - 6% open · ⏱️ 16.02.2023):
 
 	```
 	git clone https://github.com/custom-components/youtube
@@ -2075,7 +2123,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ZacheryThomas/homeassistant-smartrent">SmartRent</a></b> (🥈12 ·  ⭐ 39) - Home Assistant Custom Component for SmartRent Locks :locked with key:,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ZacheryThomas/homeassistant-smartrent) (👨‍💻 2 · 🔀 3 · 📥 1.6K · 📋 17 - 11% open · ⏱️ 09.04.2023):
+- [GitHub](https://github.com/ZacheryThomas/homeassistant-smartrent) (👨‍💻 2 · 🔀 3 · 📥 1.7K · 📋 17 - 11% open · ⏱️ 09.04.2023):
 
 	```
 	git clone https://github.com/ZacheryThomas/homeassistant-smartrent
@@ -2083,7 +2131,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/h4de5/home-assistant-vimar">VIMAR By-Me Hub</a></b> (🥈12 ·  ⭐ 37) - VIMAR by-me integration into home-assistant.io. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/h4de5/home-assistant-vimar) (👨‍💻 5 · 🔀 3 · 📥 75 · 📋 49 - 24% open · ⏱️ 29.03.2023):
+- [GitHub](https://github.com/h4de5/home-assistant-vimar) (👨‍💻 5 · 🔀 3 · 📥 76 · 📋 49 - 24% open · ⏱️ 29.03.2023):
 
 	```
 	git clone https://github.com/h4de5/home-assistant-vimar
@@ -2105,20 +2153,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/heyajohnny/cryptoinfo
 	```
 </details>
+<details><summary><b><a href="https://github.com/jcgoette/baby_buddy_homeassistant">Baby Buddy</a></b> (🥈12 ·  ⭐ 36) - This custom integration provides sensors for Baby Buddy API endpoints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jcgoette/baby_buddy_homeassistant) (👨‍💻 10 · 🔀 17 · 📥 17 · 📋 87 - 4% open · ⏱️ 27.02.2023):
+
+	```
+	git clone https://github.com/jcgoette/baby_buddy_homeassistant
+	```
+</details>
 <details><summary><b><a href="https://github.com/Sholofly/lghorizon">LG Horizon</a></b> (🥈12 ·  ⭐ 36 · 🐣) - Custom integration to control LG Horizon settop boxes for.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Sholofly/lghorizon) (👨‍💻 7 · 🔀 7 · 📋 34 - 29% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/Sholofly/lghorizon) (👨‍💻 7 · 🔀 7 · 📋 34 - 26% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/Sholofly/lghorizon
-	```
-</details>
-<details><summary><b><a href="https://github.com/bigbadblunt/homeassistant-lightwave2">Lightwave RF</a></b> (🥈12 ·  ⭐ 36) - Lightwave RF custom component for Home Assistant. Requires.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/bigbadblunt/homeassistant-lightwave2) (👨‍💻 4 · 🔀 11 · 📋 110 - 8% open · ⏱️ 01.04.2023):
-
-	```
-	git clone https://github.com/bigbadblunt/homeassistant-lightwave2
 	```
 </details>
 <details><summary><b><a href="https://github.com/HASwitchPlate/openHASP-custom-component">openHASP</a></b> (🥈12 ·  ⭐ 35) - Home Assistant custom component for openHASP. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2129,25 +2177,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/HASwitchPlate/openHASP-custom-component
 	```
 </details>
-<details><summary><b><a href="https://github.com/jcgoette/baby_buddy_homeassistant">Baby Buddy</a></b> (🥈12 ·  ⭐ 35) - This custom integration provides sensors for Baby Buddy API endpoints. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ljmerza/ha-our-groceries">ljmerza/ha-our-groceries</a></b> (🥈12 ·  ⭐ 35) - Our Groceries Integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jcgoette/baby_buddy_homeassistant) (👨‍💻 10 · 🔀 17 · 📥 16 · 📋 86 - 4% open · ⏱️ 27.02.2023):
-
-	```
-	git clone https://github.com/jcgoette/baby_buddy_homeassistant
-	```
-</details>
-<details><summary><b><a href="https://github.com/weltenwort/home-assistant-rct-power-integration">RCT Power</a></b> (🥈12 ·  ⭐ 34) - A Home Assistant custom component to integrate with RCT Power inverters. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/weltenwort/home-assistant-rct-power-integration) (👨‍💻 4 · 🔀 10 · 📋 29 - 41% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/ljmerza/ha-our-groceries) (👨‍💻 6 · 🔀 8 · 📋 28 - 25% open · ⏱️ 19.02.2023):
 
 	```
-	git clone https://github.com/weltenwort/home-assistant-rct-power-integration
+	git clone https://github.com/ljmerza/ha-our-groceries
 	```
 </details>
 <details><summary><b><a href="https://github.com/Pyhass/Hive-Custom-Component">Hive Custom Component</a></b> (🥈12 ·  ⭐ 31) - A custom version of the home assistant hive component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Pyhass/Hive-Custom-Component) (👨‍💻 9 · 🔀 13 · 📋 110 - 12% open · ⏱️ 03.10.2022):
+- [GitHub](https://github.com/Pyhass/Hive-Custom-Component) (👨‍💻 9 · 🔀 13 · 📋 120 - 13% open · ⏱️ 03.10.2022):
 
 	```
 	git clone https://github.com/Pyhass/Hive-Custom-Component
@@ -2155,7 +2195,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ProudElm/solaredgeoptimizers">SolarEdge Optimizers Data</a></b> (🥈12 ·  ⭐ 26) - Intergration to get optimizers information from the.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/ProudElm/solaredgeoptimizers) (👨‍💻 4 · 🔀 9 · 📋 32 - 25% open · ⏱️ 06.03.2023):
+- [GitHub](https://github.com/ProudElm/solaredgeoptimizers) (👨‍💻 4 · 🔀 9 · 📋 36 - 16% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/ProudElm/solaredgeoptimizers
@@ -2177,12 +2217,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/thevoltagesource/LennoxiComfort
 	```
 </details>
-<details><summary><b><a href="https://github.com/dave-code-ruiz/elkbledom">elkbledom</a></b> (🥈12 ·  ⭐ 23) - Home Assistant custom component for LED STRIP NAME ELK BLEDOM. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/tomasmcguinness/homeassistant-mixergy">Mixergy</a></b> (🥈12 ·  ⭐ 21) - Add support for Mixergys smart water tank into Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dave-code-ruiz/elkbledom) (👨‍💻 4 · 🔀 4 · 📋 14 - 7% open · ⏱️ 21.03.2023):
+- [GitHub](https://github.com/tomasmcguinness/homeassistant-mixergy) (👨‍💻 2 · 🔀 5 · 📋 7 - 14% open · ⏱️ 20.04.2023):
 
 	```
-	git clone https://github.com/dave-code-ruiz/elkbledom
+	git clone https://github.com/tomasmcguinness/homeassistant-mixergy
 	```
 </details>
 <details><summary><b><a href="https://github.com/tykeal/homeassistant-rental-control">Rental Control</a></b> (🥈12 ·  ⭐ 20) - Rental Control system for Home Assistant. <code>❗Unlicensed</code></summary>
@@ -2209,36 +2249,28 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/claudegel/sinope-gt125
 	```
 </details>
-<details><summary><b><a href="https://github.com/Limych/ha-narodmon">Narodmon Cloud Integration</a></b> (🥈12 ·  ⭐ 13) - Component to integrate Narodmon cloud into Home.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Limych/ha-narodmon">Narodmon Cloud Integration</a></b> (🥈12 ·  ⭐ 14) - Component to integrate Narodmon cloud into Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Limych/ha-narodmon) (👨‍💻 22 · 🔀 3 · 📥 81 · 📋 15 - 20% open · ⏱️ 09.02.2023):
+- [GitHub](https://github.com/Limych/ha-narodmon) (👨‍💻 22 · 🔀 3 · 📥 85 · 📋 15 - 20% open · ⏱️ 09.02.2023):
 
 	```
 	git clone https://github.com/Limych/ha-narodmon
 	```
 </details>
-<details><summary><b><a href="https://github.com/CJNE/ha-porscheconnect">Porsche Connect</a></b> (🥈12 ·  ⭐ 13) - Porsche Connect custom component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/petergridge/Irrigation-V5">IrrigationProgram Custom Component</a></b> (🥈12 ·  ⭐ 13 · 🐣) - Irrigation custom component for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/CJNE/ha-porscheconnect) (👨‍💻 8 · 🔀 7 · 📋 17 - 17% open · ⏱️ 22.01.2023):
+- [GitHub](https://github.com/petergridge/Irrigation-V5) (👨‍💻 3 · 🔀 3 · 📥 1.3K · 📋 15 - 13% open · ⏱️ 04.04.2023):
 
 	```
-	git clone https://github.com/CJNE/ha-porscheconnect
+	git clone https://github.com/petergridge/Irrigation-V5
 	```
 </details>
 <details><summary><b><a href="https://github.com/rsnodgrass/hass-adtpulse">ADT Pulse</a></b> (🥈12 ·  ⭐ 12) - ADT Pulse sensor for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/rsnodgrass/hass-adtpulse) (👨‍💻 4 · 🔀 7 · 📋 22 - 9% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/rsnodgrass/hass-adtpulse) (👨‍💻 4 · 🔀 7 · 📋 22 - 9% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/rsnodgrass/hass-adtpulse
-	```
-</details>
-<details><summary><b><a href="https://github.com/petergridge/Irrigation-V5">IrrigationProgram Custom Component</a></b> (🥈12 ·  ⭐ 12 · 🐣) - Irrigation custom component for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/petergridge/Irrigation-V5) (👨‍💻 3 · 🔀 3 · 📥 1.2K · 📋 15 - 13% open · ⏱️ 04.04.2023):
-
-	```
-	git clone https://github.com/petergridge/Irrigation-V5
 	```
 </details>
 <details><summary><b><a href="https://github.com/kamaradclimber/heishamon-homeassistant">HeishaMon</a></b> (🥈12 ·  ⭐ 11 · 🐣) - An integration for heatpumps handled by heishamon. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2249,14 +2281,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/kamaradclimber/heishamon-homeassistant
 	```
 </details>
-<details><summary><b><a href="https://github.com/dominikamann/oekofen-pellematic-compact">Ökofen Pellematic Compact</a></b> (🥈12 ·  ⭐ 11 · 🐣) - A kofen Pellematic Compact Integration based on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/dominikamann/oekofen-pellematic-compact) (👨‍💻 4 · 🔀 3 · 📋 8 - 12% open · ⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/dominikamann/oekofen-pellematic-compact
-	```
-</details>
 <details><summary><b><a href="https://github.com/luuuis/hass_wibeee">Wibeee (and Mirubee) energy monitor</a></b> (🥈12 ·  ⭐ 11) - Home Assistant: Wibeee energy monitor custom component. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/luuuis/hass_wibeee) (👨‍💻 3 · 🔀 6 · 📥 2K · 📋 25 - 8% open · ⏱️ 12.04.2023):
@@ -2265,9 +2289,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/luuuis/hass_wibeee
 	```
 </details>
+<details><summary><b><a href="https://github.com/amitfin/retry">Retry</a></b> (🥈12 ·  ⭐ 8 · 🐣) - Home Assistant Integration with Retry Service. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/amitfin/retry) (👨‍💻 3 · 🔀 1 · 📥 440 · ⏱️ 23.04.2023):
+
+	```
+	git clone https://github.com/amitfin/retry
+	```
+</details>
 <details><summary><b><a href="https://github.com/jtbgroup/kodi-media-sensors">Kodi Media Sensors</a></b> (🥈12 ·  ⭐ 8) - Custom component to feed multiple sensors in Home Assistan and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jtbgroup/kodi-media-sensors) (👨‍💻 5 · 🔀 4 · 📋 21 - 14% open · ⏱️ 20.03.2023):
+- [GitHub](https://github.com/jtbgroup/kodi-media-sensors) (👨‍💻 5 · 🔀 4 · 📋 21 - 9% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/jtbgroup/kodi-media-sensors
@@ -2275,47 +2307,31 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/bdunn44/hass-jellyfish-lighting">JellyFish Lighting</a></b> (🥈12 ·  ⭐ 6 · 🐣) - A Jellyfish Lighting integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bdunn44/hass-jellyfish-lighting) (👨‍💻 20 · 📥 120 · ⏱️ 16.03.2023):
+- [GitHub](https://github.com/bdunn44/hass-jellyfish-lighting) (👨‍💻 20 · 📥 140 · ⏱️ 16.03.2023):
 
 	```
 	git clone https://github.com/bdunn44/hass-jellyfish-lighting
 	```
 </details>
-<details><summary><b><a href="https://github.com/amitfin/retry">Retry</a></b> (🥈12 ·  ⭐ 6 · 🐣) - Home Assistant Integration with Retry Service. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/amitfin/retry) (👨‍💻 3 · 🔀 1 · 📥 400 · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/amitfin/retry
-	```
-</details>
-<details><summary><b><a href="https://github.com/slashback100/presence_simulation">Presence Simulation</a></b> (🥈11 ·  ⭐ 220) - Home Assistant Presence Simulation. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/slashback100/presence_simulation) (👨‍💻 10 · 🔀 11 · 📥 23 · 📋 68 - 2% open · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/slashback100/presence_simulation
-	```
-</details>
 <details><summary><b><a href="https://github.com/thomasloven/hass-lovelace_gen">lovelace_gen</a></b> (🥈11 ·  ⭐ 160 · 💤) - :small blue diamond: Improve the lovelace yaml parser for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 38 - 42% open · ⏱️ 29.05.2022):
+- [GitHub](https://github.com/thomasloven/hass-lovelace_gen) (👨‍💻 5 · 🔀 19 · 📋 39 - 43% open · ⏱️ 29.05.2022):
 
 	```
 	git clone https://github.com/thomasloven/hass-lovelace_gen
 	```
 </details>
-<details><summary><b><a href="https://github.com/binsentsu/home-assistant-solaredge-modbus">Solaredge Modbus</a></b> (🥈11 ·  ⭐ 150) - Home assistant Component for reading data locally.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/travisghansen/hass-pfsense">pfSense integration for Home Assistant</a></b> (🥈11 ·  ⭐ 130) - pfSense integration with Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/binsentsu/home-assistant-solaredge-modbus) (👨‍💻 15 · 🔀 45 · 📋 110 - 40% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/travisghansen/hass-pfsense) (👨‍💻 7 · 🔀 18 · 📋 91 - 28% open · ⏱️ 26.03.2023):
 
 	```
-	git clone https://github.com/binsentsu/home-assistant-solaredge-modbus
+	git clone https://github.com/travisghansen/hass-pfsense
 	```
 </details>
 <details><summary><b><a href="https://github.com/nagyrobi/home-assistant-custom-components-linkplay">Linkplay-based speakers and devices</a></b> (🥈11 ·  ⭐ 110) - LinkPlay based media devices integration for Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/nagyrobi/home-assistant-custom-components-linkplay) (👨‍💻 11 · 🔀 20 · 📋 67 - 1% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/nagyrobi/home-assistant-custom-components-linkplay) (👨‍💻 11 · 🔀 20 · 📋 68 - 2% open · ⏱️ 09.03.2023):
 
 	```
 	git clone https://github.com/nagyrobi/home-assistant-custom-components-linkplay
@@ -2337,20 +2353,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/mrk-its/homeassistant-blitzortung
 	```
 </details>
-<details><summary><b><a href="https://github.com/HomeAssistant-Mods/home-assistant-miele">Miele integration</a></b> (🥈11 ·  ⭐ 100 · 💤) - Miele integration for Home assistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/HomeAssistant-Mods/home-assistant-miele">Miele integration</a></b> (🥈11 ·  ⭐ 100) - Miele integration for Home assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/HomeAssistant-Mods/home-assistant-miele) (👨‍💻 18 · 🔀 29 · 📋 110 - 27% open · ⏱️ 07.04.2022):
+- [GitHub](https://github.com/HomeAssistant-Mods/home-assistant-miele) (👨‍💻 18 · 🔀 29 · 📋 110 - 26% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/HomeAssistant-Mods/home-assistant-miele
-	```
-</details>
-<details><summary><b><a href="https://github.com/jjlawren/sonos_cloud">Sonos Cloud</a></b> (🥈11 ·  ⭐ 94) - Sonos cloud API integration for Home Assistant with improved.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/jjlawren/sonos_cloud) (👨‍💻 4 · 🔀 4 · 📋 40 - 10% open · ⏱️ 23.02.2023):
-
-	```
-	git clone https://github.com/jjlawren/sonos_cloud
 	```
 </details>
 <details><summary><b><a href="https://github.com/Sennevds/media_player.template">Media player template</a></b> (🥈11 ·  ⭐ 85) - Template media_player for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2361,20 +2369,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Sennevds/media_player.template
 	```
 </details>
+<details><summary><b><a href="https://github.com/hasscc/petkit">Petkit</a></b> (🥈11 ·  ⭐ 84) - :cat face: Petkit feeder components for HomeAssistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/hasscc/petkit) (👨‍💻 4 · 🔀 11 · 📥 16 · 📋 39 - 61% open · ⏱️ 29.03.2023):
+
+	```
+	git clone https://github.com/hasscc/petkit
+	```
+</details>
 <details><summary><b><a href="https://github.com/robmarkcole/HASS-amazon-rekognition">Amazon Rekognition</a></b> (🥈11 ·  ⭐ 83 · 💤) - Home Assistant Object detection with Amazon Rekognition. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/robmarkcole/HASS-amazon-rekognition) (👨‍💻 6 · 🔀 9 · 📋 71 - 19% open · ⏱️ 05.07.2022):
 
 	```
 	git clone https://github.com/robmarkcole/HASS-amazon-rekognition
-	```
-</details>
-<details><summary><b><a href="https://github.com/hasscc/petkit">Petkit</a></b> (🥈11 ·  ⭐ 83) - :cat face: Petkit feeder components for HomeAssistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/hasscc/petkit) (👨‍💻 4 · 🔀 11 · 📥 15 · 📋 38 - 63% open · ⏱️ 29.03.2023):
-
-	```
-	git clone https://github.com/hasscc/petkit
 	```
 </details>
 <details><summary><b><a href="https://github.com/akasma74/Hass-Custom-Alarm">akasma74/Hass-Custom-Alarm</a></b> (🥈11 ·  ⭐ 80) - It is a fork of Yet another take on a home assistant.. <code>❗Unlicensed</code></summary>
@@ -2385,12 +2393,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/akasma74/Hass-Custom-Alarm
 	```
 </details>
-<details><summary><b><a href="https://github.com/cathiele/homeassistant-goecharger">go-eCharger</a></b> (🥈11 ·  ⭐ 72) - Home Assistant custom_component for controlling the go-eCharger EV-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/cathiele/homeassistant-goecharger">go-eCharger</a></b> (🥈11 ·  ⭐ 73) - Home Assistant custom_component for controlling the go-eCharger EV-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/cathiele/homeassistant-goecharger) (👨‍💻 5 · 🔀 17 · 📋 50 - 40% open · ⏱️ 24.02.2023):
 
 	```
 	git clone https://github.com/cathiele/homeassistant-goecharger
+	```
+</details>
+<details><summary><b><a href="https://github.com/swingerman/ha-dual-smart-thermostat">Dual Smart Thermostat</a></b> (🥈11 ·  ⭐ 62) - The `dual_smart_thermostat` is an enhaced verion of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/swingerman/ha-dual-smart-thermostat) (👨‍💻 7 · 🔀 9 · 📋 29 - 58% open · ⏱️ 02.04.2023):
+
+	```
+	git clone https://github.com/swingerman/ha-dual-smart-thermostat
 	```
 </details>
 <details><summary><b><a href="https://github.com/syssi/philipslight">Xiaomi Philips Lights Integration</a></b> (🥈11 ·  ⭐ 62) - Xiaomi Philips Lights integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2399,14 +2415,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/syssi/philipslight
-	```
-</details>
-<details><summary><b><a href="https://github.com/swingerman/ha-dual-smart-thermostat">Dual Smart Thermostat</a></b> (🥈11 ·  ⭐ 61) - The `dual_smart_thermostat` is an enhaced verion of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/swingerman/ha-dual-smart-thermostat) (👨‍💻 7 · 🔀 9 · 📋 29 - 58% open · ⏱️ 02.04.2023):
-
-	```
-	git clone https://github.com/swingerman/ha-dual-smart-thermostat
 	```
 </details>
 <details><summary><b><a href="https://github.com/swartjean/ha-eskom-loadshedding">Eskom Loadshedding Interface</a></b> (🥈11 ·  ⭐ 58) - Fetches loadshedding data from Eskom. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2433,20 +2441,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Bouni/luxtronik
 	```
 </details>
-<details><summary><b><a href="https://github.com/hif2k1/battery_sim">battery_sim</a></b> (🥈11 ·  ⭐ 56) - Home assistant home battery simulator - allows you to model.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/hif2k1/battery_sim) (👨‍💻 8 · 🔀 7 · 📋 61 - 11% open · ⏱️ 28.02.2023):
-
-	```
-	git clone https://github.com/hif2k1/battery_sim
-	```
-</details>
-<details><summary><b><a href="https://github.com/JayBlackedOut/hass-nhlapi">NHL API</a></b> (🥈11 ·  ⭐ 54) - NHL Stats API Integration Into Home Assistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/JayBlackedOut/hass-nhlapi">NHL API</a></b> (🥈11 ·  ⭐ 55) - NHL Stats API Integration Into Home Assistant. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/JayBlackedOut/hass-nhlapi) (👨‍💻 5 · 🔀 16 · 📋 45 - 2% open · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/JayBlackedOut/hass-nhlapi
+	```
+</details>
+<details><summary><b><a href="https://github.com/jm-73/Indego">Bosch Indego Mower</a></b> (🥈11 ·  ⭐ 51) - Home Assistant Custom Component for Bosch Indego Lawn.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/jm-73/Indego) (👨‍💻 7 · 🔀 17 · 📋 110 - 2% open · ⏱️ 27.01.2023):
+
+	```
+	git clone https://github.com/jm-73/Indego
 	```
 </details>
 <details><summary><b><a href="https://github.com/cnstudio/Taipower-Bimonthly-Energy-Cost-homeassistant">Taipower Bimonthly Energy Cost</a></b> (🥈11 ·  ⭐ 47) - Calculate Taipower (Taiwan Power Company) bi-monthly.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2457,22 +2465,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/cnstudio/Taipower-Bimonthly-Energy-Cost-homeassistant
 	```
 </details>
-<details><summary><b><a href="https://github.com/LAB02-Research/HASS.Agent-Integration">HASS.Agent</a></b> (🥈11 ·  ⭐ 42) - HASS.Agents Home Assistant integration. Adds notifications and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/LAB02-Research/HASS.Agent-Integration) (👨‍💻 5 · 🔀 2 · 📋 19 - 36% open · ⏱️ 01.04.2023):
-
-	```
-	git clone https://github.com/LAB02-Research/HASS.Agent-Integration
-	```
-</details>
-<details><summary><b><a href="https://github.com/plmilord/Hass.io-custom-component-spaclient">Spa Client</a></b> (🥈11 ·  ⭐ 42) - Home Assistant integration - Spa Client. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/plmilord/Hass.io-custom-component-spaclient) (👨‍💻 4 · 🔀 13 · 📋 23 - 4% open · ⏱️ 16.04.2023):
-
-	```
-	git clone https://github.com/plmilord/Hass.io-custom-component-spaclient
-	```
-</details>
 <details><summary><b><a href="https://github.com/LordBoos/discord_game">Discord Game</a></b> (🥈11 ·  ⭐ 41) - Home Assistant custom component to get online and game status of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/LordBoos/discord_game) (👨‍💻 6 · 🔀 6 · 📋 38 - 5% open · ⏱️ 02.10.2022):
@@ -2481,7 +2473,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/LordBoos/discord_game
 	```
 </details>
-<details><summary><b><a href="https://github.com/jvitkauskas/homeassistant_salus">Salus iT600</a></b> (🥈11 ·  ⭐ 38) - Home Assistant integration with Salus devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jvitkauskas/homeassistant_salus">Salus iT600</a></b> (🥈11 ·  ⭐ 39) - Home Assistant integration with Salus devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jvitkauskas/homeassistant_salus) (👨‍💻 7 · 🔀 13 · 📋 35 - 60% open · ⏱️ 09.11.2022):
 
@@ -2491,7 +2483,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/filipvh/hass-nhc2">Niko Home Control II</a></b> (🥈11 ·  ⭐ 36) - Niko Home Control II Home Assistant Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/filipvh/hass-nhc2) (👨‍💻 10 · 🔀 24 · 📋 42 - 59% open · ⏱️ 28.10.2022):
+- [GitHub](https://github.com/filipvh/hass-nhc2) (👨‍💻 10 · 🔀 24 · 📋 43 - 60% open · ⏱️ 28.10.2022):
 
 	```
 	git clone https://github.com/filipvh/hass-nhc2
@@ -2505,17 +2497,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/caiosweet/Home-Assistant-custom-components-DPC-Alert
 	```
 </details>
-<details><summary><b><a href="https://github.com/mawinkler/astroweather">AstroWeather</a></b> (🥈11 ·  ⭐ 34) - Asynchronous Astro Weather Forecast for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/mawinkler/astroweather) (👨‍💻 4 · 🔀 6 · 📋 25 - 8% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/mawinkler/astroweather
-	```
-</details>
 <details><summary><b><a href="https://github.com/mchwalisz/home-assistant-senec">Senec solar system sensor</a></b> (🥈11 ·  ⭐ 33 · 💤) - SENEC Battery integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mchwalisz/home-assistant-senec) (👨‍💻 8 · 🔀 18 · 📋 25 - 48% open · ⏱️ 26.06.2022):
+- [GitHub](https://github.com/mchwalisz/home-assistant-senec) (👨‍💻 8 · 🔀 18 · 📋 26 - 50% open · ⏱️ 26.06.2022):
 
 	```
 	git clone https://github.com/mchwalisz/home-assistant-senec
@@ -2531,7 +2515,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/mampfes/ha_epex_spot">EPEX Spot</a></b> (🥈11 ·  ⭐ 31 · 🐣) - Adds EPEX Spot data to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mampfes/ha_epex_spot) (👨‍💻 2 · 🔀 3 · 📋 12 - 8% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/mampfes/ha_epex_spot) (👨‍💻 2 · 🔀 4 · 📋 15 - 20% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/mampfes/ha_epex_spot
@@ -2539,7 +2523,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/jeroenterheerdt/HADailySensor">Daily Sensor</a></b> (🥈11 ·  ⭐ 29 · 💤) - Sensor for Home Assistant that gets reset at midnight. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jeroenterheerdt/HADailySensor) (👨‍💻 6 · 🔀 9 · 📋 25 - 44% open · ⏱️ 06.06.2022):
+- [GitHub](https://github.com/jeroenterheerdt/HADailySensor) (👨‍💻 6 · 🔀 9 · 📋 26 - 46% open · ⏱️ 06.06.2022):
 
 	```
 	git clone https://github.com/jeroenterheerdt/HADailySensor
@@ -2555,7 +2539,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/kpoppel/homeassistant-eforsyning">Eforsyning</a></b> (🥈11 ·  ⭐ 24) - Home Assistant module enabling retrieval of regional heating data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/kpoppel/homeassistant-eforsyning) (👨‍💻 2 · 🔀 1 · 📋 58 - 15% open · ⏱️ 08.04.2023):
+- [GitHub](https://github.com/kpoppel/homeassistant-eforsyning) (👨‍💻 2 · 🔀 1 · 📋 58 - 13% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/kpoppel/homeassistant-eforsyning
@@ -2571,7 +2555,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/marcelwestrahome/home-assistant-niu-component">Niu Scooter Integration</a></b> (🥈11 ·  ⭐ 24 · 💤) - niu scooter integration for Home assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/marcelwestrahome/home-assistant-niu-component) (👨‍💻 4 · 🔀 19 · 📋 20 - 20% open · ⏱️ 12.08.2022):
+- [GitHub](https://github.com/marcelwestrahome/home-assistant-niu-component) (👨‍💻 4 · 🔀 19 · 📋 21 - 23% open · ⏱️ 12.08.2022):
 
 	```
 	git clone https://github.com/marcelwestrahome/home-assistant-niu-component
@@ -2579,7 +2563,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/a529987659852/openwbmqtt">openWB MQTT</a></b> (🥈11 ·  ⭐ 24) - Custom component for home assistant supporting openWB wallbox. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/a529987659852/openwbmqtt) (👨‍💻 9 · 🔀 11 · 📋 26 - 26% open · ⏱️ 01.04.2023):
+- [GitHub](https://github.com/a529987659852/openwbmqtt) (👨‍💻 9 · 🔀 12 · 📋 26 - 26% open · ⏱️ 01.04.2023):
 
 	```
 	git clone https://github.com/a529987659852/openwbmqtt
@@ -2587,7 +2571,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Limych/ha-snowtire">Snowtire Sensor</a></b> (🥈11 ·  ⭐ 24) - Home Assistant sensor to predict if its time to change.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Limych/ha-snowtire) (👨‍💻 27 · 🔀 9 · 📥 37 · 📋 9 - 22% open · ⏱️ 08.02.2023):
+- [GitHub](https://github.com/Limych/ha-snowtire) (👨‍💻 27 · 🔀 9 · 📥 38 · 📋 9 - 22% open · ⏱️ 08.02.2023):
 
 	```
 	git clone https://github.com/Limych/ha-snowtire
@@ -2595,15 +2579,23 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/mattrayner/pod-point-home-assistant-component">Pod Point</a></b> (🥈11 ·  ⭐ 24) - A simple Home Assistant integration that shows basic information from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mattrayner/pod-point-home-assistant-component) (👨‍💻 2 · 🔀 3 · 📋 18 - 22% open · ⏱️ 21.01.2023):
+- [GitHub](https://github.com/mattrayner/pod-point-home-assistant-component) (👨‍💻 2 · 🔀 3 · 📋 20 - 30% open · ⏱️ 21.01.2023):
 
 	```
 	git clone https://github.com/mattrayner/pod-point-home-assistant-component
 	```
 </details>
+<details><summary><b><a href="https://github.com/claudegel/sinope-1">Sinope Neviweb</a></b> (🥈11 ·  ⭐ 23 · 📉) - Neviweb Custom Component for Home Assistant to manage.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/claudegel/sinope-1) (👨‍💻 6 · 🔀 4 · ⏱️ 25.02.2023):
+
+	```
+	git clone https://github.com/claudegel/sinope-1
+	```
+</details>
 <details><summary><b><a href="https://github.com/gjohansson-ST/sector">Sector Alarm</a></b> (🥈11 ·  ⭐ 23) - Integration to Sector Alarm for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/gjohansson-ST/sector) (👨‍💻 3 · 🔀 9 · 📥 170 · 📋 91 - 12% open · ⏱️ 04.11.2022):
+- [GitHub](https://github.com/gjohansson-ST/sector) (👨‍💻 3 · 🔀 9 · 📥 180 · 📋 91 - 12% open · ⏱️ 04.11.2022):
 
 	```
 	git clone https://github.com/gjohansson-ST/sector
@@ -2649,20 +2641,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/giachello/mlgw
 	```
 </details>
-<details><summary><b><a href="https://github.com/tomasmcguinness/homeassistant-mixergy">Mixergy</a></b> (🥈11 ·  ⭐ 20) - Add support for Mixergys smart water tank into Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/tomasmcguinness/homeassistant-mixergy) (👨‍💻 2 · 🔀 5 · 📋 7 - 14% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/tomasmcguinness/homeassistant-mixergy
-	```
-</details>
 <details><summary><b><a href="https://github.com/wimb0/home-assistant-saj-modbus">SAJ Inverter Modbus</a></b> (🥈11 ·  ⭐ 20) - Home Assistant Component for reading data locally from SAJ.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wimb0/home-assistant-saj-modbus) (👨‍💻 6 · 🔀 6 · 📋 11 - 9% open · ⏱️ 27.02.2023):
 
 	```
 	git clone https://github.com/wimb0/home-assistant-saj-modbus
+	```
+</details>
+<details><summary><b><a href="https://github.com/Limych/ha-beward">Beward Integration</a></b> (🥈11 ·  ⭐ 20) - Home Assistant custom component for Beward security.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/Limych/ha-beward) (👨‍💻 21 · 🔀 5 · 📥 34 · 📋 18 - 5% open · ⏱️ 09.02.2023):
+
+	```
+	git clone https://github.com/Limych/ha-beward
 	```
 </details>
 <details><summary><b><a href="https://github.com/ryanwinter/hass-rainforest-emu-2">Rainforest EMU-2</a></b> (🥈11 ·  ⭐ 19) - Intergration for the Rainforest EMU-2 energy monitor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2697,14 +2689,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sergeylysov/sst_cloud
 	```
 </details>
-<details><summary><b><a href="https://github.com/Limych/ha-beward">Beward Integration</a></b> (🥈11 ·  ⭐ 19) - Home Assistant custom component for Beward security.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/Limych/ha-beward) (👨‍💻 21 · 🔀 5 · 📥 34 · 📋 18 - 5% open · ⏱️ 09.02.2023):
-
-	```
-	git clone https://github.com/Limych/ha-beward
-	```
-</details>
 <details><summary><b><a href="https://github.com/cyberjunky/home-assistant-toon_smartmeter">Toon Smart Meter</a></b> (🥈11 ·  ⭐ 17) - This component reads and displays sensor values from the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/cyberjunky/home-assistant-toon_smartmeter) (👨‍💻 11 · 🔀 11 · 📋 59 - 13% open · ⏱️ 05.01.2023):
@@ -2713,9 +2697,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/cyberjunky/home-assistant-toon_smartmeter
 	```
 </details>
+<details><summary><b><a href="https://github.com/thecode/ha-onewire-sysbus">Raspberry Pi 1-Wire via sysbus</a></b> (🥈11 ·  ⭐ 16) - Home Assistant 1-Wire via sysbus. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/thecode/ha-onewire-sysbus) (👨‍💻 5 · 🔀 6 · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/thecode/ha-onewire-sysbus
+	```
+</details>
 <details><summary><b><a href="https://github.com/mvdwetering/yamaha_ynca">Yamaha (YNCA)</a></b> (🥈11 ·  ⭐ 15) - Custom integration for Home Assistant to support Yamaha AV.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/mvdwetering/yamaha_ynca) (👨‍💻 4 · 🔀 1 · 📥 80 · 📋 29 - 10% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/mvdwetering/yamaha_ynca) (👨‍💻 4 · 🔀 1 · 📥 83 · 📋 29 - 10% open · ⏱️ 15.04.2023):
 
 	```
 	git clone https://github.com/mvdwetering/yamaha_ynca
@@ -2727,14 +2719,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/klejejs/ha-thermia-heat-pump-integration
-	```
-</details>
-<details><summary><b><a href="https://github.com/thecode/ha-onewire-sysbus">Raspberry Pi 1-Wire via sysbus</a></b> (🥈11 ·  ⭐ 15) - Home Assistant 1-Wire via sysbus. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/thecode/ha-onewire-sysbus) (👨‍💻 5 · 🔀 6 · ⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/thecode/ha-onewire-sysbus
 	```
 </details>
 <details><summary><b><a href="https://github.com/caiosweet/Home-Assistant-custom-components-INGV">INGV Earthquakes</a></b> (🥈11 ·  ⭐ 14) - INGV - National Institute of Geophysics and Volcanology.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2771,7 +2755,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/pinkywafer/Calendarific">Calendarific</a></b> (🥈11 ·  ⭐ 13) - Calendarific holiday sensor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pinkywafer/Calendarific) (👨‍💻 6 · 🔀 7 · 📥 4.2K · 📋 23 - 17% open · ⏱️ 09.03.2023):
+- [GitHub](https://github.com/pinkywafer/Calendarific) (👨‍💻 6 · 🔀 8 · 📥 4.2K · 📋 23 - 17% open · ⏱️ 09.03.2023):
 
 	```
 	git clone https://github.com/pinkywafer/Calendarific
@@ -2785,14 +2769,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/aceindy/Duepi_EVO
 	```
 </details>
-<details><summary><b><a href="https://github.com/laszlojakab/homeassistant-easycontrols">Helios EasyControls Modbus TCP/IP integration</a></b> (🥈11 ·  ⭐ 12) - Helios EasyControls Modbus TCP/IP integration for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/laszlojakab/homeassistant-easycontrols) (👨‍💻 5 · 🔀 7 · 📥 620 · 📋 34 - 11% open · ⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/laszlojakab/homeassistant-easycontrols
-	```
-</details>
 <details><summary><b><a href="https://github.com/laszlojakab/homeassistant-dijnet">Dijnet integration</a></b> (🥈11 ·  ⭐ 11) - Dijnet integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/laszlojakab/homeassistant-dijnet) (👨‍💻 3 · 🔀 1 · 📥 920 · 📋 25 - 16% open · ⏱️ 03.01.2023):
@@ -2801,20 +2777,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/laszlojakab/homeassistant-dijnet
 	```
 </details>
+<details><summary><b><a href="https://github.com/dominikamann/oekofen-pellematic-compact">Ökofen Pellematic Compact</a></b> (🥈11 ·  ⭐ 11 · 🐣) - A kofen Pellematic Compact Integration based on.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/dominikamann/oekofen-pellematic-compact) (👨‍💻 4 · 🔀 3 · 📋 8 - 12% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/dominikamann/oekofen-pellematic-compact
+	```
+</details>
 <details><summary><b><a href="https://github.com/briis/meteobridge">Meteobridge Datalogger Integration</a></b> (🥈11 ·  ⭐ 9) - The Meteobridge Integration adds support for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/briis/meteobridge) (👨‍💻 5 · 🔀 4 · 📋 23 - 13% open · ⏱️ 24.02.2023):
 
 	```
 	git clone https://github.com/briis/meteobridge
-	```
-</details>
-<details><summary><b><a href="https://github.com/markvader/sonic">Sonic</a></b> (🥈11 ·  ⭐ 8) - Sonic water shutoff valve Home Assistant integration by @markvader. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/markvader/sonic) (👨‍💻 3 · 🔀 1 · 📋 13 - 53% open · ⏱️ 06.04.2023):
-
-	```
-	git clone https://github.com/markvader/sonic
 	```
 </details>
 <details><summary><b><a href="https://github.com/bouwew/sems2mqtt">bouwew/sems2mqtt</a></b> (🥈11 ·  ⭐ 8) - GoodWe SEMS MQTT-componenent for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2827,7 +2803,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Kannix2005/homeassistant-selve">Selve NG</a></b> (🥈11 ·  ⭐ 7) - Home Assistant Custom component to manage Selve devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Kannix2005/homeassistant-selve) (👨‍💻 5 · 🔀 1 · 📋 11 - 18% open · ⏱️ 08.03.2023):
+- [GitHub](https://github.com/Kannix2005/homeassistant-selve) (👨‍💻 6 · 🔀 1 · 📋 11 - 9% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/Kannix2005/homeassistant-selve
@@ -2843,7 +2819,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dahlb/ha_blueair">Blueair Filters</a></b> (🥈11 ·  ⭐ 6) - Home Assistant Integration for Blueair Class Filters. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dahlb/ha_blueair) (👨‍💻 5 · 🔀 1 · 📋 9 - 22% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/dahlb/ha_blueair) (👨‍💻 5 · 🔀 1 · 📋 9 - 22% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/dahlb/ha_blueair
@@ -2857,17 +2833,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/eifinger/hass-here-weather
 	```
 </details>
-<details><summary><b><a href="https://github.com/drc38/Fronius_solarweb">Fronius_Solarweb</a></b> (🥈11 · 🐣) - Home Assistant integration for cloud-based Fronius Solar.web api. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/al-one/hass-miio-yeelink">Xiaomi Miio For Yeelink</a></b> (🥉10 ·  ⭐ 150 · 💤) - Xiaomi Miio Yeelink/Yeelight devices for Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/drc38/Fronius_solarweb) (👨‍💻 3 · 📥 410 · ⏱️ 09.04.2023):
-
-	```
-	git clone https://github.com/drc38/Fronius_solarweb
-	```
-</details>
-<details><summary><b><a href="https://github.com/al-one/hass-miio-yeelink">Xiaomi Miio For Yeelink</a></b> (🥉10 ·  ⭐ 140 · 💤) - Xiaomi Miio Yeelink/Yeelight devices for Home.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/al-one/hass-miio-yeelink) (👨‍💻 5 · 🔀 23 · 📥 220 · 📋 59 - 35% open · ⏱️ 18.05.2022):
+- [GitHub](https://github.com/al-one/hass-miio-yeelink) (👨‍💻 5 · 🔀 23 · 📥 220 · 📋 60 - 36% open · ⏱️ 18.05.2022):
 
 	```
 	git clone https://github.com/al-one/hass-miio-yeelink
@@ -2889,7 +2857,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/andvikt/mega_hacs
 	```
 </details>
-<details><summary><b><a href="https://github.com/syssi/xiaomi_raw">Xiaomi MiIO Raw</a></b> (🥉10 ·  ⭐ 92) - Custom component for Home Assistant to faciliate the reverse.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/jjlawren/sonos_cloud">Sonos Cloud</a></b> (🥉10 ·  ⭐ 94) - Sonos cloud API integration for Home Assistant with improved.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/jjlawren/sonos_cloud) (👨‍💻 4 · 🔀 4 · 📋 40 - 7% open · ⏱️ 23.02.2023):
+
+	```
+	git clone https://github.com/jjlawren/sonos_cloud
+	```
+</details>
+<details><summary><b><a href="https://github.com/syssi/xiaomi_raw">Xiaomi MiIO Raw</a></b> (🥉10 ·  ⭐ 93) - Custom component for Home Assistant to faciliate the reverse.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/syssi/xiaomi_raw) (👨‍💻 4 · 🔀 16 · 📋 21 - 38% open · ⏱️ 26.02.2023):
 
@@ -2899,7 +2875,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/fineemb/Colorfulclouds-weather">彩云天气</a></b> (🥉10 ·  ⭐ 89) - HASS. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fineemb/Colorfulclouds-weather) (👨‍💻 5 · 🔀 36 · 📋 30 - 23% open · ⏱️ 20.12.2022):
+- [GitHub](https://github.com/fineemb/Colorfulclouds-weather) (👨‍💻 5 · 🔀 37 · 📋 30 - 23% open · ⏱️ 20.12.2022):
 
 	```
 	git clone https://github.com/fineemb/Colorfulclouds-weather
@@ -2907,7 +2883,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/cyberjunky/home-assistant-google_fit">Google Fit</a></b> (🥉10 ·  ⭐ 86 · 💤) - This component tracks your Google Fit activities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/cyberjunky/home-assistant-google_fit) (👨‍💻 4 · 🔀 16 · 📋 31 - 58% open · ⏱️ 06.06.2022):
+- [GitHub](https://github.com/cyberjunky/home-assistant-google_fit) (👨‍💻 4 · 🔀 16 · 📋 33 - 60% open · ⏱️ 06.06.2022):
 
 	```
 	git clone https://github.com/cyberjunky/home-assistant-google_fit
@@ -2929,6 +2905,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/TimSoethout/goodwe-sems-home-assistant
 	```
 </details>
+<details><summary><b><a href="https://github.com/hif2k1/battery_sim">battery_sim</a></b> (🥉10 ·  ⭐ 56) - Home assistant home battery simulator - allows you to model.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/hif2k1/battery_sim) (👨‍💻 8 · 🔀 7 · 📋 61 - 11% open · ⏱️ 28.02.2023):
+
+	```
+	git clone https://github.com/hif2k1/battery_sim
+	```
+</details>
 <details><summary><b><a href="https://github.com/websylv/homeassistant-meteoswiss">Meteo Swiss</a></b> (🥉10 ·  ⭐ 56) - Meteo Swiss Integration for Home Assisant. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/websylv/homeassistant-meteoswiss) (👨‍💻 7 · 🔀 16 · 📋 76 - 59% open · ⏱️ 17.01.2023):
@@ -2937,15 +2921,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/websylv/homeassistant-meteoswiss
 	```
 </details>
-<details><summary><b><a href="https://github.com/jm-73/Indego">Bosch Indego Mower</a></b> (🥉10 ·  ⭐ 50) - Home Assistant Custom Component for Bosch Indego Lawn.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/jm-73/Indego) (👨‍💻 7 · 🔀 17 · 📋 110 - 2% open · ⏱️ 27.01.2023):
-
-	```
-	git clone https://github.com/jm-73/Indego
-	```
-</details>
-<details><summary><b><a href="https://github.com/rccoleman/lamarzocco">La Marzocco</a></b> (🥉10 ·  ⭐ 47) - Interact with your La Marzocco espresso machine. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/rccoleman/lamarzocco">La Marzocco</a></b> (🥉10 ·  ⭐ 50) - Interact with your La Marzocco espresso machine. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/rccoleman/lamarzocco) (👨‍💻 4 · 🔀 4 · 📋 16 - 18% open · ⏱️ 22.03.2023):
 
@@ -2955,10 +2931,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/r-renato/ha-climacell-weather">ClimaCell Weather Provider</a></b> (🥉10 ·  ⭐ 46) - Climacell weather provider integration is a custom.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/r-renato/ha-climacell-weather) (👨‍💻 9 · 🔀 9 · 📋 61 - 50% open · ⏱️ 13.11.2022):
+- [GitHub](https://github.com/r-renato/ha-climacell-weather) (👨‍💻 9 · 🔀 9 · 📋 61 - 49% open · ⏱️ 13.11.2022):
 
 	```
 	git clone https://github.com/r-renato/ha-climacell-weather
+	```
+</details>
+<details><summary><b><a href="https://github.com/plmilord/Hass.io-custom-component-spaclient">Spa Client</a></b> (🥉10 ·  ⭐ 42) - Home Assistant integration - Spa Client. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/plmilord/Hass.io-custom-component-spaclient) (👨‍💻 4 · 🔀 13 · 📋 23 - 4% open · ⏱️ 16.04.2023):
+
+	```
+	git clone https://github.com/plmilord/Hass.io-custom-component-spaclient
 	```
 </details>
 <details><summary><b><a href="https://github.com/xraver/mercedes_me_api">Mercedes Me API</a></b> (🥉10 ·  ⭐ 42) - Script to use Mercedes Me APIs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2969,6 +2953,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/xraver/mercedes_me_api
 	```
 </details>
+<details><summary><b><a href="https://github.com/mampfes/hacs_dwd_pollenflug">DWD Pollenflug</a></b> (🥉10 ·  ⭐ 37) - Adds pollen forecasts from DWD to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mampfes/hacs_dwd_pollenflug) (👨‍💻 2 · 🔀 3 · ⏱️ 23.02.2023):
+
+	```
+	git clone https://github.com/mampfes/hacs_dwd_pollenflug
+	```
+</details>
 <details><summary><b><a href="https://github.com/turbokongen/hass-AMS">hass-AMS</a></b> (🥉10 ·  ⭐ 35) - Custom component reading AMS through MBus adapter into.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/turbokongen/hass-AMS) (👨‍💻 8 · 🔀 9 · 📋 50 - 2% open · ⏱️ 26.03.2023):
@@ -2977,12 +2969,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/turbokongen/hass-AMS
 	```
 </details>
-<details><summary><b><a href="https://github.com/mampfes/hacs_dwd_pollenflug">DWD Pollenflug</a></b> (🥉10 ·  ⭐ 35) - Adds pollen forecasts from DWD to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/dgomes/ha_erse">Entidade Reguladora dos Serviços Energéticos</a></b> (🥉10 ·  ⭐ 34) - Home Assistant Custom Component for ERSE. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mampfes/hacs_dwd_pollenflug) (👨‍💻 2 · 🔀 3 · ⏱️ 23.02.2023):
+- [GitHub](https://github.com/dgomes/ha_erse) (👨‍💻 2 · 🔀 4 · 📋 26 - 30% open · ⏱️ 28.02.2023):
 
 	```
-	git clone https://github.com/mampfes/hacs_dwd_pollenflug
+	git clone https://github.com/dgomes/ha_erse
 	```
 </details>
 <details><summary><b><a href="https://github.com/trvqhuy/nestup_evn">EVN Data Fetcher</a></b> (🥉10 ·  ⭐ 33) - A simple yet efficient custom component to fetch data from.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2993,14 +2985,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/trvqhuy/nestup_evn
 	```
 </details>
-<details><summary><b><a href="https://github.com/dgomes/ha_erse">Entidade Reguladora dos Serviços Energéticos</a></b> (🥉10 ·  ⭐ 32) - Home Assistant Custom Component for ERSE. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/dgomes/ha_erse) (👨‍💻 2 · 🔀 4 · 📋 26 - 30% open · ⏱️ 28.02.2023):
-
-	```
-	git clone https://github.com/dgomes/ha_erse
-	```
-</details>
 <details><summary><b><a href="https://github.com/tomasbedrich/home-assistant-hikconnect">Hik-Connect</a></b> (🥉10 ·  ⭐ 32) - A Home Assistant integration to communicate with Hikvision.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/tomasbedrich/home-assistant-hikconnect) (👨‍💻 2 · 🔀 7 · 📋 32 - 28% open · ⏱️ 25.02.2023):
@@ -3009,7 +2993,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tomasbedrich/home-assistant-hikconnect
 	```
 </details>
-<details><summary><b><a href="https://github.com/dmamontov/hass-ledfx">LedFx</a></b> (🥉10 ·  ⭐ 30) - LedFx for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/dmamontov/hass-ledfx">LedFx</a></b> (🥉10 ·  ⭐ 32) - LedFx for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/dmamontov/hass-ledfx) (👨‍💻 3 · 🔀 2 · 📋 12 - 8% open · ⏱️ 14.03.2023):
 
@@ -3027,10 +3011,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/widewing/ha-toyota-na">Toyota (North America)</a></b> (🥉10 ·  ⭐ 27) - Home Assistant integration for Toyota Motor (North.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/widewing/ha-toyota-na) (👨‍💻 4 · 🔀 7 · 📥 2.3K · 📋 39 - 53% open · ⏱️ 05.03.2023):
+- [GitHub](https://github.com/widewing/ha-toyota-na) (👨‍💻 4 · 🔀 8 · 📥 2.3K · 📋 39 - 53% open · ⏱️ 05.03.2023):
 
 	```
 	git clone https://github.com/widewing/ha-toyota-na
+	```
+</details>
+<details><summary><b><a href="https://github.com/bertbert72/HomeAssistant_VirginTivo">bertbert72/HomeAssistant_VirginTivo</a></b> (🥉10 ·  ⭐ 27) - HomeAssistant component for control of Virgin Media.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/bertbert72/HomeAssistant_VirginTivo) (👨‍💻 6 · 🔀 19 · 📋 57 - 1% open · ⏱️ 25.01.2023):
+
+	```
+	git clone https://github.com/bertbert72/HomeAssistant_VirginTivo
 	```
 </details>
 <details><summary><b><a href="https://github.com/sillyfrog/Automate-Pulse-v2">Rollease Acmeda Automate Pulse Hub v2</a></b> (🥉10 ·  ⭐ 24) - Rollease Acmeda Automate Pulse Hub v2 integration for.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -3041,17 +3033,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sillyfrog/Automate-Pulse-v2
 	```
 </details>
-<details><summary><b><a href="https://github.com/duhow/hass-aigues-barcelona">Aigües de Barcelona</a></b> (🥉10 ·  ⭐ 24 · 🐣) - Custom component for Home Assistant to integrate data.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/duhow/hass-aigues-barcelona) (🔀 2 · 📋 8 - 25% open · ⏱️ 06.03.2023):
-
-	```
-	git clone https://github.com/duhow/hass-aigues-barcelona
-	```
-</details>
 <details><summary><b><a href="https://github.com/BobTheShoplifter/HomeAssistant-Posten">Når kommer posten</a></b> (🥉10 ·  ⭐ 23 · 🐣) - Posten integrasjon som trigger dagen nr posten kommer:.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/BobTheShoplifter/HomeAssistant-Posten) (🔀 1 · 📋 8 - 12% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/BobTheShoplifter/HomeAssistant-Posten) (🔀 1 · 📋 9 - 22% open · ⏱️ 01.03.2023):
 
 	```
 	git clone https://github.com/BobTheShoplifter/HomeAssistant-Posten
@@ -3059,10 +3043,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/msvisser/remeha_home">Remeha Home</a></b> (🥉10 ·  ⭐ 23 · 🐣) - Remeha Home integration for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/msvisser/remeha_home) (👨‍💻 3 · 🔀 4 · 📋 17 - 11% open · ⏱️ 25.02.2023):
+- [GitHub](https://github.com/msvisser/remeha_home) (👨‍💻 3 · 🔀 4 · 📋 18 - 5% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/msvisser/remeha_home
+	```
+</details>
+<details><summary><b><a href="https://github.com/rsnodgrass/hass-poolmath">Pool Math (Trouble Free Pool)</a></b> (🥉10 ·  ⭐ 21) - Pool Math for Home Assistant. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/rsnodgrass/hass-poolmath) (👨‍💻 5 · 🔀 5 · 📋 18 - 11% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/rsnodgrass/hass-poolmath
 	```
 </details>
 <details><summary><b><a href="https://github.com/GeorgeSG/ha-slack-user">Slack User</a></b> (🥉10 ·  ⭐ 21) - Slack User sensor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3081,20 +3073,28 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/DSorlov/swemail
 	```
 </details>
-<details><summary><b><a href="https://github.com/hellqvio86/home_assistant_casambi">Casambi</a></b> (🥉10 ·  ⭐ 20) - Home assistant Integration for Casambi Cloud lights. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/hellqvio86/home_assistant_casambi) (👨‍💻 8 · 🔀 10 · 📋 36 - 8% open · ⏱️ 07.01.2023):
-
-	```
-	git clone https://github.com/hellqvio86/home_assistant_casambi
-	```
-</details>
-<details><summary><b><a href="https://github.com/jugla/keyatome">keyatome</a></b> (🥉10 ·  ⭐ 19) - Home Assistant component to handle key atome (linky) -conso live feature-. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jugla/keyatome">keyatome</a></b> (🥉10 ·  ⭐ 20) - Home Assistant component to handle key atome (linky) -conso live feature-. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/jugla/keyatome) (👨‍💻 2 · 🔀 4 · 📋 26 - 3% open · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/jugla/keyatome
+	```
+</details>
+<details><summary><b><a href="https://github.com/hellqvio86/home_assistant_casambi">Casambi</a></b> (🥉10 ·  ⭐ 20) - Home assistant Integration for Casambi Cloud lights. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/hellqvio86/home_assistant_casambi) (👨‍💻 8 · 🔀 10 · 📋 36 - 8% open · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/hellqvio86/home_assistant_casambi
+	```
+</details>
+<details><summary><b><a href="https://github.com/petergridge/openweathermaphistory">openweathermaphistory</a></b> (🥉10 ·  ⭐ 20) - A home assistant sensor that uses the OpenWeatherMap.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/petergridge/openweathermaphistory) (🔀 3 · 📥 720 · 📋 13 - 15% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/petergridge/openweathermaphistory
 	```
 </details>
 <details><summary><b><a href="https://github.com/kirei/hass-chargeamps">Chargeamps</a></b> (🥉10 ·  ⭐ 19) - Home Assistant Component for Chargeamps. <code>❗Unlicensed</code></summary>
@@ -3105,17 +3105,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/kirei/hass-chargeamps
 	```
 </details>
-<details><summary><b><a href="https://github.com/petergridge/openweathermaphistory">openweathermaphistory</a></b> (🥉10 ·  ⭐ 19) - A home assistant sensor that uses the OpenWeatherMap.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/petergridge/openweathermaphistory) (🔀 3 · 📥 550 · 📋 13 - 15% open · ⏱️ 19.04.2023):
-
-	```
-	git clone https://github.com/petergridge/openweathermaphistory
-	```
-</details>
 <details><summary><b><a href="https://github.com/Jezza34000/homeassistant_weback_component">Weback vacuum</a></b> (🥉10 ·  ⭐ 18 · 🐣) - Control vacuum using Weback app into HomeAssistant... <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Jezza34000/homeassistant_weback_component) (👨‍💻 5 · 🔀 3 · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/Jezza34000/homeassistant_weback_component) (👨‍💻 5 · 🔀 3 · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/Jezza34000/homeassistant_weback_component
@@ -3147,7 +3139,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/DeerMaximum/QR-Code-Generator">QR-Code Generator</a></b> (🥉10 ·  ⭐ 16) - Custom Home Assistant integration to create a camera that.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/DeerMaximum/QR-Code-Generator) (👨‍💻 4 · 🔀 3 · 📋 11 - 9% open · ⏱️ 11.04.2023):
+- [GitHub](https://github.com/DeerMaximum/QR-Code-Generator) (👨‍💻 4 · 🔀 3 · 📋 12 - 16% open · ⏱️ 11.04.2023):
 
 	```
 	git clone https://github.com/DeerMaximum/QR-Code-Generator
@@ -3169,6 +3161,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/pawkakol1/worlds-air-quality-index
 	```
 </details>
+<details><summary><b><a href="https://github.com/DeerMaximum/Technische-Alternative-CMI">Technische Alternative C.M.I.</a></b> (🥉10 ·  ⭐ 14 · 📈) - Custom Home Assistant integration to read data from a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/DeerMaximum/Technische-Alternative-CMI) (👨‍💻 2 · 🔀 1 · 📋 22 - 4% open · ⏱️ 23.04.2023):
+
+	```
+	git clone https://github.com/DeerMaximum/Technische-Alternative-CMI
+	```
+</details>
 <details><summary><b><a href="https://github.com/giachello/beoplay">BeoPlay</a></b> (🥉10 ·  ⭐ 13) - Home Assistant component to control BeoPlay including TVs,.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/giachello/beoplay) (👨‍💻 2 · 🔀 5 · 📋 28 - 3% open · ⏱️ 16.04.2023):
@@ -3185,9 +3185,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/mathieu-mp/homeassistant-intex-spa
 	```
 </details>
+<details><summary><b><a href="https://github.com/wizmo2/zidoo-player">Zidoo Media Player</a></b> (🥉10 ·  ⭐ 11) - Home-assistant custom component and api wrapper for.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/wizmo2/zidoo-player) (👨‍💻 2 · 🔀 4 · 📋 10 - 20% open · ⏱️ 17.04.2023):
+
+	```
+	git clone https://github.com/wizmo2/zidoo-player
+	```
+</details>
 <details><summary><b><a href="https://github.com/firstof9/ha-openei">OpenEI</a></b> (🥉10 ·  ⭐ 11 · 💤) - OpenEI integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/firstof9/ha-openei) (🔀 1 · 📥 680 · ⏱️ 27.05.2022):
+- [GitHub](https://github.com/firstof9/ha-openei) (🔀 1 · 📥 690 · ⏱️ 27.05.2022):
 
 	```
 	git clone https://github.com/firstof9/ha-openei
@@ -3227,10 +3235,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dahlb/ha_carrier">Carrier Infinity Thermostat</a></b> (🥉10 ·  ⭐ 8 · 🐣) - Carrier Infinity Integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/dahlb/ha_carrier) (👨‍💻 3 · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/dahlb/ha_carrier) (👨‍💻 3 · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/dahlb/ha_carrier
+	```
+</details>
+<details><summary><b><a href="https://github.com/markvader/sonic">Sonic</a></b> (🥉10 ·  ⭐ 8) - Sonic water shutoff valve Home Assistant integration by @markvader. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/markvader/sonic) (👨‍💻 3 · 🔀 1 · 📋 13 - 53% open · ⏱️ 06.04.2023):
+
+	```
+	git clone https://github.com/markvader/sonic
 	```
 </details>
 <details><summary><b><a href="https://github.com/custom-components/sensor.avfallsor">Avfallsor</a></b> (🥉10 ·  ⭐ 8) - Simple sensor for avfallsor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3251,7 +3267,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/iprak/weatherapi">WeatherAPI</a></b> (🥉10 ·  ⭐ 6) - HomeAssistant custom integration to fetch data from weatherapi. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iprak/weatherapi) (👨‍💻 4 · 🔀 3 · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/iprak/weatherapi) (👨‍💻 4 · 🔀 3 · 📋 11 - 9% open · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/iprak/weatherapi
@@ -3267,7 +3283,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/ydogandjiev/hass-sutro">Sutro</a></b> (🥉10 ·  ⭐ 6) - This component integrates Home Assistant with Sutro (https://mysutro.com/), a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ydogandjiev/hass-sutro) (👨‍💻 4 · 🔀 1 · 📋 4 - 50% open · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/ydogandjiev/hass-sutro) (👨‍💻 4 · 🔀 2 · 📋 4 - 50% open · ⏱️ 07.04.2023):
 
 	```
 	git clone https://github.com/ydogandjiev/hass-sutro
@@ -3315,7 +3331,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/astrandb/viva">ViVa Coastal Weather</a></b> (🥉10 ·  ⭐ 2 · 🐣) - A modern Home Assistant integration for ViVa weather.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/astrandb/viva) (📥 410 · ⏱️ 03.04.2023):
+- [GitHub](https://github.com/astrandb/viva) (📥 420 · ⏱️ 03.04.2023):
 
 	```
 	git clone https://github.com/astrandb/viva
@@ -3337,9 +3353,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/WillCodeForCats/tekmar-482
 	```
 </details>
+<details><summary><b><a href="https://github.com/drc38/Fronius_solarweb">Fronius_Solarweb</a></b> (🥉10 ·  ⭐ 1 · 🐣) - Home Assistant integration for cloud-based Fronius Solar.web.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/drc38/Fronius_solarweb) (👨‍💻 3 · 📥 430 · ⏱️ 09.04.2023):
+
+	```
+	git clone https://github.com/drc38/Fronius_solarweb
+	```
+</details>
 <details><summary><b><a href="https://github.com/elden1337/hass-peaqhvac">Peaqhvac</a></b> (🥉10) - Home Assistant custom component to help hvac-systems stay below peak.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/elden1337/hass-peaqhvac) (👨‍💻 2 · 📋 31 - 32% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/elden1337/hass-peaqhvac) (👨‍💻 2 · 📋 31 - 32% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/elden1337/hass-peaqhvac
@@ -3347,7 +3371,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/redlukas/emu_mbus_center">Emu M-Bus Center</a></b> (🥉10 · 🐣) - Reads Values from a Emu M-Bus Center and exposes them to Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/redlukas/emu_mbus_center) (👨‍💻 2 · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/redlukas/emu_mbus_center) (👨‍💻 2 · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/redlukas/emu_mbus_center
@@ -3361,20 +3385,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/twrecked/hass-virtual
 	```
 </details>
+<details><summary><b><a href="https://github.com/koying/openrgb_ha">OpenRGB</a></b> (🥉9 ·  ⭐ 71) - OpenRGB integration for Home Assistant. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/koying/openrgb_ha) (👨‍💻 5 · 🔀 10 · 📋 23 - 65% open · ⏱️ 19.03.2023):
+
+	```
+	git clone https://github.com/koying/openrgb_ha
+	```
+</details>
 <details><summary><b><a href="https://github.com/elad-bar/ha-hpprinter">HP Printers Integration</a></b> (🥉9 ·  ⭐ 71 · 💤) - HP Printer Integration. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/elad-bar/ha-hpprinter) (👨‍💻 12 · 🔀 15 · 📋 77 - 18% open · ⏱️ 26.05.2022):
 
 	```
 	git clone https://github.com/elad-bar/ha-hpprinter
-	```
-</details>
-<details><summary><b><a href="https://github.com/koying/openrgb_ha">OpenRGB</a></b> (🥉9 ·  ⭐ 70) - OpenRGB integration for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/koying/openrgb_ha) (👨‍💻 5 · 🔀 10 · 📋 23 - 65% open · ⏱️ 19.03.2023):
-
-	```
-	git clone https://github.com/koying/openrgb_ha
 	```
 </details>
 <details><summary><b><a href="https://github.com/LAB02-Research/HASS.Agent-Notifier">HASS.Agent Notifier</a></b> (🥉9 ·  ⭐ 65) - HASS.Agent Notifier integration. Adds notifications to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3401,7 +3425,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/hcoohb/hass-yeelightbt
 	```
 </details>
-<details><summary><b><a href="https://github.com/elad-bar/ha-shinobi">Shinobi Video NVR</a></b> (🥉9 ·  ⭐ 42) - Shinobi Video custom component for HA. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/elad-bar/ha-shinobi">Shinobi Video NVR</a></b> (🥉9 ·  ⭐ 43) - Shinobi Video custom component for HA. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/elad-bar/ha-shinobi) (👨‍💻 2 · 🔀 2 · 📋 46 - 10% open · ⏱️ 14.03.2023):
 
@@ -3425,9 +3449,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/twrecked/hass-momentary
 	```
 </details>
-<details><summary><b><a href="https://github.com/snicker/zwift_hass">Zwift Sensors</a></b> (🥉9 ·  ⭐ 33 · 📈) - Zwift Sensor Integration for HomeAssistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/snicker/zwift_hass">Zwift Sensors</a></b> (🥉9 ·  ⭐ 33) - Zwift Sensor Integration for HomeAssistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/snicker/zwift_hass) (👨‍💻 5 · 🔀 12 · 📋 20 - 20% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/snicker/zwift_hass) (👨‍💻 5 · 🔀 12 · 📋 21 - 19% open · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/snicker/zwift_hass
@@ -3465,20 +3489,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sanghviharshit/ha-mila
 	```
 </details>
-<details><summary><b><a href="https://github.com/bertbert72/HomeAssistant_VirginTivo">bertbert72/HomeAssistant_VirginTivo</a></b> (🥉9 ·  ⭐ 27) - HomeAssistant component for control of Virgin Media.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/duhow/hass-aigues-barcelona">Aigües de Barcelona</a></b> (🥉9 ·  ⭐ 24 · 🐣) - Custom component for Home Assistant to integrate data.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/bertbert72/HomeAssistant_VirginTivo) (👨‍💻 6 · 🔀 19 · 📋 57 - 1% open · ⏱️ 25.01.2023):
-
-	```
-	git clone https://github.com/bertbert72/HomeAssistant_VirginTivo
-	```
-</details>
-<details><summary><b><a href="https://github.com/rsnodgrass/hass-poolmath">Pool Math (Trouble Free Pool)</a></b> (🥉9 ·  ⭐ 21) - Pool Math for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/rsnodgrass/hass-poolmath) (👨‍💻 5 · 🔀 5 · 📋 18 - 11% open · ⏱️ 07.11.2022):
+- [GitHub](https://github.com/duhow/hass-aigues-barcelona) (🔀 2 · 📋 8 - 25% open · ⏱️ 06.03.2023):
 
 	```
-	git clone https://github.com/rsnodgrass/hass-poolmath
+	git clone https://github.com/duhow/hass-aigues-barcelona
 	```
 </details>
 <details><summary><b><a href="https://github.com/pawelhulek/pgnig-sensor">PGNIG sensor</a></b> (🥉9 ·  ⭐ 21 · 💤) - This sensor is gathering gas usage data from PGNIG ebok page. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3491,10 +3507,18 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/vmakeev/huawei_mesh_router">Huawei Mesh Router</a></b> (🥉9 ·  ⭐ 20) - Huawei mesh router component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/vmakeev/huawei_mesh_router) (👨‍💻 2 · 🔀 3 · 📥 87 · 📋 22 - 9% open · ⏱️ 02.03.2023):
+- [GitHub](https://github.com/vmakeev/huawei_mesh_router) (👨‍💻 2 · 🔀 3 · 📥 92 · 📋 22 - 9% open · ⏱️ 02.03.2023):
 
 	```
 	git clone https://github.com/vmakeev/huawei_mesh_router
+	```
+</details>
+<details><summary><b><a href="https://github.com/B5r1oJ0A9G/teufel_raumfeld">Teufel Raumfeld</a></b> (🥉9 ·  ⭐ 20) - Integration for Teufel smart speaker (aka Raumfeld.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/B5r1oJ0A9G/teufel_raumfeld) (👨‍💻 4 · 🔀 5 · 📥 750 · 📋 27 - 51% open · ⏱️ 24.10.2022):
+
+	```
+	git clone https://github.com/B5r1oJ0A9G/teufel_raumfeld
 	```
 </details>
 <details><summary><b><a href="https://github.com/mbillow/ha-chargepoint">ChargePoint</a></b> (🥉9 ·  ⭐ 20) - Home Assistant ChargePoint EV Charger Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3511,14 +3535,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/JurajNyiri/HomeAssistant-Atrea
-	```
-</details>
-<details><summary><b><a href="https://github.com/B5r1oJ0A9G/teufel_raumfeld">Teufel Raumfeld</a></b> (🥉9 ·  ⭐ 19) - Integration for Teufel smart speaker (aka Raumfeld.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/B5r1oJ0A9G/teufel_raumfeld) (👨‍💻 4 · 🔀 5 · 📥 740 · 📋 27 - 51% open · ⏱️ 24.10.2022):
-
-	```
-	git clone https://github.com/B5r1oJ0A9G/teufel_raumfeld
 	```
 </details>
 <details><summary><b><a href="https://github.com/joggs/home_assistant_ebeco">Ebeco thermostats</a></b> (🥉9 ·  ⭐ 19) - Integration for Ebeco thermostats. <code>❗Unlicensed</code></summary>
@@ -3553,9 +3569,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/lociii/homeassistant-csgo
 	```
 </details>
+<details><summary><b><a href="https://github.com/chises/ha-oilfox">OilFox Sensor</a></b> (🥉9 ·  ⭐ 17) - HomeAssistant Sensor for Oilfox. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/chises/ha-oilfox) (🔀 3 · 📋 20 - 10% open · ⏱️ 24.04.2023):
+
+	```
+	git clone https://github.com/chises/ha-oilfox
+	```
+</details>
 <details><summary><b><a href="https://github.com/amaximus/fkf-garbage-collection">FKF Budapest Garbage Collection</a></b> (🥉9 ·  ⭐ 17) - FKF Budapest Garbage Collection custom component for.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/amaximus/fkf-garbage-collection) (👨‍💻 7 · 🔀 5 · 📥 160 · 📋 15 - 13% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/amaximus/fkf-garbage-collection) (👨‍💻 7 · 🔀 5 · 📥 170 · 📋 15 - 6% open · ⏱️ 18.04.2023):
 
 	```
 	git clone https://github.com/amaximus/fkf-garbage-collection
@@ -3563,10 +3587,34 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/jugla/worldtidesinfocustom">worldtidesinfocustom</a></b> (🥉9 ·  ⭐ 16) - world tides info custom component for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jugla/worldtidesinfocustom) (👨‍💻 3 · 🔀 1 · 📋 20 - 10% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/jugla/worldtidesinfocustom) (👨‍💻 3 · 🔀 1 · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/jugla/worldtidesinfocustom
+	```
+</details>
+<details><summary><b><a href="https://github.com/Anrolosia/Shopping-List-with-Grocy">Shopping List with Grocy</a></b> (🥉9 ·  ⭐ 16 · 🐣) - A Shopping list integration with Grocy for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/Anrolosia/Shopping-List-with-Grocy) (👨‍💻 3 · 🔀 1 · ⏱️ 12.04.2023):
+
+	```
+	git clone https://github.com/Anrolosia/Shopping-List-with-Grocy
+	```
+</details>
+<details><summary><b><a href="https://github.com/tmonck/clean_up_snapshots">Clean up snapshots service</a></b> (🥉9 ·  ⭐ 15) - Service to clean up your home assistant snapshots, so.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/tmonck/clean_up_snapshots) (👨‍💻 6 · 🔀 6 · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/tmonck/clean_up_snapshots
+	```
+</details>
+<details><summary><b><a href="https://github.com/t0mer/manish-custom-notifier">MaNish whatsapp custom notification / notify</a></b> (🥉9 ·  ⭐ 15 · 🐣) - manish custom notifier allows you to send whatsapp.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/t0mer/manish-custom-notifier) (🔀 1 · ⏱️ 12.03.2023):
+
+	```
+	git clone https://github.com/t0mer/manish-custom-notifier
 	```
 </details>
 <details><summary><b><a href="https://github.com/ITTV-tools/homeassistant-kostalplenticore">Kostal Plenticore</a></b> (🥉9 ·  ⭐ 15 · 💤) - Home Assistant Component for Kostal Plenticore. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3585,20 +3633,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/sockless-coding/garo_wallbox
 	```
 </details>
-<details><summary><b><a href="https://github.com/Anrolosia/Shopping-List-with-Grocy">Shopping List with Grocy</a></b> (🥉9 ·  ⭐ 15 · 🐣) - A Shopping list integration with Grocy for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rsnodgrass/hass-xantech">Xantech/Dayton Audio/Sonance Multi-Zone Amp</a></b> (🥉9 ·  ⭐ 14) - Xantech Multi-Zone Matrix Audio for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Anrolosia/Shopping-List-with-Grocy) (👨‍💻 3 · 🔀 1 · ⏱️ 12.04.2023):
-
-	```
-	git clone https://github.com/Anrolosia/Shopping-List-with-Grocy
-	```
-</details>
-<details><summary><b><a href="https://github.com/t0mer/manish-custom-notifier">MaNish whatsapp custom notification / notify</a></b> (🥉9 ·  ⭐ 14 · 🐣) - manish custom notifier allows you to send whatsapp.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/t0mer/manish-custom-notifier) (🔀 2 · ⏱️ 12.03.2023):
+- [GitHub](https://github.com/rsnodgrass/hass-xantech) (👨‍💻 2 · 🔀 5 · ⏱️ 22.04.2023):
 
 	```
-	git clone https://github.com/t0mer/manish-custom-notifier
+	git clone https://github.com/rsnodgrass/hass-xantech
 	```
 </details>
 <details><summary><b><a href="https://github.com/Vaskivskyi/ha-chroma">Chroma</a></b> (🥉9 ·  ⭐ 13) - Control your Chroma-enabled devices from Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -3643,7 +3683,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/toreamun/victorsmartkill-homeassistant">Victor Smart-Kill</a></b> (🥉9 ·  ⭐ 13) - Home Assistant integration for Victor Smart-Kill WI-FI.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/toreamun/victorsmartkill-homeassistant) (👨‍💻 4 · 🔀 4 · 📥 45 · 📋 23 - 17% open · ⏱️ 30.01.2023):
+- [GitHub](https://github.com/toreamun/victorsmartkill-homeassistant) (👨‍💻 4 · 🔀 4 · 📥 46 · 📋 23 - 17% open · ⏱️ 30.01.2023):
 
 	```
 	git clone https://github.com/toreamun/victorsmartkill-homeassistant
@@ -3689,20 +3729,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tlskinneriv/awnet_local
 	```
 </details>
+<details><summary><b><a href="https://github.com/modrzew/hass-flashforge-adventurer-3">FlashForge Adventurer 3</a></b> (🥉9 ·  ⭐ 10) - Home Assistant integration providing support for the.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/modrzew/hass-flashforge-adventurer-3) (🔀 6 · 📋 11 - 36% open · ⏱️ 11.04.2023):
+
+	```
+	git clone https://github.com/modrzew/hass-flashforge-adventurer-3
+	```
+</details>
 <details><summary><b><a href="https://github.com/Aohzan/ecodevices">GCE Eco-Devices</a></b> (🥉9 ·  ⭐ 10) - Home Assistant custom component for GCE Eco-Devices. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Aohzan/ecodevices) (👨‍💻 2 · 🔀 2 · 📋 32 - 6% open · ⏱️ 25.02.2023):
+- [GitHub](https://github.com/Aohzan/ecodevices) (👨‍💻 2 · 🔀 2 · 📋 32 - 3% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/Aohzan/ecodevices
-	```
-</details>
-<details><summary><b><a href="https://github.com/wizmo2/zidoo-player">Zidoo Media Player</a></b> (🥉9 ·  ⭐ 10) - Home-assistant custom component and api wrapper for.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/wizmo2/zidoo-player) (👨‍💻 2 · 🔀 4 · 📋 10 - 20% open · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/wizmo2/zidoo-player
 	```
 </details>
 <details><summary><b><a href="https://github.com/bacco007/sensor.opennem">OpenNEM (AU) Data</a></b> (🥉9 ·  ⭐ 10) - OpenNEM Sensor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3713,20 +3753,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/bacco007/sensor.opennem
 	```
 </details>
-<details><summary><b><a href="https://github.com/modrzew/hass-flashforge-adventurer-3">FlashForge Adventurer 3</a></b> (🥉9 ·  ⭐ 9) - Home Assistant integration providing support for the.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/modrzew/hass-flashforge-adventurer-3) (🔀 6 · 📋 11 - 36% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/modrzew/hass-flashforge-adventurer-3
-	```
-</details>
 <details><summary><b><a href="https://github.com/asev/homeassistant-helios">Helios ventilation</a></b> (🥉9 ·  ⭐ 9) - Custom component for Home Assistant to connect Helios.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/asev/homeassistant-helios) (👨‍💻 4 · 🔀 5 · 📋 13 - 76% open · ⏱️ 07.11.2022):
 
 	```
 	git clone https://github.com/asev/homeassistant-helios
+	```
+</details>
+<details><summary><b><a href="https://github.com/FaserF/ha-rewe">Rewe Discounts</a></b> (🥉9 ·  ⭐ 8) - Rewe Discounts Homeassistant Integration. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/FaserF/ha-rewe) (👨‍💻 4 · 🔀 1 · 📋 8 - 50% open · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/FaserF/ha-rewe
 	```
 </details>
 <details><summary><b><a href="https://github.com/TomBrien/cardiffwaste-ha">Cardiff Waste</a></b> (🥉9 ·  ⭐ 8) - A Home Assistant integration to provide sensors for waste collections.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3737,12 +3777,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/TomBrien/cardiffwaste-ha
 	```
 </details>
-<details><summary><b><a href="https://github.com/FaserF/ha-rewe">Rewe Discounts</a></b> (🥉9 ·  ⭐ 7) - Rewe Discounts Homeassistant Integration. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/myTselection/Carbu_com">Carbu.com</a></b> (🥉9 ·  ⭐ 7 · 🐣) - HACS integration to Carbu.com site to compare and save on your fuel.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/FaserF/ha-rewe) (👨‍💻 4 · 🔀 1 · 📋 7 - 57% open · ⏱️ 30.03.2023):
+- [GitHub](https://github.com/myTselection/Carbu_com) (👨‍💻 2 · 🔀 2 · 📋 19 - 15% open · ⏱️ 19.04.2023):
 
 	```
-	git clone https://github.com/FaserF/ha-rewe
+	git clone https://github.com/myTselection/Carbu_com
 	```
 </details>
 <details><summary><b><a href="https://github.com/jbouwh/ha-elro-connects">Elro Connects</a></b> (🥉9 ·  ⭐ 7) - Elro Connects K1 for Home Assistant via HACS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3755,7 +3795,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/dingo35/ha-SmartEVSEv3">SmartEVSE</a></b> (🥉9 ·  ⭐ 7 · 🐣) - Integrate SmartEVSEv3 with HomeAssistant through custom.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/dingo35/ha-SmartEVSEv3) (👨‍💻 4 · 🔀 4 · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/dingo35/ha-SmartEVSEv3) (👨‍💻 4 · 🔀 4 · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/dingo35/ha-SmartEVSEv3
@@ -3763,23 +3803,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/amosyuen/ha-registry">Home Assistant Registry</a></b> (🥉9 ·  ⭐ 7 · 🐣) - Adds services for home assistant registry operations. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/amosyuen/ha-registry) (👨‍💻 4 · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/amosyuen/ha-registry) (👨‍💻 4 · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/amosyuen/ha-registry
 	```
 </details>
-<details><summary><b><a href="https://github.com/myTselection/Carbu_com">Carbu.com</a></b> (🥉9 ·  ⭐ 6 · 🐣) - HACS integration to Carbu.com site to compare and save on your fuel.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/myTselection/Carbu_com) (👨‍💻 2 · 🔀 2 · 📋 17 - 5% open · ⏱️ 19.04.2023):
-
-	```
-	git clone https://github.com/myTselection/Carbu_com
-	```
-</details>
 <details><summary><b><a href="https://github.com/robbinjanssen/home-assistant-ojmicroline-thermostat">OJ Microline Thermostat</a></b> (🥉9 ·  ⭐ 6 · 🐣) - Home Assistant integration for an OJ Microline Wifi.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/robbinjanssen/home-assistant-ojmicroline-thermostat) (👨‍💻 3 · 🔀 2 · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/robbinjanssen/home-assistant-ojmicroline-thermostat) (👨‍💻 3 · 🔀 2 · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/robbinjanssen/home-assistant-ojmicroline-thermostat
@@ -3791,6 +3823,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/rrooggiieerr/homeassistant-benqprojector
+	```
+</details>
+<details><summary><b><a href="https://github.com/tetienne/veolia-custom-component">Veolia</a></b> (🥉9 ·  ⭐ 5) - Home Assistant custom component to retrieve information from Veolia. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/tetienne/veolia-custom-component) (👨‍💻 2 · 🔀 5 · ⏱️ 27.01.2023):
+
+	```
+	git clone https://github.com/tetienne/veolia-custom-component
 	```
 </details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Looko2">Looko2 sensor</a></b> (🥉9 ·  ⭐ 5 · 💤) - This sensor uses official API to get air quality data from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3809,12 +3849,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Breina/PowerTagGateway
 	```
 </details>
-<details><summary><b><a href="https://github.com/mtarjoianu/ha_lektrico">Lektrico Charging Station</a></b> (🥉9 ·  ⭐ 3) - Manage your Lektrico EV Charger. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/stephan192/hochwasserportal">Länderübergreifendes Hochwasser Portal</a></b> (🥉9 ·  ⭐ 4) - Home Assistant integration for Lnderbergreifendes.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mtarjoianu/ha_lektrico) (🔀 1 · 📋 10 - 30% open · ⏱️ 05.04.2023):
+- [GitHub](https://github.com/stephan192/hochwasserportal) (👨‍💻 3 · 🔀 3 · ⏱️ 23.04.2023):
 
 	```
-	git clone https://github.com/mtarjoianu/ha_lektrico
+	git clone https://github.com/stephan192/hochwasserportal
 	```
 </details>
 <details><summary><b><a href="https://github.com/myTselection/youfone_be">Youfone.be</a></b> (🥉9 ·  ⭐ 3 · 🐣) - Youfone.be Home Assistant custom component HACS to get Youfone mobile.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3823,6 +3863,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/myTselection/youfone_be
+	```
+</details>
+<details><summary><b><a href="https://github.com/sprocket-9/hacs-nuvo-serial">Nuvo multi-zone amplifier (serial)</a></b> (🥉9 ·  ⭐ 3) - Custom component to control a Nuvo Grand.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/sprocket-9/hacs-nuvo-serial) (🔀 1 · 📥 350 · 📋 7 - 14% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/sprocket-9/hacs-nuvo-serial
 	```
 </details>
 <details><summary><b><a href="https://github.com/muhlba91/onyx-homeassistant-integration">Hella ONYX.CENTER</a></b> (🥉9 ·  ⭐ 2) - Home Assistant integration (HACS) for Hellas ONYX.CENTER.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3841,6 +3889,22 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/9a4gl/hass-centrometal-boiler
 	```
 </details>
+<details><summary><b><a href="https://github.com/dahlb/ha_sense">Sense Custom Reporting (Kasa Plug Emulation)</a></b> (🥉9 ·  ⭐ 1 · 🐣) - Report custom devices to sense energy monitoring for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/dahlb/ha_sense) (👨‍💻 3 · 🔀 1 · ⏱️ 24.04.2023):
+
+	```
+	git clone https://github.com/dahlb/ha_sense
+	```
+</details>
+<details><summary><b><a href="https://github.com/hasscc/hass-edge-tts">Microsoft Edge TTS</a></b> (🥉8 ·  ⭐ 200) - :speaking head: Microsoft Edge TTS for Home.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/hasscc/hass-edge-tts) (👨‍💻 5 · 🔀 36 · 📋 24 - 37% open · ⏱️ 27.01.2023):
+
+	```
+	git clone https://github.com/hasscc/hass-edge-tts
+	```
+</details>
 <details><summary><b><a href="https://github.com/myhomeiot/DahuaVTO">Dahua VTO</a></b> (🥉8 ·  ⭐ 98) - Control Dahua VTO/VTH devices from Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/myhomeiot/DahuaVTO) (👨‍💻 2 · 🔀 13 · 📋 20 - 5% open · ⏱️ 11.04.2023):
@@ -3857,7 +3921,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Blear/HassLife
 	```
 </details>
-<details><summary><b><a href="https://github.com/CubicPill/china_southern_power_grid_stat">China Southern Power Grid Statistics</a></b> (🥉8 ·  ⭐ 62 · 🐣) - Home Assistant intergration to get statictics from.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/CubicPill/china_southern_power_grid_stat">China Southern Power Grid Statistics</a></b> (🥉8 ·  ⭐ 64 · 🐣) - Home Assistant intergration to get statictics from.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/CubicPill/china_southern_power_grid_stat) (🔀 7 · 📋 11 - 36% open · ⏱️ 13.01.2023):
 
@@ -3865,7 +3929,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/CubicPill/china_southern_power_grid_stat
 	```
 </details>
-<details><summary><b><a href="https://github.com/wez/govee-lan-hass">Govee LAN Control</a></b> (🥉8 ·  ⭐ 59 · 🐣) - Control Govee lights via the LAN API from Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wez/govee-lan-hass">Govee LAN Control</a></b> (🥉8 ·  ⭐ 61 · 🐣) - Control Govee lights via the LAN API from Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/wez/govee-lan-hass) (👨‍💻 3 · 🔀 4 · 📋 21 - 66% open · ⏱️ 04.04.2023):
 
@@ -3881,7 +3945,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/walthowd/ha-automower
 	```
 </details>
-<details><summary><b><a href="https://github.com/rsnodgrass/hass-helium">Helium Blockchain</a></b> (🥉8 ·  ⭐ 36) - Helium blockchain sensors for Home Assistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/rsnodgrass/hass-helium">Helium Blockchain</a></b> (🥉8 ·  ⭐ 37) - Helium blockchain sensors for Home Assistant. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/rsnodgrass/hass-helium) (👨‍💻 3 · 🔀 3 · ⏱️ 11.04.2023):
 
@@ -3897,15 +3961,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tikismoke/home-assistant-nespressoble
 	```
 </details>
-<details><summary><b><a href="https://github.com/custom-components/readme">Generate readme</a></b> (🥉8 ·  ⭐ 23) - Use Jinja and data from Home Assistant to generate your README.md.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/custom-components/readme) (👨‍💻 6 · 🔀 10 · 📥 340 · ⏱️ 29.01.2023):
-
-	```
-	git clone https://github.com/custom-components/readme
-	```
-</details>
-<details><summary><b><a href="https://github.com/monty68/uniled">Universal Lighting Controllers</a></b> (🥉8 ·  ⭐ 23 · 🐣) - Universal Light Controller Integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/monty68/uniled">Universal Lighting Controllers</a></b> (🥉8 ·  ⭐ 24 · 🐣) - Universal Light Controller Integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/monty68/uniled) (👨‍💻 3 · 🔀 2 · 📋 19 - 10% open · ⏱️ 07.04.2023):
 
@@ -3913,12 +3969,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/monty68/uniled
 	```
 </details>
-<details><summary><b><a href="https://github.com/Olen/home-assistant-openplantbook">OpenPlantbook</a></b> (🥉8 ·  ⭐ 22) - Integration to search and fetch data from Openplantbook.io. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Olen/home-assistant-openplantbook">OpenPlantbook</a></b> (🥉8 ·  ⭐ 23) - Integration to search and fetch data from Openplantbook.io. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/Olen/home-assistant-openplantbook) (📋 4 - 50% open · ⏱️ 24.02.2023):
 
 	```
 	git clone https://github.com/Olen/home-assistant-openplantbook
+	```
+</details>
+<details><summary><b><a href="https://github.com/custom-components/readme">Generate readme</a></b> (🥉8 ·  ⭐ 23) - Use Jinja and data from Home Assistant to generate your README.md.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/custom-components/readme) (👨‍💻 6 · 🔀 10 · 📥 340 · ⏱️ 29.01.2023):
+
+	```
+	git clone https://github.com/custom-components/readme
 	```
 </details>
 <details><summary><b><a href="https://github.com/gndean/home-assistant-hypervolt-charger">Hypervolt Charger</a></b> (🥉8 ·  ⭐ 22 · 🐣) - Home Assistant integration for Hypervolt EV charger. <code>❗Unlicensed</code></summary>
@@ -3937,12 +4001,28 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/robmarkcole/HASS-Machinebox-Classificationbox
 	```
 </details>
+<details><summary><b><a href="https://github.com/felipecrs/hass-expose-camera-stream-source">Expose Camera Stream Source</a></b> (🥉8 ·  ⭐ 21 · 🐣) - Home Assistant integration to expose an API to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/felipecrs/hass-expose-camera-stream-source) (👨‍💻 2 · 🔀 1 · 📋 8 - 25% open · ⏱️ 15.02.2023):
+
+	```
+	git clone https://github.com/felipecrs/hass-expose-camera-stream-source
+	```
+</details>
 <details><summary><b><a href="https://github.com/FaserF/ha-deutschebahn">Deutsche Bahn</a></b> (🥉8 ·  ⭐ 20) - Unofficial HA DB Integration, due to removal as of Home.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/FaserF/ha-deutschebahn) (👨‍💻 2 · 📋 12 - 41% open · ⏱️ 30.03.2023):
 
 	```
 	git clone https://github.com/FaserF/ha-deutschebahn
+	```
+</details>
+<details><summary><b><a href="https://github.com/georgezhao2010/fordpass_china">FordPass China</a></b> (🥉8 ·  ⭐ 20 · 💤) - Home AssistantHome Assistant/. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/georgezhao2010/fordpass_china) (👨‍💻 3 · 🔀 5 · 📋 7 - 42% open · ⏱️ 14.08.2022):
+
+	```
+	git clone https://github.com/georgezhao2010/fordpass_china
 	```
 </details>
 <details><summary><b><a href="https://github.com/epaulsen/energytariff">EnergyTariff</a></b> (🥉8 ·  ⭐ 20 · 🐣) - HACS Integration for monitoring Norwegian grid tariff level. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3953,12 +4033,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/epaulsen/energytariff
 	```
 </details>
-<details><summary><b><a href="https://github.com/georgezhao2010/fordpass_china">FordPass China</a></b> (🥉8 ·  ⭐ 19 · 💤) - Home AssistantHome Assistant/. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jrfernandes/ontario_energy_board">Ontario Energy Board</a></b> (🥉8 ·  ⭐ 20) - Home Assistant component that installs a sensor with the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/georgezhao2010/fordpass_china) (👨‍💻 3 · 🔀 5 · 📋 7 - 42% open · ⏱️ 14.08.2022):
+- [GitHub](https://github.com/jrfernandes/ontario_energy_board) (👨‍💻 2 · 🔀 2 · 📋 18 - 22% open · ⏱️ 18.01.2023):
 
 	```
-	git clone https://github.com/georgezhao2010/fordpass_china
+	git clone https://github.com/jrfernandes/ontario_energy_board
 	```
 </details>
 <details><summary><b><a href="https://github.com/marotoweb/home-assistant-vacuum-viomise">Viomi Robot Vacuum Cleaner SE (V-RVCLM21A)</a></b> (🥉8 ·  ⭐ 19 · 💤) - Hacky Home assistant support for Viomi SE (V-RVCLM21A). <code>❗Unlicensed</code></summary>
@@ -3969,12 +4049,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/marotoweb/home-assistant-vacuum-viomise
 	```
 </details>
-<details><summary><b><a href="https://github.com/jrfernandes/ontario_energy_board">Ontario Energy Board</a></b> (🥉8 ·  ⭐ 18) - Home Assistant component that installs a sensor with the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/gadgetchnnel/entities_calendar">Entities Calendar</a></b> (🥉8 ·  ⭐ 18) - A custom component for Home Assistant to allow regular.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/jrfernandes/ontario_energy_board) (👨‍💻 2 · 🔀 2 · 📋 17 - 17% open · ⏱️ 18.01.2023):
+- [GitHub](https://github.com/gadgetchnnel/entities_calendar) (👨‍💻 3 · 🔀 3 · 📋 11 - 27% open · ⏱️ 07.10.2022):
 
 	```
-	git clone https://github.com/jrfernandes/ontario_energy_board
+	git clone https://github.com/gadgetchnnel/entities_calendar
 	```
 </details>
 <details><summary><b><a href="https://github.com/custom-components/zaptec">custom-components/zaptec</a></b> (🥉8 ·  ⭐ 18) - zaptec charger custom component for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -3993,25 +4073,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/caronc/ha-ultrasync
 	```
 </details>
-<details><summary><b><a href="https://github.com/gadgetchnnel/entities_calendar">Entities Calendar</a></b> (🥉8 ·  ⭐ 17) - A custom component for Home Assistant to allow regular.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/gadgetchnnel/entities_calendar) (👨‍💻 3 · 🔀 3 · 📋 11 - 27% open · ⏱️ 07.10.2022):
-
-	```
-	git clone https://github.com/gadgetchnnel/entities_calendar
-	```
-</details>
-<details><summary><b><a href="https://github.com/chises/ha-oilfox">OilFox Sensor</a></b> (🥉8 ·  ⭐ 17) - HomeAssistant Sensor for Oilfox. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/chises/ha-oilfox) (🔀 3 · 📋 19 - 10% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/chises/ha-oilfox
-	```
-</details>
 <details><summary><b><a href="https://github.com/And3rsL/VisonicAlarm-for-Hassio">Visonic/Bentel/Tyco Alarm System</a></b> (🥉8 ·  ⭐ 17 · 💤) - Visonic/Bentel/Tyco Alarm System integrtation for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/And3rsL/VisonicAlarm-for-Hassio) (👨‍💻 2 · 🔀 7 · 📋 25 - 20% open · ⏱️ 29.04.2022):
+- [GitHub](https://github.com/And3rsL/VisonicAlarm-for-Hassio) (👨‍💻 2 · 🔀 8 · 📋 26 - 23% open · ⏱️ 29.04.2022):
 
 	```
 	git clone https://github.com/And3rsL/VisonicAlarm-for-Hassio
@@ -4025,14 +4089,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/definitio/ha-sox
 	```
 </details>
-<details><summary><b><a href="https://github.com/tmonck/clean_up_snapshots">Clean up snapshots service</a></b> (🥉8 ·  ⭐ 15) - Service to clean up your home assistant snapshots, so.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/tmonck/clean_up_snapshots) (👨‍💻 5 · 🔀 6 · ⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/tmonck/clean_up_snapshots
-	```
-</details>
 <details><summary><b><a href="https://github.com/ptimatth/GeorideHA">GeoRide integration</a></b> (🥉8 ·  ⭐ 15) - GeoRide integration for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/ptimatth/GeorideHA) (👨‍💻 3 · 🔀 2 · 📋 5 - 20% open · ⏱️ 18.03.2023):
@@ -4041,23 +4097,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/ptimatth/GeorideHA
 	```
 </details>
-<details><summary><b><a href="https://github.com/rsnodgrass/hass-xantech">Xantech/Dayton Audio/Sonance Multi-Zone Amp</a></b> (🥉8 ·  ⭐ 14) - Xantech Multi-Zone Matrix Audio for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/rsnodgrass/hass-xantech) (👨‍💻 2 · 🔀 5 · ⏱️ 30.12.2022):
-
-	```
-	git clone https://github.com/rsnodgrass/hass-xantech
-	```
-</details>
-<details><summary><b><a href="https://github.com/DeerMaximum/Technische-Alternative-CMI">Technische Alternative C.M.I.</a></b> (🥉8 ·  ⭐ 13) - Custom Home Assistant integration to read data from a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/DeerMaximum/Technische-Alternative-CMI) (👨‍💻 2 · 🔀 1 · 📋 21 - 14% open · ⏱️ 18.04.2023):
-
-	```
-	git clone https://github.com/DeerMaximum/Technische-Alternative-CMI
-	```
-</details>
-<details><summary><b><a href="https://github.com/tomasbedrich/home-assistant-skydance">Skydance</a></b> (🥉8 ·  ⭐ 12) - A Home Assistant integration for communication with Skydance.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/tomasbedrich/home-assistant-skydance">Skydance</a></b> (🥉8 ·  ⭐ 13) - A Home Assistant integration for communication with Skydance.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/tomasbedrich/home-assistant-skydance) (👨‍💻 3 · 🔀 3 · 📋 8 - 25% open · ⏱️ 25.02.2023):
 
@@ -4081,6 +4121,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/pilotak/homeassistant-clientraw
 	```
 </details>
+<details><summary><b><a href="https://github.com/rccoleman/channels_dvr_recently_recorded">Channels DVR Recently Recorded</a></b> (🥉8 ·  ⭐ 12) - :play button: Channels DVR component to feed Upcoming.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/rccoleman/channels_dvr_recently_recorded) (👨‍💻 10 · 🔀 1 · ⏱️ 13.11.2022):
+
+	```
+	git clone https://github.com/rccoleman/channels_dvr_recently_recorded
+	```
+</details>
 <details><summary><b><a href="https://github.com/eifinger/open_route_service">open_route_service</a></b> (🥉8 ·  ⭐ 11) - Custom Component for Homeassistant Providing Travel Time.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/eifinger/open_route_service) (👨‍💻 6 · 🔀 4 · ⏱️ 24.12.2022):
@@ -4097,12 +4145,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Racailloux/home-assistant-pijuice
 	```
 </details>
-<details><summary><b><a href="https://github.com/rccoleman/channels_dvr_recently_recorded">Channels DVR Recently Recorded</a></b> (🥉8 ·  ⭐ 11) - :play button: Channels DVR component to feed Upcoming.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/cyberjunky/home-assistant-hvcgroep">HVCGroep</a></b> (🥉8 ·  ⭐ 11) - This component fetches garbage pickup dates for parts of The Netherlands.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rccoleman/channels_dvr_recently_recorded) (👨‍💻 10 · 🔀 1 · ⏱️ 13.11.2022):
+- [GitHub](https://github.com/cyberjunky/home-assistant-hvcgroep) (👨‍💻 3 · 🔀 3 · 📋 10 - 10% open · ⏱️ 20.10.2022):
 
 	```
-	git clone https://github.com/rccoleman/channels_dvr_recently_recorded
+	git clone https://github.com/cyberjunky/home-assistant-hvcgroep
 	```
 </details>
 <details><summary><b><a href="https://github.com/morosanmihail/HA-LondonTfL">London TfL</a></b> (🥉8 ·  ⭐ 11) - Simple sensor for Home Assistant to retrieve departures from Transport.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -4119,14 +4167,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/ardevd/ha-bobcatminer
-	```
-</details>
-<details><summary><b><a href="https://github.com/cyberjunky/home-assistant-hvcgroep">HVCGroep</a></b> (🥉8 ·  ⭐ 10) - This component fetches garbage pickup dates for parts of The Netherlands.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/cyberjunky/home-assistant-hvcgroep) (👨‍💻 3 · 🔀 3 · 📋 10 - 10% open · ⏱️ 20.10.2022):
-
-	```
-	git clone https://github.com/cyberjunky/home-assistant-hvcgroep
 	```
 </details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Rozkladzik">Rozkładzik sensor</a></b> (🥉8 ·  ⭐ 8 · 💤) - This sensor uses unofficial API to get data from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -4179,18 +4219,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/shaiu/technicolor">Technicolor</a></b> (🥉8 ·  ⭐ 5) - This is an integration for HomeAssistant. Its a Device Tracker component.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/shaiu/technicolor) (👨‍💻 2 · 📋 7 - 28% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/shaiu/technicolor) (👨‍💻 2 · 📋 7 - 14% open · ⏱️ 21.04.2023):
 
 	```
 	git clone https://github.com/shaiu/technicolor
-	```
-</details>
-<details><summary><b><a href="https://github.com/tetienne/veolia-custom-component">Veolia</a></b> (🥉8 ·  ⭐ 5) - Home Assistant custom component to retrieve information from Veolia. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/tetienne/veolia-custom-component) (👨‍💻 2 · 🔀 5 · 📋 14 - 7% open · ⏱️ 27.01.2023):
-
-	```
-	git clone https://github.com/tetienne/veolia-custom-component
 	```
 </details>
 <details><summary><b><a href="https://github.com/MTrab/clever">Clever</a></b> (🥉8 ·  ⭐ 5 · 🐣) - Home Assistant integration for Clever chargepoint availability status. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -4203,7 +4235,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/exxamalte/home-assistant-custom-components-nsw-rural-fire-service-fire-danger">NSW Rural Fire Service - Fire Danger</a></b> (🥉8 ·  ⭐ 4) - Home Assistant Custom Component: NSW Rural Fire.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/exxamalte/home-assistant-custom-components-nsw-rural-fire-service-fire-danger) (👨‍💻 2 · 🔀 2 · ⏱️ 05.04.2023):
+- [GitHub](https://github.com/exxamalte/home-assistant-custom-components-nsw-rural-fire-service-fire-danger) (👨‍💻 2 · 🔀 2 · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/exxamalte/home-assistant-custom-components-nsw-rural-fire-service-fire-danger
@@ -4233,12 +4265,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/0xAlon/dolphin
 	```
 </details>
-<details><summary><b><a href="https://github.com/stephan192/hochwasserportal">Länderübergreifendes Hochwasser Portal</a></b> (🥉8 ·  ⭐ 4) - Home Assistant integration for Lnderbergreifendes.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/mtarjoianu/ha_lektrico">Lektrico Charging Station</a></b> (🥉8 ·  ⭐ 3) - Manage your Lektrico EV Charger. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/stephan192/hochwasserportal) (👨‍💻 2 · 🔀 3 · ⏱️ 12.04.2023):
+- [GitHub](https://github.com/mtarjoianu/ha_lektrico) (🔀 1 · 📋 10 - 30% open · ⏱️ 05.04.2023):
 
 	```
-	git clone https://github.com/stephan192/hochwasserportal
+	git clone https://github.com/mtarjoianu/ha_lektrico
 	```
 </details>
 <details><summary><b><a href="https://github.com/pcourbin/ecodevices_rt2">Ecodevices RT2</a></b> (🥉8 ·  ⭐ 3) - Home Assistant custom component for GCE Ecodevices RT2. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -4259,7 +4291,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote">TCL TV Remote</a></b> (🥉8 ·  ⭐ 3 · 🐣) - This custom component will give you two new services for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote) (🔀 2 · 📥 1K · 📋 3 - 33% open · ⏱️ 26.02.2023):
+- [GitHub](https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote) (🔀 2 · 📥 1.1K · 📋 3 - 33% open · ⏱️ 26.02.2023):
 
 	```
 	git clone https://github.com/popeen/Home-Assistant-Custom-Component-TCL-Remote
@@ -4275,7 +4307,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/kesteraernoudt/dobiss">dobiss</a></b> (🥉8 ·  ⭐ 3) - Custom Home Assistant Integration for the Dobiss NXT platform. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kesteraernoudt/dobiss) (👨‍💻 2 · 📋 3 - 33% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/kesteraernoudt/dobiss) (👨‍💻 2 · 📋 3 - 33% open · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/kesteraernoudt/dobiss
@@ -4283,26 +4315,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/custom-components/climate.e_thermostaat">ICY E-thermostaat</a></b> (🥉8 ·  ⭐ 3) - E-Thermostaat (ICY) component for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-components/climate.e_thermostaat) (👨‍💻 5 · 🔀 8 · 📥 81 · ⏱️ 06.02.2023):
+- [GitHub](https://github.com/custom-components/climate.e_thermostaat) (👨‍💻 5 · 🔀 8 · 📥 82 · ⏱️ 06.02.2023):
 
 	```
 	git clone https://github.com/custom-components/climate.e_thermostaat
-	```
-</details>
-<details><summary><b><a href="https://github.com/myTselection/pixometer">Pixometer</a></b> (🥉8 ·  ⭐ 3 · 🐣) - Home Assistant custom component HACS for Pixolus Pixometer app meter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/myTselection/pixometer) (⏱️ 14.04.2023):
-
-	```
-	git clone https://github.com/myTselection/pixometer
-	```
-</details>
-<details><summary><b><a href="https://github.com/sprocket-9/hacs-nuvo-serial">Nuvo multi-zone amplifier (serial)</a></b> (🥉8 ·  ⭐ 3) - Custom component to control a Nuvo Grand.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/sprocket-9/hacs-nuvo-serial) (🔀 1 · 📥 330 · 📋 7 - 14% open · ⏱️ 21.03.2023):
-
-	```
-	git clone https://github.com/sprocket-9/hacs-nuvo-serial
 	```
 </details>
 <details><summary><b><a href="https://github.com/toringer/home-assistant-sbanken">Sbanken</a></b> (🥉8 ·  ⭐ 2) - Sbanken sensor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -4311,14 +4327,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/toringer/home-assistant-sbanken
-	```
-</details>
-<details><summary><b><a href="https://github.com/elahd/ha-cyclepay">CyclePay for ESD/Hercules Laundry Rooms</a></b> (🥉8 ·  ⭐ 2) - Home Assistant Integration for ESD/Hercules CyclePay.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/elahd/ha-cyclepay) (👨‍💻 5 · ⏱️ 14.02.2023):
-
-	```
-	git clone https://github.com/elahd/ha-cyclepay
 	```
 </details>
 <details><summary><b><a href="https://github.com/daxingplay/home-assistant-vaillant-plus">Vaillant Plus</a></b> (🥉8 ·  ⭐ 1 · 🐣) - Home Assistant custom component for controlling vSmart in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -4337,36 +4345,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/basilfx/homeassistant-biketrax
 	```
 </details>
-<details><summary><b><a href="https://github.com/dahlb/ha_sense">Sense Custom Reporting (Kasa Plug Emulation)</a></b> (🥉8 ·  ⭐ 1 · 🐣) - Report custom devices to sense energy monitoring for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/dahlb/ha_sense) (👨‍💻 3 · 🔀 1 · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/dahlb/ha_sense
-	```
-</details>
-<details><summary><b><a href="https://github.com/sugoi-wada/acer-air-monitor-2018">Acer Air Monitor</a></b> (🥉8) - Acer air monitor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/sugoi-wada/acer-air-monitor-2018) (👨‍💻 4 · 🔀 1 · 📋 2 - 50% open · ⏱️ 04.02.2023):
-
-	```
-	git clone https://github.com/sugoi-wada/acer-air-monitor-2018
-	```
-</details>
 <details><summary><b><a href="https://github.com/killer0071234/ha-hiq">HIQ-Home</a></b> (🥉8) - HIQ-Home Integration for Home Assistant HACS Store. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/killer0071234/ha-hiq) (👨‍💻 2 · ⏱️ 18.12.2022):
 
 	```
 	git clone https://github.com/killer0071234/ha-hiq
-	```
-</details>
-<details><summary><b><a href="https://github.com/hasscc/hass-edge-tts">Microsoft Edge TTS</a></b> (🥉7 ·  ⭐ 190) - :speaking head: Microsoft Edge TTS for Home.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/hasscc/hass-edge-tts) (👨‍💻 5 · 🔀 36 · 📋 24 - 37% open · ⏱️ 27.01.2023):
-
-	```
-	git clone https://github.com/hasscc/hass-edge-tts
 	```
 </details>
 <details><summary><b><a href="https://github.com/menahishayan/HomeAssistant-Cupertino-Icons">cupertino-icons</a></b> (🥉7 ·  ⭐ 100) - Apple SF Symbols icons for Home Assistant! (3000+ icons). <code>❗Unlicensed</code></summary>
@@ -4417,12 +4401,12 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/freakshock88/hass-populartimes
 	```
 </details>
-<details><summary><b><a href="https://github.com/felipecrs/hass-expose-camera-stream-source">Expose Camera Stream Source</a></b> (🥉7 ·  ⭐ 20 · 🐣) - Home Assistant integration to expose an API to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/rsnodgrass/hass-lunos">LUNOS Heat Recovery Ventilation</a></b> (🥉7 ·  ⭐ 19) - LUNOS HRV Ventilation Fan Control for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/felipecrs/hass-expose-camera-stream-source) (👨‍💻 2 · 🔀 1 · 📋 8 - 25% open · ⏱️ 15.02.2023):
+- [GitHub](https://github.com/rsnodgrass/hass-lunos) (👨‍💻 3 · 🔀 2 · ⏱️ 22.04.2023):
 
 	```
-	git clone https://github.com/felipecrs/hass-expose-camera-stream-source
+	git clone https://github.com/rsnodgrass/hass-lunos
 	```
 </details>
 <details><summary><b><a href="https://github.com/amaximus/bkk_stop">BKK Stop Information</a></b> (🥉7 ·  ⭐ 19) - HomeAssistant custom component for Budapest public.. <code>❗Unlicensed</code></summary>
@@ -4441,14 +4425,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tinuva/ha-coct-loadshedding
 	```
 </details>
-<details><summary><b><a href="https://github.com/rsnodgrass/hass-lunos">LUNOS Heat Recovery Ventilation</a></b> (🥉7 ·  ⭐ 18) - LUNOS HRV Ventilation Fan Control for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/rsnodgrass/hass-lunos) (👨‍💻 3 · 🔀 2 · ⏱️ 07.11.2022):
-
-	```
-	git clone https://github.com/rsnodgrass/hass-lunos
-	```
-</details>
 <details><summary><b><a href="https://github.com/lindell/home-assistant-tv4-play">TV4 Play</a></b> (🥉7 ·  ⭐ 18) - Play videos from the Swedish channel 4. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/lindell/home-assistant-tv4-play) (🔀 2 · 📋 8 - 12% open · ⏱️ 17.11.2022):
@@ -4463,6 +4439,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/c-st/auto_areas
+	```
+</details>
+<details><summary><b><a href="https://github.com/sh00t2kill/dolphin-robot">MyDolphin Plus</a></b> (🥉7 ·  ⭐ 16) - A custom Home Assistant Component for WiFI enabled.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/sh00t2kill/dolphin-robot) (👨‍💻 2 · 🔀 1 · 📋 9 - 44% open · ⏱️ 27.02.2023):
+
+	```
+	git clone https://github.com/sh00t2kill/dolphin-robot
 	```
 </details>
 <details><summary><b><a href="https://github.com/GuilleGF/hassio-ovh">OVH DynHost</a></b> (🥉7 ·  ⭐ 16 · 💤) - OVH DynHost Updater Component for https://www.home-.. <code>❗Unlicensed</code></summary>
@@ -4489,6 +4473,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/boralyl/steam-wishlist
 	```
 </details>
+<details><summary><b><a href="https://github.com/Aohzan/hass-prixcarburant">Prix Carburant</a></b> (🥉7 ·  ⭐ 16) - Rcupration des prix des stations en France. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/Aohzan/hass-prixcarburant) (👨‍💻 9 · 🔀 2 · 📋 8 - 50% open · ⏱️ 24.04.2023):
+
+	```
+	git clone https://github.com/Aohzan/hass-prixcarburant
+	```
+</details>
 <details><summary><b><a href="https://github.com/gcorgnet/sensor.emby_upcoming_media">Emby Latest Media</a></b> (🥉7 ·  ⭐ 15 · 💤) - Home Assistant component to feed Upcoming Media Card with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/gcorgnet/sensor.emby_upcoming_media) (👨‍💻 6 · 🔀 15 · 📋 23 - 47% open · ⏱️ 23.06.2022):
@@ -4505,20 +4497,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/lolouk44/CurrentCost_HA_CC
 	```
 </details>
-<details><summary><b><a href="https://github.com/sh00t2kill/dolphin-robot">MyDolphin Plus</a></b> (🥉7 ·  ⭐ 14) - A custom Home Assistant Component for WiFI enabled.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/sh00t2kill/dolphin-robot) (👨‍💻 2 · 🔀 1 · 📋 9 - 44% open · ⏱️ 27.02.2023):
-
-	```
-	git clone https://github.com/sh00t2kill/dolphin-robot
-	```
-</details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-iMPK">iMPK sensor</a></b> (🥉7 ·  ⭐ 13 · 💤) - This sensor uses unofficial API retrieved by decompilation of iMPK.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-iMPK) (🔀 1 · 📥 100 · 📋 4 - 25% open · ⏱️ 15.08.2022):
 
 	```
 	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-iMPK
+	```
+</details>
+<details><summary><b><a href="https://github.com/maciej-or/hikvision_next">Hikvision NVR / IP Camera</a></b> (🥉7 ·  ⭐ 13 · 🐣) - Home Assistant integration for Hikvision NVRs and IP.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/maciej-or/hikvision_next) (👨‍💻 5 · 🔀 4 · 📋 18 - 61% open · ⏱️ 19.04.2023):
+
+	```
+	git clone https://github.com/maciej-or/hikvision_next
 	```
 </details>
 <details><summary><b><a href="https://github.com/J-Lindvig/Fuelprices_DK">Fuelprices DK</a></b> (🥉7 ·  ⭐ 12) - Scraping of 5 types of fuel from 8 different fuelcompanies in.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -4529,17 +4521,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/J-Lindvig/Fuelprices_DK
 	```
 </details>
-<details><summary><b><a href="https://github.com/maciej-or/hikvision_next">Hikvision NVR / IP Camera</a></b> (🥉7 ·  ⭐ 12 · 🐣) - Home Assistant integration for Hikvision NVRs and IP.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/djtimca/harocketlaunchlive">Rocket Launch Live - Next 5 Launches</a></b> (🥉7 ·  ⭐ 12) - Home Assistant custom HACS integration to integrate.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/maciej-or/hikvision_next) (👨‍💻 5 · 🔀 4 · 📋 15 - 66% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/djtimca/harocketlaunchlive) (👨‍💻 3 · 🔀 1 · 📋 6 - 16% open · ⏱️ 21.04.2023):
 
 	```
-	git clone https://github.com/maciej-or/hikvision_next
+	git clone https://github.com/djtimca/harocketlaunchlive
 	```
 </details>
 <details><summary><b><a href="https://github.com/TekniskSupport/home-assistant-resrobot">ResRobot</a></b> (🥉7 ·  ⭐ 12) - Get departure times for swedish public transportation. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/TekniskSupport/home-assistant-resrobot) (👨‍💻 3 · 🔀 2 · 📋 22 - 4% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/TekniskSupport/home-assistant-resrobot) (👨‍💻 3 · 🔀 2 · 📋 23 - 8% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/TekniskSupport/home-assistant-resrobot
@@ -4555,7 +4547,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/nyffchanium/argoclima-integration">Argoclima</a></b> (🥉7 ·  ⭐ 11 · 💤) - Home Assistant integration for Argoclima (Argo) climate control.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nyffchanium/argoclima-integration) (👨‍💻 2 · 🔀 3 · 📋 5 - 40% open · ⏱️ 10.07.2022):
+- [GitHub](https://github.com/nyffchanium/argoclima-integration) (👨‍💻 2 · 🔀 4 · 📋 6 - 50% open · ⏱️ 10.07.2022):
 
 	```
 	git clone https://github.com/nyffchanium/argoclima-integration
@@ -4571,7 +4563,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-Antistorm">Antistorm sensor</a></b> (🥉7 ·  ⭐ 11 · 💤) - This sensor uses official API to get storm warnings from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Antistorm) (👨‍💻 3 · 🔀 1 · 📥 330 · 📋 10 - 30% open · ⏱️ 15.08.2022):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Antistorm) (👨‍💻 3 · 🔀 1 · 📥 340 · 📋 10 - 30% open · ⏱️ 15.08.2022):
 
 	```
 	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-Antistorm
@@ -4611,7 +4603,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/safepay/sensor.willyweather">safepay/sensor.willyweather</a></b> (🥉7 ·  ⭐ 9 · 💤) - A WillyWeather Australian Bureau of Meteorology (BoM).. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/safepay/sensor.willyweather) (👨‍💻 2 · 🔀 5 · 📋 21 - 19% open · ⏱️ 12.08.2022):
+- [GitHub](https://github.com/safepay/sensor.willyweather) (👨‍💻 2 · 🔀 6 · 📋 21 - 19% open · ⏱️ 12.08.2022):
 
 	```
 	git clone https://github.com/safepay/sensor.willyweather
@@ -4673,14 +4665,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/snikch/climate.escea
 	```
 </details>
-<details><summary><b><a href="https://github.com/mbuchber/ha_heliotherm">ha_heliotherm</a></b> (🥉7 ·  ⭐ 7 · 🐣) - Home Assistant Custom Component for Heliotherm Heatpumps. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/mbuchber/ha_heliotherm) (👨‍💻 2 · 🔀 2 · 📥 150 · ⏱️ 28.02.2023):
-
-	```
-	git clone https://github.com/mbuchber/ha_heliotherm
-	```
-</details>
 <details><summary><b><a href="https://github.com/ryanmac8/HA-Mint-Mobile">Mint Mobile</a></b> (🥉7 ·  ⭐ 7 · 💤) - Mint Mobile Integration for Data Usage Monitoring. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/ryanmac8/HA-Mint-Mobile) (👨‍💻 4 · 🔀 3 · 📋 13 - 15% open · ⏱️ 02.08.2022):
@@ -4731,7 +4715,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/amitfin/daily_schedule">Daily Schedule</a></b> (🥉7 ·  ⭐ 5) - Home Assistant Daily Schedule Custom Component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amitfin/daily_schedule) (📥 6 · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/amitfin/daily_schedule) (📥 8 · ⏱️ 17.04.2023):
 
 	```
 	git clone https://github.com/amitfin/daily_schedule
@@ -4779,7 +4763,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/amosyuen/ha-eight-sleep-climate">Eight Sleep Climate</a></b> (🥉7 ·  ⭐ 3) - Climate entity for controlling eight sleep bed. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amosyuen/ha-eight-sleep-climate) (👨‍💻 3 · 🔀 1 · 📋 5 - 80% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/amosyuen/ha-eight-sleep-climate) (👨‍💻 3 · 🔀 1 · 📋 5 - 80% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/amosyuen/ha-eight-sleep-climate
@@ -4811,7 +4795,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/astrandb/sentio">Sentio</a></b> (🥉7 ·  ⭐ 3) - Custom component for Sentiotec sauna controller. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/astrandb/sentio) (🔀 2 · 📥 74 · ⏱️ 03.04.2023):
+- [GitHub](https://github.com/astrandb/sentio) (🔀 2 · 📥 78 · ⏱️ 03.04.2023):
 
 	```
 	git clone https://github.com/astrandb/sentio
@@ -4823,6 +4807,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/sftgunner/edinplus-integration
+	```
+</details>
+<details><summary><b><a href="https://github.com/myTselection/pixometer">Pixometer</a></b> (🥉7 ·  ⭐ 3 · 🐣) - Home Assistant custom component HACS for Pixolus Pixometer app meter.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/myTselection/pixometer) (⏱️ 14.04.2023):
+
+	```
+	git clone https://github.com/myTselection/pixometer
 	```
 </details>
 <details><summary><b><a href="https://github.com/lewei50/ha_iammeter">IAMMETER</a></b> (🥉7 ·  ⭐ 2) - IAMMETER custom component for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -4839,6 +4831,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/BottlecapDave/HomeAssistant-FirstBus
+	```
+</details>
+<details><summary><b><a href="https://github.com/elahd/ha-cyclepay">CyclePay for ESD/Hercules Laundry Rooms</a></b> (🥉7 ·  ⭐ 2) - Home Assistant Integration for ESD/Hercules CyclePay.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/elahd/ha-cyclepay) (👨‍💻 5 · ⏱️ 14.02.2023):
+
+	```
+	git clone https://github.com/elahd/ha-cyclepay
 	```
 </details>
 <details><summary><b><a href="https://github.com/austinmroczek/neovolta">NeoVolta</a></b> (🥉7 ·  ⭐ 1 · 🐣) - NeoVolta integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -4899,7 +4899,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu">Temperatur.nu</a></b> (🥉7 · 🐣) - A sensor for temperatur.nu and a service for reporting your current.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu) (📥 290 · ⏱️ 26.02.2023):
+- [GitHub](https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu) (📥 300 · ⏱️ 26.02.2023):
 
 	```
 	git clone https://github.com/popeen/Home-Assistant-Custom-Component-Temperatur-Nu
@@ -4913,20 +4913,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/JurajNyiri/HomeAssistant-Tavos
 	```
 </details>
+<details><summary><b><a href="https://github.com/sugoi-wada/acer-air-monitor-2018">Acer Air Monitor</a></b> (🥉7) - Acer air monitor for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/sugoi-wada/acer-air-monitor-2018) (👨‍💻 4 · 🔀 1 · 📋 2 - 50% open · ⏱️ 04.02.2023):
+
+	```
+	git clone https://github.com/sugoi-wada/acer-air-monitor-2018
+	```
+</details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-custom-components-GNE-PV-Monitoring">GNE PV Monitoring</a></b> (🥉7 · 🐣) - This sensor uses official API to get data from GNE. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-GNE-PV-Monitoring) (📥 69 · ⏱️ 12.03.2023):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-custom-components-GNE-PV-Monitoring) (📥 71 · ⏱️ 12.03.2023):
 
 	```
 	git clone https://github.com/PiotrMachowski/Home-Assistant-custom-components-GNE-PV-Monitoring
-	```
-</details>
-<details><summary><b><a href="https://github.com/sh00t2kill/petoneer_custom_component">Revogi Petoneer Water Fountain</a></b> (🥉7) - A custom Home Assistant Component for WiFI enabled.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/sh00t2kill/petoneer_custom_component) (⏱️ 06.04.2023):
-
-	```
-	git clone https://github.com/sh00t2kill/petoneer_custom_component
 	```
 </details>
 <details><summary><b><a href="https://github.com/rrooggiieerr/homeassistant-xyscreens">XY Screens projector screens and projector lifts</a></b> (🥉7) - Home Assistant integration for XY Screens projector.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -4945,9 +4945,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/c1pher-cn/homeassistan-ezviz
 	```
 </details>
-<details><summary><b><a href="https://github.com/aex351/home-assistant-neerslag-app">Neerslag App</a></b> (🥉6 ·  ⭐ 36 · 💤) - Neerslag app for Home Assistant. All-in-one package.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/aex351/home-assistant-neerslag-app">Neerslag App</a></b> (🥉6 ·  ⭐ 37 · 💤) - Neerslag app for Home Assistant. All-in-one package.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/aex351/home-assistant-neerslag-app) (🔀 10 · 📋 36 - 47% open · ⏱️ 08.07.2022):
+- [GitHub](https://github.com/aex351/home-assistant-neerslag-app) (🔀 10 · 📋 37 - 48% open · ⏱️ 08.07.2022):
 
 	```
 	git clone https://github.com/aex351/home-assistant-neerslag-app
@@ -5007,14 +5007,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/dscao/ikuai
-	```
-</details>
-<details><summary><b><a href="https://github.com/Aohzan/hass-prixcarburant">Prix Carburant</a></b> (🥉6 ·  ⭐ 16) - Rcupration des prix des stations en France. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/Aohzan/hass-prixcarburant) (👨‍💻 9 · 🔀 2 · 📋 8 - 50% open · ⏱️ 23.02.2023):
-
-	```
-	git clone https://github.com/Aohzan/hass-prixcarburant
 	```
 </details>
 <details><summary><b><a href="https://github.com/LAB02-Research/HASS.Agent-MediaPlayer">HASS.Agent MediaPlayer</a></b> (🥉6 ·  ⭐ 15) - HASS.Agent MediaPlayer integrations. Adds TTS and the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -5105,7 +5097,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/olibos/HomeAssistant-RecycleApp
 	```
 </details>
-<details><summary><b><a href="https://github.com/dgomes/ha_rrd_recorder">RRD Recorder</a></b> (🥉6 ·  ⭐ 8 · 💤) - RRD Custom Component for Home Assistant. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/dgomes/ha_rrd_recorder">RRD Recorder</a></b> (🥉6 ·  ⭐ 9 · 💤) - RRD Custom Component for Home Assistant. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/dgomes/ha_rrd_recorder) (👨‍💻 2 · 🔀 4 · 📋 7 - 42% open · ⏱️ 18.08.2022):
 
@@ -5131,7 +5123,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/Kaptensanders/skolmat">Skolmat Integration</a></b> (🥉6 ·  ⭐ 7) - Skolmat Home Assistant custom component for the food menu in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Kaptensanders/skolmat) (🔀 1 · 📋 7 - 42% open · ⏱️ 07.02.2023):
+- [GitHub](https://github.com/Kaptensanders/skolmat) (🔀 1 · 📋 7 - 28% open · ⏱️ 07.02.2023):
 
 	```
 	git clone https://github.com/Kaptensanders/skolmat
@@ -5143,6 +5135,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/ThomasPrior/FlexpoolInfo
+	```
+</details>
+<details><summary><b><a href="https://github.com/bkbilly/tpms_ble">TPMS_ble</a></b> (🥉6 ·  ⭐ 7 · 🐣) - Custom integration for Tire Pressure sensors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/bkbilly/tpms_ble) (👨‍💻 2 · 🔀 1 · ⏱️ 05.04.2023):
+
+	```
+	git clone https://github.com/bkbilly/tpms_ble
 	```
 </details>
 <details><summary><b><a href="https://github.com/vanstinator/hass-raincloud">Melnor Raincloud</a></b> (🥉6 ·  ⭐ 6 · 💤) - Melnor Raincloud Home Assistant Integration. <code>❗Unlicensed</code></summary>
@@ -5167,14 +5167,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/andrzejchm/blebox_shutterbox_tilt
-	```
-</details>
-<details><summary><b><a href="https://github.com/bkbilly/tpms_ble">TPMS_ble</a></b> (🥉6 ·  ⭐ 6 · 🐣) - Custom integration for Tire Pressure sensors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/bkbilly/tpms_ble) (👨‍💻 2 · 🔀 1 · ⏱️ 05.04.2023):
-
-	```
-	git clone https://github.com/bkbilly/tpms_ble
 	```
 </details>
 <details><summary><b><a href="https://github.com/Danieldiazi/homeassistant-meteogalicia">MeteoGalicia</a></b> (🥉6 ·  ⭐ 6) - A Home Assistant integration that gives you weather info from.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -5249,9 +5241,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/regulad/hass-lacrosseview
 	```
 </details>
+<details><summary><b><a href="https://github.com/HrGaertner/HA-vent-optimization">ventoptimization</a></b> (🥉6 ·  ⭐ 5 · 🐣) - A integration for minimizing heat loss through optimal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/HrGaertner/HA-vent-optimization) (👨‍💻 3 · 📥 1 · 📋 3 - 33% open · ⏱️ 16.04.2023):
+
+	```
+	git clone https://github.com/HrGaertner/HA-vent-optimization
+	```
+</details>
 <details><summary><b><a href="https://github.com/J-Lindvig/Flagdays_DK">Flagdays DK</a></b> (🥉6 ·  ⭐ 4) - Denmark: Official flagdays in Denmark with a lot of useful logic.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/J-Lindvig/Flagdays_DK) (🔀 2 · 📋 4 - 50% open · ⏱️ 07.02.2023):
+- [GitHub](https://github.com/J-Lindvig/Flagdays_DK) (🔀 2 · 📋 5 - 60% open · ⏱️ 07.02.2023):
 
 	```
 	git clone https://github.com/J-Lindvig/Flagdays_DK
@@ -5283,23 +5283,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/amaximus/radioactivity_hu">Radioactivity Hungary</a></b> (🥉6 ·  ⭐ 4) - Radioactivity data for Hungary. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amaximus/radioactivity_hu) (👨‍💻 3 · 📥 22 · ⏱️ 14.12.2022):
+- [GitHub](https://github.com/amaximus/radioactivity_hu) (👨‍💻 3 · 📥 23 · ⏱️ 14.12.2022):
 
 	```
 	git clone https://github.com/amaximus/radioactivity_hu
 	```
 </details>
-<details><summary><b><a href="https://github.com/HrGaertner/HA-vent-optimization">ventoptimization</a></b> (🥉6 ·  ⭐ 4 · 🐣) - A integration for minimizing heat loss through optimal.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
-
-- [GitHub](https://github.com/HrGaertner/HA-vent-optimization) (👨‍💻 3 · 📥 1 · 📋 3 - 33% open · ⏱️ 16.04.2023):
-
-	```
-	git clone https://github.com/HrGaertner/HA-vent-optimization
-	```
-</details>
 <details><summary><b><a href="https://github.com/IgnacioHR/de-dietrich-c230-ha">De dietrich C230 ECO gas boiler</a></b> (🥉6 ·  ⭐ 3) - De Dietrich C-230 boiler to Home Assistant integration. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-- [GitHub](https://github.com/IgnacioHR/de-dietrich-c230-ha) (👨‍💻 2 · 📥 50 · ⏱️ 06.02.2023):
+- [GitHub](https://github.com/IgnacioHR/de-dietrich-c230-ha) (👨‍💻 2 · 📥 52 · ⏱️ 06.02.2023):
 
 	```
 	git clone https://github.com/IgnacioHR/de-dietrich-c230-ha
@@ -5401,6 +5393,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/anarion80/sodexo_dla_ciebie
 	```
 </details>
+<details><summary><b><a href="https://github.com/sh00t2kill/petoneer_custom_component">Revogi Petoneer Water Fountain</a></b> (🥉6) - A custom Home Assistant Component for WiFI enabled.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/sh00t2kill/petoneer_custom_component) (👨‍💻 2 · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/sh00t2kill/petoneer_custom_component
+	```
+</details>
 <details><summary><b><a href="https://github.com/chaimchaikin/molad-ha">Molad Sensor</a></b> (🥉6) - Molad Sensor for HACS. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/chaimchaikin/molad-ha) (⏱️ 03.03.2023):
@@ -5417,7 +5417,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/Anonym-tsk/homeassistant-climate-xiaomi-remote
 	```
 </details>
-<details><summary><b><a href="https://github.com/ZsBT/hass-w1000-portal">W1000 energy monitor</a></b> (🥉5 ·  ⭐ 24 · 🐣) - Home Assistant custom component for W1000 energy.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code></summary>
+<details><summary><b><a href="https://github.com/ZsBT/hass-w1000-portal">W1000 energy monitor</a></b> (🥉5 ·  ⭐ 25 · 🐣) - Home Assistant custom component for W1000 energy.. <code><a href="https://tldrlegal.com/search?q=WTFPL">❗️WTFPL</a></code></summary>
 
 - [GitHub](https://github.com/ZsBT/hass-w1000-portal) (👨‍💻 2 · 🔀 1 · 📋 7 - 14% open · ⏱️ 30.12.2022):
 
@@ -5433,7 +5433,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/geoffreylagaisse/Hass-Microsoft-Graph
 	```
 </details>
-<details><summary><b><a href="https://github.com/Strixx76/mold_risk_index">Mold Risk Index</a></b> (🥉5 ·  ⭐ 19 · 🐣) - Calculate the level of risk of mold growth in a crawl space. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Strixx76/mold_risk_index">Mold Risk Index</a></b> (🥉5 ·  ⭐ 20 · 🐣) - Calculate the level of risk of mold growth in a crawl space. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Strixx76/mold_risk_index) (⏱️ 15.02.2023):
 
@@ -5473,9 +5473,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/deblockt/hass-proscenic-790T-vacuum
 	```
 </details>
+<details><summary><b><a href="https://github.com/cagnulein/switchbot_press">Switchbot_press</a></b> (🥉5 ·  ⭐ 13 · 💤) - This is a simple project that manage the Switchbot (.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
+
+- [GitHub](https://github.com/cagnulein/switchbot_press) (👨‍💻 3 · 🔀 5 · 📋 11 - 9% open · ⏱️ 11.07.2022):
+
+	```
+	git clone https://github.com/cagnulein/switchbot_press
+	```
+</details>
 <details><summary><b><a href="https://github.com/amaximus/anniversary">Anniversary</a></b> (🥉5 ·  ⭐ 12 · 💤) - Anniversary integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amaximus/anniversary) (👨‍💻 2 · 🔀 1 · 📥 33 · 📋 19 - 21% open · ⏱️ 03.06.2022):
+- [GitHub](https://github.com/amaximus/anniversary) (👨‍💻 2 · 🔀 1 · 📥 33 · 📋 19 - 15% open · ⏱️ 03.06.2022):
 
 	```
 	git clone https://github.com/amaximus/anniversary
@@ -5483,26 +5491,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/lorenzo-deluca/homeassistant-silence">Silence Scooter Integration</a></b> (🥉5 ·  ⭐ 12) - Home Assistant Integration for Silence Scooter. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/lorenzo-deluca/homeassistant-silence) (🔀 2 · 📥 7 · 📋 4 - 50% open · ⏱️ 18.03.2023):
+- [GitHub](https://github.com/lorenzo-deluca/homeassistant-silence) (🔀 2 · 📥 8 · 📋 4 - 50% open · ⏱️ 18.03.2023):
 
 	```
 	git clone https://github.com/lorenzo-deluca/homeassistant-silence
-	```
-</details>
-<details><summary><b><a href="https://github.com/djtimca/harocketlaunchlive">Rocket Launch Live - Next 5 Launches</a></b> (🥉5 ·  ⭐ 12) - Home Assistant custom HACS integration to integrate.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/djtimca/harocketlaunchlive) (👨‍💻 2 · 📋 6 - 16% open · ⏱️ 28.02.2023):
-
-	```
-	git clone https://github.com/djtimca/harocketlaunchlive
-	```
-</details>
-<details><summary><b><a href="https://github.com/cagnulein/switchbot_press">Switchbot_press</a></b> (🥉5 ·  ⭐ 12 · 💤) - This is a simple project that manage the Switchbot (.. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
-
-- [GitHub](https://github.com/cagnulein/switchbot_press) (👨‍💻 3 · 🔀 5 · 📋 11 - 9% open · ⏱️ 11.07.2022):
-
-	```
-	git clone https://github.com/cagnulein/switchbot_press
 	```
 </details>
 <details><summary><b><a href="https://github.com/jellespijker/home-assistant-ultimaker">ultimaker</a></b> (🥉5 ·  ⭐ 11 · 💤) - Home-Assistant component for Ultimaker printers (UM3, S3, S5). <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -5523,7 +5515,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed">JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed</a></b> (🥉5 ·  ⭐ 10 · 💤) - Adds ability to switch alternative speed in.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed) (🔀 2 · 📋 2 - 50% open · ⏱️ 07.07.2022):
+- [GitHub](https://github.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed) (🔀 2 · 📋 3 - 33% open · ⏱️ 07.07.2022):
 
 	```
 	git clone https://github.com/JurajNyiri/HomeAssistant-qBitTorrentAlternativeSpeed
@@ -5553,12 +5545,36 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/droso-hass/idfm
 	```
 </details>
+<details><summary><b><a href="https://github.com/amaximus/pollen_hu">Pollen Information Hungary</a></b> (🥉5 ·  ⭐ 7 · 💤) - Home Assistant custom component for Pollen.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/amaximus/pollen_hu) (👨‍💻 3 · 🔀 3 · 📥 15 · ⏱️ 03.06.2022):
+
+	```
+	git clone https://github.com/amaximus/pollen_hu
+	```
+</details>
+<details><summary><b><a href="https://github.com/mbuchber/ha_heliotherm">ha_heliotherm</a></b> (🥉5 ·  ⭐ 7 · 🐣) - Home Assistant Custom Component for Heliotherm Heatpumps. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/mbuchber/ha_heliotherm) (👨‍💻 2 · 🔀 2 · 📥 160 · ⏱️ 28.02.2023):
+
+	```
+	git clone https://github.com/mbuchber/ha_heliotherm
+	```
+</details>
 <details><summary><b><a href="https://github.com/koying/mqtt_discoverystream_ha">MQTT DiscoveryStream</a></b> (🥉5 ·  ⭐ 6) - Extension of HA mqtt_statestream integration with.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/koying/mqtt_discoverystream_ha) (👨‍💻 3 · 🔀 4 · 📋 6 - 50% open · ⏱️ 12.10.2022):
+- [GitHub](https://github.com/koying/mqtt_discoverystream_ha) (👨‍💻 3 · 🔀 3 · 📋 6 - 50% open · ⏱️ 12.10.2022):
 
 	```
 	git clone https://github.com/koying/mqtt_discoverystream_ha
+	```
+</details>
+<details><summary><b><a href="https://github.com/mampfes/ha_freeair_connect">FreeAir Connect</a></b> (🥉5 ·  ⭐ 6 · 🐣) - Adds data from FreeAir-Connect to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mampfes/ha_freeair_connect) (👨‍💻 2 · 🔀 1 · ⏱️ 25.02.2023):
+
+	```
+	git clone https://github.com/mampfes/ha_freeair_connect
 	```
 </details>
 <details><summary><b><a href="https://github.com/Mr-Groch/HA-Emulated-Color-Temp-Light">Emulated color temp light</a></b> (🥉5 ·  ⭐ 6 · 💤) - Emulate SUPPORT_COLOR_TEMP for color lights that.. <code>❗Unlicensed</code></summary>
@@ -5577,20 +5593,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/ndom91/homeassistant-checkly
 	```
 </details>
+<details><summary><b><a href="https://github.com/Kartax/home-assistant-binance">Binance Integration for Home Assistant</a></b> (🥉5 ·  ⭐ 5 · 🐣) - A Home Assistant Integration for the cryptocurrency.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/Kartax/home-assistant-binance) (👨‍💻 2 · 📋 4 - 25% open · ⏱️ 03.03.2023):
+
+	```
+	git clone https://github.com/Kartax/home-assistant-binance
+	```
+</details>
 <details><summary><b><a href="https://github.com/Fr3d/camect-ha">Camect</a></b> (🥉5 ·  ⭐ 5 · 🐣) - Full Camect Hub integration for Home Assistant / HACS. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
 - [GitHub](https://github.com/Fr3d/camect-ha) (🔀 1 · 📋 2 - 50% open · ⏱️ 05.10.2022):
 
 	```
 	git clone https://github.com/Fr3d/camect-ha
-	```
-</details>
-<details><summary><b><a href="https://github.com/mampfes/ha_freeair_connect">FreeAir Connect</a></b> (🥉5 ·  ⭐ 5 · 🐣) - Adds data from FreeAir-Connect to Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/mampfes/ha_freeair_connect) (👨‍💻 2 · 🔀 1 · ⏱️ 25.02.2023):
-
-	```
-	git clone https://github.com/mampfes/ha_freeair_connect
 	```
 </details>
 <details><summary><b><a href="https://github.com/jippi/hass-nordnet">Nordnet investments API sensors</a></b> (🥉5 ·  ⭐ 5 · 💤) - Home Assistant + Nordnet API = awesome sensors with.. <code>❗Unlicensed</code></summary>
@@ -5609,14 +5625,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/juacas/zte_tracker
 	```
 </details>
-<details><summary><b><a href="https://github.com/Kartax/home-assistant-binance">Binance Integration for Home Assistant</a></b> (🥉5 ·  ⭐ 4 · 🐣) - A Home Assistant Integration for the cryptocurrency.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/Kartax/home-assistant-binance) (👨‍💻 2 · ⏱️ 03.03.2023):
-
-	```
-	git clone https://github.com/Kartax/home-assistant-binance
-	```
-</details>
 <details><summary><b><a href="https://github.com/BenPru/novus300_Rs485">Novus 300 Bus</a></b> (🥉5 ·  ⭐ 4) - Home Assistant HACS component to readout values from a Paul Novus 300.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/BenPru/novus300_Rs485) (📋 2 - 50% open · ⏱️ 30.01.2023):
@@ -5633,9 +5641,17 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/ThomasPrior/2minersInfo
 	```
 </details>
+<details><summary><b><a href="https://github.com/perara/systemair-save-connect">Systemair SAVE Connect Integration</a></b> (🥉5 ·  ⭐ 4 · 💤) - Systemair SAVE Connect: custom integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/perara/systemair-save-connect) (⏱️ 15.08.2022):
+
+	```
+	git clone https://github.com/perara/systemair-save-connect
+	```
+</details>
 <details><summary><b><a href="https://github.com/hwmland/homeassistant-xmrig">XMRIG integration</a></b> (🥉5 ·  ⭐ 3 · 💤) - XMRIG integration for homeassistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/hwmland/homeassistant-xmrig) (🔀 1 · 📋 4 - 50% open · ⏱️ 26.04.2022):
+- [GitHub](https://github.com/hwmland/homeassistant-xmrig) (📋 4 - 50% open · ⏱️ 26.04.2022):
 
 	```
 	git clone https://github.com/hwmland/homeassistant-xmrig
@@ -5659,23 +5675,15 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 </details>
 <details><summary><b><a href="https://github.com/deblockt/hass-aria2">aria2 integration</a></b> (🥉5 ·  ⭐ 3 · 💤) - Aria2 integration for home assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/deblockt/hass-aria2) (🔀 1 · 📥 48 · 📋 6 - 33% open · ⏱️ 20.09.2022):
+- [GitHub](https://github.com/deblockt/hass-aria2) (🔀 1 · 📥 50 · 📋 6 - 33% open · ⏱️ 20.09.2022):
 
 	```
 	git clone https://github.com/deblockt/hass-aria2
 	```
 </details>
-<details><summary><b><a href="https://github.com/perara/systemair-save-connect">Systemair SAVE Connect Integration</a></b> (🥉5 ·  ⭐ 3 · 💤) - Systemair SAVE Connect: custom integration for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/perara/systemair-save-connect) (⏱️ 15.08.2022):
-
-	```
-	git clone https://github.com/perara/systemair-save-connect
-	```
-</details>
 <details><summary><b><a href="https://github.com/leonardlcl/general_link">general_link</a></b> (🥉5 ·  ⭐ 1 · 🐣) - GeneralLink custom component for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/leonardlcl/general_link) (⏱️ 20.04.2023):
+- [GitHub](https://github.com/leonardlcl/general_link) (⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/leonardlcl/general_link
@@ -5737,20 +5745,20 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/LaggAt/ha-jokes
 	```
 </details>
-<details><summary><b><a href="https://github.com/amaximus/pollen_hu">Pollen Information Hungary</a></b> (🥉4 ·  ⭐ 7 · 💤) - Home Assistant custom component for Pollen.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/amaximus/pollen_hu) (👨‍💻 3 · 🔀 2 · 📥 15 · ⏱️ 03.06.2022):
-
-	```
-	git clone https://github.com/amaximus/pollen_hu
-	```
-</details>
 <details><summary><b><a href="https://github.com/pfunkmallone/HACS-camect-integration">Camect Integration</a></b> (🥉4 ·  ⭐ 4) - A HACS integration for the Camect smart home.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/pfunkmallone/HACS-camect-integration) (👨‍💻 3 · 🔀 2 · ⏱️ 11.10.2022):
 
 	```
 	git clone https://github.com/pfunkmallone/HACS-camect-integration
+	```
+</details>
+<details><summary><b><a href="https://github.com/amaximus/water_quality_fvm">Water Quality FVM</a></b> (🥉4 ·  ⭐ 3) - Water quality integration for Home Assistant with data provided.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/amaximus/water_quality_fvm) (👨‍💻 3 · 🔀 1 · 📥 15 · ⏱️ 25.01.2023):
+
+	```
+	git clone https://github.com/amaximus/water_quality_fvm
 	```
 </details>
 <details><summary><b><a href="https://github.com/juicejuice/homeassistant_redback">Redback Technologies</a></b> (🥉4 ·  ⭐ 3) - Home Assistant integration for inverter and battery.. <code>❗Unlicensed</code></summary>
@@ -5849,6 +5857,14 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/tom-winkler/ha-webfleet-integration
 	```
 </details>
+<details><summary><b><a href="https://github.com/mletenay/home-assistant-ev-charge-control">Electric Vehicle Charge Control</a></b> (🥉4) - Home Assistant custom component for Electric Vehicle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mletenay/home-assistant-ev-charge-control) (🔀 1 · ⏱️ 25.01.2023):
+
+	```
+	git clone https://github.com/mletenay/home-assistant-ev-charge-control
+	```
+</details>
 <details><summary><b><a href="https://github.com/HCookie/Webhook-Service-home-assistant">Webhook-Service-home-assistant</a></b> (🥉3 ·  ⭐ 8) - Add a Webhook service to HomeAssistant, originally.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/HCookie/Webhook-Service-home-assistant) (🔀 2 · 📥 16 · ⏱️ 23.03.2023):
@@ -5903,14 +5919,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 
 	```
 	git clone https://github.com/ben8p/home-assistant-bunq-balance-sensors
-	```
-</details>
-<details><summary><b><a href="https://github.com/amaximus/water_quality_fvm">Water Quality FVM</a></b> (🥉3 ·  ⭐ 3) - Water quality integration for Home Assistant with data provided.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/amaximus/water_quality_fvm) (👨‍💻 3 · 🔀 1 · 📥 15 · ⏱️ 25.01.2023):
-
-	```
-	git clone https://github.com/amaximus/water_quality_fvm
 	```
 </details>
 <details><summary><b><a href="https://github.com/Tiemooowh/homeassistant-teletask">Teletask</a></b> (🥉3 ·  ⭐ 3) - Teletask (DoIP) Integration for Home Assistant Comunity Store (HACS). <code>❗Unlicensed</code></summary>
@@ -5977,14 +5985,6 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/fapfaff/homeassistant-appwash
 	```
 </details>
-<details><summary><b><a href="https://github.com/mletenay/home-assistant-ev-charge-control">Electric Vehicle Charge Control</a></b> (🥉3) - Home Assistant custom component for Electric Vehicle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/mletenay/home-assistant-ev-charge-control) (🔀 1 · ⏱️ 25.01.2023):
-
-	```
-	git clone https://github.com/mletenay/home-assistant-ev-charge-control
-	```
-</details>
 <details><summary><b><a href="https://github.com/emes30/facebook_messenger">Facebook Messenger</a></b> (🥉2 ·  ⭐ 9 · 💤) - Home Assistant custom integration for Facebook.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/emes30/facebook_messenger) (👨‍💻 2 · 🔀 2 · 📋 7 - 71% open · ⏱️ 26.09.2022):
@@ -6009,9 +6009,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 	git clone https://github.com/arifwn/homeassistant-whatspie-integration
 	```
 </details>
-<details><summary><b><a href="https://github.com/Skarbo/hass-scinan-thermostat">Scinan Thermostat</a></b> (🥉2 ·  ⭐ 2 · 💤) - Home Assistant integration for Scinan Thermostats. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/Skarbo/hass-scinan-thermostat">Scinan Thermostat</a></b> (🥉2 ·  ⭐ 2) - Home Assistant integration for Scinan Thermostats. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/Skarbo/hass-scinan-thermostat) (🔀 1 · ⏱️ 12.07.2022):
+- [GitHub](https://github.com/Skarbo/hass-scinan-thermostat) (🔀 1 · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/Skarbo/hass-scinan-thermostat
@@ -6075,7 +6075,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/roberodin/ha-samsungtv-custom">roberodin/ha-samsungtv-custom</a></b> (🥈11 ·  ⭐ 110 · 💀) - HomeAssistant - SamsungTV Custom Component. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/pilotak/homeassistant-attributes">Attributes extractor</a></b> (🥈11 ·  ⭐ 75 · 💀) - Breaks out specified attribute from other entities to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/custom-components/sensor.trakt">Trakt</a></b> (🥈11 ·  ⭐ 55 · 💀) - Trakt Integration for Upcoming Media Card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/asev/homeassistant-uponor">Uponor Smatrix Pulse</a></b> (🥈11 ·  ⭐ 26 · 💀) - Uponor Smatrix Pulse heating/cooling system.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/asev/homeassistant-uponor">Uponor Smatrix Pulse</a></b> (🥈11 ·  ⭐ 27 · 💀) - Uponor Smatrix Pulse heating/cooling system.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mikelawrence/senseme-hacs">SenseME</a></b> (🥈11 ·  ⭐ 22 · 💀) - Haiku with SenseME fan integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/postlund/hass-atv-beta">Apple TV Beta</a></b> (🥉10 ·  ⭐ 330 · 💀) - Beta version of new Apple TV integration in Home.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/thomasloven/hass-fontawesome">fontawesome</a></b> (🥉10 ·  ⭐ 210 · 💀) - :small blue diamond: Use icons from fontawesome in home-.. <code>❗Unlicensed</code>
@@ -6083,7 +6083,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/garbled1/balboa_homeassistan">Balboa Spa Client</a></b> (🥉10 ·  ⭐ 23 · 💀) - Balboa spa integration for home-assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/zigul/HomeAssistant-CEZdistribuce">CEZ Distribuce CZ</a></b> (🥉10 ·  ⭐ 20 · 💀) - CEZ Distribuce - Home Assistant Sensor. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/custom-components/sensor.personalcapital">custom-components/sensor.personalcapital</a></b> (🥉10 ·  ⭐ 12 · 💀) - :dollar banknote: Personal Capital Integration for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/thomasloven/hass-favicon">thomasloven/hass-favicon</a></b> (🥉9 ·  ⭐ 78 · 💀) - :small blue diamond: Change the favicon of your Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/thomasloven/hass-favicon">thomasloven/hass-favicon</a></b> (🥉9 ·  ⭐ 79 · 💀) - :small blue diamond: Change the favicon of your Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/andersonshatch/midea-ac-py">andersonshatch/midea-ac-py</a></b> (🥉9 ·  ⭐ 73 · 💀) - This is a library to allow communicating to a Midea.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/basschipper/homeassistant-generic-hygrostat">basschipper/homeassistant-generic-hygrostat</a></b> (🥉9 ·  ⭐ 65 · 💀) - Generic Hygrostat for Home Assistant. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/barban-dev/homeassistant-midea-dehumidifier">EVA II PRO WiFi Midea Inventor Dehumidifier custom integration</a></b> (🥉9 ·  ⭐ 51 · 💀) - Home Assistant Custom Integration for EVA II PRO WiFi.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
@@ -6106,9 +6106,10 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/Paul-dH/Home-Assisant-Sensor-OvApi">Paul-dH/Home-Assisant-Sensor-OvApi</a></b> (🥉8 ·  ⭐ 18 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/kubawolanin/ha-reaper">Reaper DAW</a></b> (🥉8 ·  ⭐ 15 · 💀) - Reaper DAW custom integration for Home Assistant. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/burnnat/ha-hdhomerun">HDHomeRun</a></b> (🥉8 ·  ⭐ 12 · 💀) - HDHomeRun integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/rroller/netgear">Netgear WAX</a></b> (🥉8 ·  ⭐ 11 · 💀) - Netgear Home Assistant Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/gieljnssns/kostalpiko-sensor-homeassistant">Kostal Piko</a></b> (🥉8 ·  ⭐ 11 · 💀) - A custom component to get the readings of a Kostal Piko inverter. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/djtimca/hasatellitetracker">Satellite Tracker (N2YO)</a></b> (🥉8 ·  ⭐ 11 · 💀) - Using the N2YO API, this Home Assistant integration.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/tefinger/hass-brematic">Brematic</a></b> (🥉8 ·  ⭐ 10 · 💀) - Custom component for Home Assistant to support Brematic devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/tefinger/hass-brematic">Brematic</a></b> (🥉8 ·  ⭐ 9 · 💀) - Custom component for Home Assistant to support Brematic devices. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/peternijssen/home-assistant-jumbo">peternijssen/home-assistant-jumbo</a></b> (🥉8 ·  ⭐ 7 · 💀) - Integrate Jumbo.com in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/rdehuyss/homeassistant-custom_components-denkovi">rdehuyss/homeassistant-custom_components-denkovi</a></b> (🥉8 ·  ⭐ 5 · 💀) - Support for Denkovi IOT Relay modules in HomeAssistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/safepay/cover.hd_powerview">Hunter Douglas and Luxaflex PowerView Cover</a></b> (🥉8 ·  ⭐ 5 · 💀) - Control Hunter Douglas / Luxaflex PowerView Window.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
@@ -6118,10 +6119,9 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/jihao/traccar-cn-hass">jihao/traccar-cn-hass</a></b> (🥉7 ·  ⭐ 24 · 💀) - A hass component to integrate with traccar_cn which.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/madpilot/hass-amber-electric">Amber Electric</a></b> (🥉7 ·  ⭐ 24 · 💀) - Home Assistant Component to pull the latest energy prices from.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/jihao/colorfulclouds-hass">jihao/colorfulclouds-hass</a></b> (🥉7 ·  ⭐ 24 · 💀) - A hass component to integrate with colorfulclouds (). <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/piitaya/home-assistant-qubino-wire-pilot">Qubino Wire Pilot</a></b> (🥉7 ·  ⭐ 15 · 💀) - Home Assistant Component for Qubino Wire Pilot. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Pouzor/freebox_player">Freebox Player</a></b> (🥉7 ·  ⭐ 14 · 💀) - Custom Component for Home Assistant, enable to remote.. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/piitaya/home-assistant-qubino-wire-pilot">Qubino Wire Pilot</a></b> (🥉7 ·  ⭐ 14 · 💀) - Home Assistant Component for Qubino Wire Pilot. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/AdamNaj/linksys_velop">Linksys Velop Device Tracker</a></b> (🥉7 ·  ⭐ 13 · 💀) - The linksys_velop platform allows for presence.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/rroller/netgear">Netgear WAX</a></b> (🥉7 ·  ⭐ 11 · 💀) - Netgear Home Assistant Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/kotborealis/home-assistant-custom-components-cover-time-based-synced">Cover Time Based Synced</a></b> (🥉7 ·  ⭐ 11 · 💀) - :hourglass done: Time-based cover. Install it via HACS. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Poeschl/Remote-PicoTTS">Remote PicoTTS</a></b> (🥉7 ·  ⭐ 10 · 💀) - A custom component for Home Assistant which integrates my.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/patrickhilker/tedee_hass_integration">Tedee</a></b> (🥉7 ·  ⭐ 9 · 💀) - Control your tedee smart lock from Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -6151,11 +6151,11 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/cyberjunky/home-assistant-plugwise">Plugwise</a></b> (🥉6 ·  ⭐ 2 · 💀) - This component can read values from and control Plugwise circles and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/gtjadsonsantos/vapix">vapix</a></b> (🥉6 · 💀) - home-assistant service for control the vapix. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/5high/konke">Konke</a></b> (🥉5 ·  ⭐ 19 · 💀) - K Home AssistantHA 0.103. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/alryaz/hass-moscow-pgu">Moscow PGU (Госуслуги Москвы)</a></b> (🥉5 ·  ⭐ 13 · 💀) - Moscow PGU services for HomeAssistant. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-components/sensor.file_restore">custom-components/sensor.file_restore</a></b> (🥉5 ·  ⭐ 12 · 💀) - Improved file sensor component that let you read the.. <code><a href="http://bit.ly/3rvuUlR">Unlicense</a></code>
 - <b><a href="https://github.com/Petro31/ha-integration-multizone-controller">Multizone Controller</a></b> (🥉5 ·  ⭐ 12 · 💀) - Integration that creates a multi-zone volume controller.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/alryaz/hass-moscow-pgu">Moscow PGU (Госуслуги Москвы)</a></b> (🥉5 ·  ⭐ 12 · 💀) - Moscow PGU services for HomeAssistant. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/alryaz/hass-energosbyt-plus">Личный кабинет ЭнергосбыТ Плюс</a></b> (🥉5 ·  ⭐ 8 · 💀) - . Home Assistant. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/fineemb/Xiaomi-Smart-Multipurpose-Kettle">Xiaomi Mijia Multifunctional MJYSH01YM</a></b> (🥉5 ·  ⭐ 7 · 💀) -  <code>❗Unlicensed</code>
+- <b><a href="https://github.com/fineemb/Xiaomi-Smart-Multipurpose-Kettle">Xiaomi Mijia Multifunctional MJYSH01YM</a></b> (🥉5 ·  ⭐ 6 · 💀) -  <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-components/fedex">FedEx</a></b> (🥉5 ·  ⭐ 5 · 💀) - The fedex platform allows one to track deliveries by FedEx. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Hellowlol/ha-tide">tide</a></b> (🥉5 ·  ⭐ 4 · 💀) - Tide a sensor for HASS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mbillow/ha-redpocket">RedPocket Mobile</a></b> (🥉5 ·  ⭐ 3 · 💀) - RedPocket Integration for Data Usage Monitoring. <code>❗Unlicensed</code>
@@ -6165,7 +6165,7 @@ This curated list contains 1.3K awesome open-source projects with a total of 110
 - <b><a href="https://github.com/swartjean/ha-seedboxes-cc">Seedboxes.cc</a></b> (🥉5 ·  ⭐ 1 · 💀) - Home Assistant - Seedboxes.cc Integration. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/gtjadsonsantos/controlid">controlid</a></b> (🥉5 · 💀) - home-assistant service for control the controlid. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/GuyLewin/home-assistant-lifetime-fitness">Life Time Fitness</a></b> (🥉5 · 💀) - Life Time Fitness integration for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/AlexxIT/DashCast">DashCast</a></b> (🥉4 ·  ⭐ 59 · 💀) - DashCast component for Home Assistant. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/AlexxIT/DashCast">DashCast</a></b> (🥉4 ·  ⭐ 60 · 💀) - DashCast component for Home Assistant. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/jomwells/ambilight-yeelight">jomwells/ambilight-yeelight</a></b> (🥉4 ·  ⭐ 22 · 💀) - A switch component which mimics the functionality of.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/5high/phicomm-dc1-homeassistant">Phicomm DC1</a></b> (🥉4 ·  ⭐ 14 · 💀) - DC1Home AssistantNETYJHACS. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ayavilevich/homeassistant-dlink-presence">D-Link Presence / device_Tracker</a></b> (🥉4 ·  ⭐ 9 · 💀) - A D-Link AP/router device tracker for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -6224,34 +6224,34 @@ _AppDaemon apps are apps for AppDaemon_
 
 <details><summary><b><a href="https://github.com/xaviml/controllerx">:video game: ControllerX</a></b> (🥇24 ·  ⭐ 270) - Create controller-based automations with ease to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/xaviml/controllerx) (👨‍💻 44 · 🔀 61 · 📥 41K · 📋 300 - 2% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/xaviml/controllerx) (👨‍💻 44 · 🔀 62 · 📥 42K · 📋 310 - 3% open · ⏱️ 18.04.2023):
 
 	```
 	git clone https://github.com/xaviml/controllerx
 	```
 </details>
-<details><summary><b><a href="https://github.com/joBr99/nspanel-lovelace-ui">NSPanel Lovelace UI Backend</a></b> (🥇22 ·  ⭐ 630) - Custom Firmware for NsPanel with the design of.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/joBr99/nspanel-lovelace-ui">NSPanel Lovelace UI Backend</a></b> (🥇22 ·  ⭐ 640) - Custom Firmware for NsPanel with the design of.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/joBr99/nspanel-lovelace-ui) (👨‍💻 37 · 🔀 170 · 📥 60 · 📋 560 - 4% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/joBr99/nspanel-lovelace-ui) (👨‍💻 37 · 🔀 170 · 📥 63 · 📋 570 - 4% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/joBr99/nspanel-lovelace-ui
 	```
 </details>
-<details><summary><b><a href="https://github.com/XaF/qolsysgw">Qolsys Gateway</a></b> (🥇14 ·  ⭐ 43) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/benleb/ad-automoli">:light bulb: AutoMoLi - Auto Motion Lights</a></b> (🥇14 ·  ⭐ 110) - :light bulb: Fully automatic light management based.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/XaF/qolsysgw) (👨‍💻 3 · 🔀 7 · 📋 59 - 23% open · ⏱️ 31.03.2023):
+- [GitHub](https://github.com/benleb/ad-automoli) (👨‍💻 10 · 🔀 28 · 📥 10 · 📋 81 - 19% open · ⏱️ 25.04.2023):
+
+	```
+	git clone https://github.com/benleb/ad-automoli
+	```
+</details>
+<details><summary><b><a href="https://github.com/XaF/qolsysgw">Qolsys Gateway</a></b> (🥇14 ·  ⭐ 44) - Qolsys IQ Panel 2+ gateway to an Home Assistant Alarm Control Panel. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/XaF/qolsysgw) (👨‍💻 3 · 🔀 7 · 📋 60 - 25% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/XaF/qolsysgw
-	```
-</details>
-<details><summary><b><a href="https://github.com/crserran/home-alarm">Home Alarm</a></b> (🥇12 ·  ⭐ 20) - Alexa & Google Home alarm integrations and notifications system for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/crserran/home-alarm) (👨‍💻 4 · 🔀 6 · 📥 4.6K · 📋 14 - 21% open · ⏱️ 03.03.2023):
-
-	```
-	git clone https://github.com/crserran/home-alarm
 	```
 </details>
 <details><summary><b><a href="https://github.com/ericmatte/ad-media-lights-sync">Media Player Lights Sync</a></b> (🥇11 ·  ⭐ 72) - :light bulb: AppDaemon App that synchronize RGB.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -6262,9 +6262,17 @@ _AppDaemon apps are apps for AppDaemon_
 	git clone https://github.com/ericmatte/ad-media-lights-sync
 	```
 </details>
+<details><summary><b><a href="https://github.com/crserran/home-alarm">Home Alarm</a></b> (🥇11 ·  ⭐ 20) - Alexa & Google Home alarm integrations and notifications system for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/crserran/home-alarm) (👨‍💻 4 · 🔀 6 · 📥 4.6K · 📋 14 - 21% open · ⏱️ 03.03.2023):
+
+	```
+	git clone https://github.com/crserran/home-alarm
+	```
+</details>
 <details><summary><b><a href="https://github.com/badguy99/octoblock">Octoblock :octopus:</a></b> (🥇10 ·  ⭐ 20) - Octoblock is an app which works under AppDaemon within Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/badguy99/octoblock) (👨‍💻 3 · 🔀 4 · 📋 17 - 5% open · ⏱️ 17.12.2022):
+- [GitHub](https://github.com/badguy99/octoblock) (👨‍💻 3 · 🔀 5 · 📋 17 - 5% open · ⏱️ 17.12.2022):
 
 	```
 	git clone https://github.com/badguy99/octoblock
@@ -6358,9 +6366,8 @@ _AppDaemon apps are apps for AppDaemon_
 	git clone https://github.com/nra4ever/calremind
 	```
 </details>
-<details><summary>Show 47 hidden projects...</summary>
+<details><summary>Show 46 hidden projects...</summary>
 
-- <b><a href="https://github.com/benleb/ad-automoli">:light bulb: AutoMoLi - Auto Motion Lights</a></b> (🥇13 ·  ⭐ 110 · 💀) - :light bulb: Fully automatic light management based.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/benleb/ad-ench">:woman health worker: EnCh - Entity Checker</a></b> (🥇10 ·  ⭐ 29 · 💀) - :woman health workerbattery: AppDaemon entity check.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/NiklasReiche/ad-spotify-mood-lights-sync">Spotify Mood Lights Sync</a></b> (🥇10 ·  ⭐ 24 · 💀) - AppDaemon app that synchronizes rgb lights to the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/UbhiTS/ad-alexatalkingclock">Alexa (& Friends) Reminders & Talking Clock :chicken:</a></b> (🥈9 ·  ⭐ 35 · 💀) - Alexa (or other Smart Speakers) tell you the time.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
@@ -6368,7 +6375,7 @@ _AppDaemon apps are apps for AppDaemon_
 - <b><a href="https://github.com/Odianosen25/Monitor-App">Monitor-App</a></b> (🥈8 ·  ⭐ 67 · 💀) - Appdaemon App for Andrews Monitor Presence Detection System. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/wernerhp/ha.appdaemon.wasp">Wasp in a Box</a></b> (🥈8 ·  ⭐ 31 · 💀) - An AppDaemon app for detecting occupancy using door and motions.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/UbhiTS/ad-autofanspeed">Auto 'Fan Speed' Controller :chicken:</a></b> (🥈7 ·  ⭐ 16 · 💀) - Automatically control a room fans speed based on a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/benleb/ad-notifreeze">:snowflake: NotiFreeze</a></b> (🥈7 ·  ⭐ 14 · 💀) - AppDaemon app which reminds to close windows if.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/benleb/ad-notifreeze">:snowflake: NotiFreeze</a></b> (🥈7 ·  ⭐ 15 · 💀) - AppDaemon app which reminds to close windows if.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Burningstone91/Hue_Dimmer_Deconz">Hue Dimmer Switch Deconz</a></b> (🥈6 ·  ⭐ 21 · 💀) - AppDaemon app for controlling a Hue Dimmer Switch.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/haberda/update_lights">Periodic lights</a></b> (🥈6 ·  ⭐ 16 · 💀) - This AppDaemon app progressively changes the brightness.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/apop880/config-check">apop880/config-check</a></b> (🥈6 ·  ⭐ 13 · 💀) - Check your Home Assistant configuration from the.. <code>❗Unlicensed</code>
@@ -6418,7 +6425,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 
 <details><summary><b><a href="https://github.com/piitaya/lovelace-mushroom">Mushroom</a></b> (🥇27 ·  ⭐ 2.2K) - Mushroom Cards - Build a beautiful dashboard easily. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/piitaya/lovelace-mushroom) (👨‍💻 83 · 🔀 230 · 📥 500K · 📋 610 - 38% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/piitaya/lovelace-mushroom) (👨‍💻 83 · 🔀 240 · 📥 510K · 📋 610 - 37% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/piitaya/lovelace-mushroom
@@ -6426,7 +6433,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/custom-cards/button-card">button-card</a></b> (🥇25 ·  ⭐ 1.4K) - Lovelace button-card for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-cards/button-card) (👨‍💻 27 · 🔀 170 · 📥 370K · 📋 540 - 32% open · ⏱️ 02.04.2023):
+- [GitHub](https://github.com/custom-cards/button-card) (👨‍💻 27 · 🔀 180 · 📥 370K · 📋 540 - 32% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/custom-cards/button-card
@@ -6434,7 +6441,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/kalkih/mini-media-player">kalkih/mini-media-player</a></b> (🥇25 ·  ⭐ 1.3K) - Minimalistic media card for Home Assistant Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kalkih/mini-media-player) (👨‍💻 58 · 🔀 160 · 📥 540K · 📦 2 · 📋 570 - 20% open · ⏱️ 11.11.2022):
+- [GitHub](https://github.com/kalkih/mini-media-player) (👨‍💻 58 · 🔀 170 · 📥 540K · 📦 2 · 📋 570 - 20% open · ⏱️ 11.11.2022):
 
 	```
 	git clone https://github.com/kalkih/mini-media-player
@@ -6442,23 +6449,23 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/kalkih/mini-graph-card">mini-graph-card</a></b> (🥇24 ·  ⭐ 2.3K) - Minimalistic graph card for Home Assistant Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kalkih/mini-graph-card) (👨‍💻 39 · 🔀 200 · 📥 520K · 📦 3 · 📋 740 - 14% open · ⏱️ 15.04.2023):
+- [GitHub](https://github.com/kalkih/mini-graph-card) (👨‍💻 39 · 🔀 200 · 📥 530K · 📦 3 · 📋 740 - 14% open · ⏱️ 15.04.2023):
 
 	```
 	git clone https://github.com/kalkih/mini-graph-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card">Xiaomi Vacuum Map Card</a></b> (🥇22 ·  ⭐ 1.1K) - This card provides a user-friendly way to fully.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card">Xiaomi Vacuum Map Card</a></b> (🥇21 ·  ⭐ 1.1K · 📉) - This card provides a user-friendly way to fully.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) (👨‍💻 49 · 🔀 220 · 📥 110K · 📋 230 - 11% open · ⏱️ 29.03.2023):
+- [GitHub](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) (👨‍💻 49 · 🔀 220 · 📥 110K · 📋 230 - 12% open · ⏱️ 29.03.2023):
 
 	```
 	git clone https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/RomRider/apexcharts-card">apexcharts-card</a></b> (🥇21 ·  ⭐ 700) - :chart increasing: A Lovelace card to display advanced graphs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/RomRider/apexcharts-card">apexcharts-card</a></b> (🥇21 ·  ⭐ 710) - :chart increasing: A Lovelace card to display advanced graphs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/RomRider/apexcharts-card) (👨‍💻 7 · 🔀 57 · 📥 160K · 📋 350 - 11% open · ⏱️ 02.04.2023):
+- [GitHub](https://github.com/RomRider/apexcharts-card) (👨‍💻 7 · 🔀 59 · 📥 160K · 📋 350 - 12% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/RomRider/apexcharts-card
@@ -6474,15 +6481,15 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/nervetattoo/simple-thermostat">Simple Thermostat</a></b> (🥇21 ·  ⭐ 650 · 💤) - A different take on the thermostat card for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nervetattoo/simple-thermostat) (👨‍💻 26 · 🔀 98 · 📥 210K · 📋 310 - 35% open · ⏱️ 23.07.2022):
+- [GitHub](https://github.com/nervetattoo/simple-thermostat) (👨‍💻 26 · 🔀 99 · 📥 220K · 📋 310 - 35% open · ⏱️ 23.07.2022):
 
 	```
 	git clone https://github.com/nervetattoo/simple-thermostat
 	```
 </details>
-<details><summary><b><a href="https://github.com/nielsfaber/scheduler-card">Scheduler Card</a></b> (🥇21 ·  ⭐ 620) - HA Lovelace card for control of scheduler entities. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/nielsfaber/scheduler-card">Scheduler Card</a></b> (🥇21 ·  ⭐ 630) - HA Lovelace card for control of scheduler entities. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/nielsfaber/scheduler-card) (👨‍💻 60 · 🔀 95 · 📥 230K · 📋 510 - 2% open · ⏱️ 25.03.2023):
+- [GitHub](https://github.com/nielsfaber/scheduler-card) (👨‍💻 60 · 🔀 95 · 📥 230K · 📋 520 - 2% open · ⏱️ 25.03.2023):
 
 	```
 	git clone https://github.com/nielsfaber/scheduler-card
@@ -6490,23 +6497,23 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/totaldebug/atomic-calendar-revive">Atomic Calendar Revive</a></b> (🥇20 ·  ⭐ 250) - An advanced calendar card for Home Assistant Lovelace. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/totaldebug/atomic-calendar-revive) (👨‍💻 21 · 🔀 43 · 📋 260 - 7% open · ⏱️ 05.04.2023):
+- [GitHub](https://github.com/totaldebug/atomic-calendar-revive) (👨‍💻 21 · 🔀 45 · 📋 260 - 8% open · ⏱️ 05.04.2023):
 
 	```
 	git clone https://github.com/totaldebug/atomic-calendar-revive
 	```
 </details>
-<details><summary><b><a href="https://github.com/alexarch21/history-explorer-card">history-explorer-card</a></b> (🥇20 ·  ⭐ 230) - A card for Home Assistant Lovelace for exploring the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/alexarch21/history-explorer-card">history-explorer-card</a></b> (🥇20 ·  ⭐ 240) - A card for Home Assistant Lovelace for exploring the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/alexarch21/history-explorer-card) (👨‍💻 4 · 🔀 13 · 📥 99K · 📋 160 - 6% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/alexarch21/history-explorer-card) (👨‍💻 4 · 🔀 13 · 📥 99K · 📋 160 - 7% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/alexarch21/history-explorer-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/denysdovhan/purifier-card">Purifier Card</a></b> (🥇19 ·  ⭐ 190) - Air Purifier card for Home Assistant Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/denysdovhan/purifier-card">Purifier Card</a></b> (🥇19 ·  ⭐ 200) - Air Purifier card for Home Assistant Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/denysdovhan/purifier-card) (👨‍💻 32 · 🔀 71 · 📥 37K · 📦 2 · 📋 55 - 34% open · ⏱️ 15.12.2022):
+- [GitHub](https://github.com/denysdovhan/purifier-card) (👨‍💻 32 · 🔀 74 · 📥 38K · 📦 2 · 📋 55 - 34% open · ⏱️ 15.12.2022):
 
 	```
 	git clone https://github.com/denysdovhan/purifier-card
@@ -6520,31 +6527,31 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/ljmerza/light-entity-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/MindFreeze/ha-sankey-chart">Sankey Chart Card</a></b> (🥇19 ·  ⭐ 170) - A Home Assistant lovelace card to display a sankey chart. For.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MindFreeze/ha-sankey-chart">Sankey Chart Card</a></b> (🥇19 ·  ⭐ 180) - A Home Assistant lovelace card to display a sankey chart. For.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/MindFreeze/ha-sankey-chart) (👨‍💻 5 · 🔀 7 · 📥 30K · 📋 73 - 23% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/MindFreeze/ha-sankey-chart) (👨‍💻 5 · 🔀 7 · 📥 31K · 📋 75 - 22% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/MindFreeze/ha-sankey-chart
 	```
 </details>
-<details><summary><b><a href="https://github.com/j-a-n/lovelace-wallpanel">WallPanel</a></b> (🥇19 ·  ⭐ 170) - :framed picture: Wall panel mode and photo screensaver for your.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/j-a-n/lovelace-wallpanel">WallPanel</a></b> (🥇19 ·  ⭐ 180) - :framed picture: Wall panel mode and photo screensaver for your.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/j-a-n/lovelace-wallpanel) (👨‍💻 11 · 🔀 22 · 📥 47K · 📋 88 - 9% open · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/j-a-n/lovelace-wallpanel) (👨‍💻 11 · 🔀 23 · 📥 49K · 📋 90 - 5% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/j-a-n/lovelace-wallpanel
 	```
 </details>
-<details><summary><b><a href="https://github.com/amaximus/garbage-collection-card">Garbage Collection Card</a></b> (🥇19 ·  ⭐ 100) - Custom Lovelace card for Garbage Collection custom.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/NemesisRE/kiosk-mode">Kiosk Mode</a></b> (🥇19 ·  ⭐ 85) - :see-no-evil monkey: Hides the Home Assistant header and/or sidebar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amaximus/garbage-collection-card) (👨‍💻 15 · 🔀 22 · 📥 1.2M · 📋 95 - 8% open · ⏱️ 17.04.2023):
+- [GitHub](https://github.com/NemesisRE/kiosk-mode) (👨‍💻 15 · 🔀 5 · 📥 73K · 📋 44 - 6% open · ⏱️ 27.04.2023):
 
 	```
-	git clone https://github.com/amaximus/garbage-collection-card
+	git clone https://github.com/NemesisRE/kiosk-mode
 	```
 </details>
-<details><summary><b><a href="https://github.com/MrBartusek/MeteoalarmCard">Meteoalarm Card</a></b> (🥇19 ·  ⭐ 73) - Meteoalarm, Mto-France and DWD severe weather warnings card for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/MrBartusek/MeteoalarmCard">Meteoalarm Card</a></b> (🥇19 ·  ⭐ 74) - Meteoalarm, Mto-France and DWD severe weather warnings card for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/MrBartusek/MeteoalarmCard) (👨‍💻 26 · 🔀 30 · 📥 25K · 📦 2 · 📋 83 - 12% open · ⏱️ 28.03.2023):
 
@@ -6562,7 +6569,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/nervetattoo/banner-card">banner-card</a></b> (🥇18 ·  ⭐ 530 · 💤) - A fluffy banner card for Home Assistant :smiling face with hearts:. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/nervetattoo/banner-card) (👨‍💻 15 · 🔀 47 · 📥 53K · 📦 3 · 📋 100 - 53% open · ⏱️ 01.06.2022):
+- [GitHub](https://github.com/nervetattoo/banner-card) (👨‍💻 15 · 🔀 48 · 📥 53K · 📦 3 · 📋 100 - 53% open · ⏱️ 01.06.2022):
 
 	```
 	git clone https://github.com/nervetattoo/banner-card
@@ -6576,17 +6583,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/maxwroc/battery-state-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/adizanni/floor3d-card">Your HA Digital Twin floor3d-card</a></b> (🥇18 ·  ⭐ 310) - Your Home Digital Twin: aka floor3d-card. Visualize.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/adizanni/floor3d-card">Your HA Digital Twin floor3d-card</a></b> (🥇18 ·  ⭐ 320) - Your Home Digital Twin: aka floor3d-card. Visualize.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/adizanni/floor3d-card) (👨‍💻 7 · 🔀 45 · 📥 52K · 📋 140 - 8% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/adizanni/floor3d-card) (👨‍💻 7 · 🔀 45 · 📥 53K · 📋 140 - 8% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/adizanni/floor3d-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/jcwillox/lovelace-paper-buttons-row">Paper Buttons Row</a></b> (🥇18 ·  ⭐ 190) - Adds highly configurable buttons that use actions and per-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jcwillox/lovelace-paper-buttons-row">Paper Buttons Row</a></b> (🥇18 ·  ⭐ 200) - Adds highly configurable buttons that use actions and per-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jcwillox/lovelace-paper-buttons-row) (👨‍💻 3 · 🔀 8 · 📥 73K · 📋 96 - 32% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/jcwillox/lovelace-paper-buttons-row) (👨‍💻 3 · 🔀 8 · 📥 74K · 📋 97 - 32% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/jcwillox/lovelace-paper-buttons-row
@@ -6594,7 +6601,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/ironsheep/lovelace-rpi-monitor-card">RPi Monitor Card</a></b> (🥇18 ·  ⭐ 120) - A Raspberry Pi status display Card for Home Assistant Lovelace. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ironsheep/lovelace-rpi-monitor-card) (👨‍💻 5 · 🔀 5 · 📥 39K · 📋 36 - 19% open · ⏱️ 02.03.2023):
+- [GitHub](https://github.com/ironsheep/lovelace-rpi-monitor-card) (👨‍💻 5 · 🔀 6 · 📥 39K · 📋 36 - 19% open · ⏱️ 02.03.2023):
 
 	```
 	git clone https://github.com/ironsheep/lovelace-rpi-monitor-card
@@ -6602,31 +6609,31 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/pkissling/clock-weather-card">Clock Weather Card</a></b> (🥇18 ·  ⭐ 120) - A Home Assistant Card indicating todays date/time,.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/pkissling/clock-weather-card) (👨‍💻 30 · 🔀 30 · 📥 56K · 📋 85 - 18% open · ⏱️ 29.03.2023):
+- [GitHub](https://github.com/pkissling/clock-weather-card) (👨‍💻 29 · 🔀 31 · 📥 62K · 📋 89 - 20% open · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/pkissling/clock-weather-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/decompil3d/lovelace-hourly-weather">Hourly Weather Card</a></b> (🥇18 ·  ⭐ 85) - Hourly weather card for Home Assistant. Visualize upcoming.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/amaximus/garbage-collection-card">Garbage Collection Card</a></b> (🥇18 ·  ⭐ 100) - Custom Lovelace card for Garbage Collection custom.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/decompil3d/lovelace-hourly-weather) (👨‍💻 15 · 🔀 11 · 📥 62K · 📋 48 - 2% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/amaximus/garbage-collection-card) (👨‍💻 15 · 🔀 22 · 📥 1.2M · 📋 95 - 8% open · ⏱️ 17.04.2023):
+
+	```
+	git clone https://github.com/amaximus/garbage-collection-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/decompil3d/lovelace-hourly-weather">Hourly Weather Card</a></b> (🥇18 ·  ⭐ 89) - Hourly weather card for Home Assistant. Visualize upcoming.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/decompil3d/lovelace-hourly-weather) (👨‍💻 15 · 🔀 11 · 📥 64K · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/decompil3d/lovelace-hourly-weather
 	```
 </details>
-<details><summary><b><a href="https://github.com/NemesisRE/kiosk-mode">Kiosk Mode</a></b> (🥇18 ·  ⭐ 82) - :see-no-evil monkey: Hides the Home Assistant header and/or sidebar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/NemesisRE/kiosk-mode) (👨‍💻 15 · 🔀 5 · 📥 70K · 📋 43 - 11% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/NemesisRE/kiosk-mode
-	```
-</details>
 <details><summary><b><a href="https://github.com/Makin-Things/platinum-weather-card">Platinum Weather Card</a></b> (🥇18 ·  ⭐ 79) - This is a fully customisable weather card for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Makin-Things/platinum-weather-card) (👨‍💻 5 · 🔀 16 · 📥 2.8M · 📋 59 - 28% open · ⏱️ 01.01.2023):
+- [GitHub](https://github.com/Makin-Things/platinum-weather-card) (👨‍💻 5 · 🔀 16 · 📥 2.8M · 📋 61 - 31% open · ⏱️ 01.01.2023):
 
 	```
 	git clone https://github.com/Makin-Things/platinum-weather-card
@@ -6634,47 +6641,31 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/tmjo/charger-card">Charger Card</a></b> (🥇18 ·  ⭐ 62) - A lovelace card for electrical vehicle (EV) home chargers and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/tmjo/charger-card) (👨‍💻 8 · 🔀 38 · 📥 8K · 📋 35 - 34% open · ⏱️ 19.04.2023):
+- [GitHub](https://github.com/tmjo/charger-card) (👨‍💻 8 · 🔀 38 · 📥 8.5K · 📋 37 - 35% open · ⏱️ 19.04.2023):
 
 	```
 	git clone https://github.com/tmjo/charger-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/thomasloven/lovelace-auto-entities">auto-entities</a></b> (🥈17 ·  ⭐ 850) - :small blue diamond:Automatically populate the entities-list of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/thomasloven/lovelace-auto-entities">auto-entities</a></b> (🥈17 ·  ⭐ 860) - :small blue diamond:Automatically populate the entities-list of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/lovelace-auto-entities) (👨‍💻 10 · 🔀 97 · 📋 320 - 11% open · ⏱️ 01.01.2023):
+- [GitHub](https://github.com/thomasloven/lovelace-auto-entities) (👨‍💻 10 · 🔀 98 · 📋 320 - 11% open · ⏱️ 01.01.2023):
 
 	```
 	git clone https://github.com/thomasloven/lovelace-auto-entities
 	```
 </details>
-<details><summary><b><a href="https://github.com/iantrich/config-template-card">Config Template Card</a></b> (🥈17 ·  ⭐ 330 · 📈) - Templatable Lovelace Configurations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/iantrich/config-template-card">Config Template Card</a></b> (🥈17 ·  ⭐ 330) - Templatable Lovelace Configurations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iantrich/config-template-card) (👨‍💻 12 · 🔀 46 · 📥 54K · 📋 94 - 26% open · ⏱️ 20.01.2023):
+- [GitHub](https://github.com/iantrich/config-template-card) (👨‍💻 12 · 🔀 47 · 📥 55K · 📋 95 - 27% open · ⏱️ 20.01.2023):
 
 	```
 	git clone https://github.com/iantrich/config-template-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/elax46/custom-brand-icons">Custom brand icons</a></b> (🥈17 ·  ⭐ 250) - Custom brand icons for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/elax46/custom-brand-icons) (👨‍💻 15 · 🔀 47 · ⏱️ 17.04.2023):
-
-	```
-	git clone https://github.com/elax46/custom-brand-icons
-	```
-</details>
-<details><summary><b><a href="https://github.com/arallsopp/hass-hue-icons">Hass Hue Icons</a></b> (🥈17 ·  ⭐ 210) - Additional vector icons for home assistant to model.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/arallsopp/hass-hue-icons) (👨‍💻 2 · 🔀 24 · 📥 64K · 📋 210 - 4% open · ⏱️ 05.03.2023):
-
-	```
-	git clone https://github.com/arallsopp/hass-hue-icons
-	```
-</details>
 <details><summary><b><a href="https://github.com/kalkih/simple-weather-card">kalkih/simple-weather-card</a></b> (🥈17 ·  ⭐ 210 · 💤) - Minimalistic weather card for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kalkih/simple-weather-card) (👨‍💻 5 · 🔀 33 · 📥 74K · 📋 58 - 31% open · ⏱️ 11.05.2022):
+- [GitHub](https://github.com/kalkih/simple-weather-card) (👨‍💻 5 · 🔀 34 · 📥 75K · 📋 58 - 31% open · ⏱️ 11.05.2022):
 
 	```
 	git clone https://github.com/kalkih/simple-weather-card
@@ -6688,7 +6679,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/artem-sedykh/mini-climate-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/JonahKr/power-distribution-card">power-distribution-card</a></b> (🥈17 ·  ⭐ 140) - A Lovelace Card for visualizing power distributions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/JonahKr/power-distribution-card">power-distribution-card</a></b> (🥈17 ·  ⭐ 150) - A Lovelace Card for visualizing power distributions. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/JonahKr/power-distribution-card) (👨‍💻 3 · 🔀 9 · 📥 32K · 📋 110 - 9% open · ⏱️ 17.03.2023):
 
@@ -6704,25 +6695,49 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/artem-sedykh/mini-humidifier
 	```
 </details>
-<details><summary><b><a href="https://github.com/zanna-37/hass-swipe-navigation">Home Assistant Swipe Navigation</a></b> (🥈17 ·  ⭐ 110) - :left-right arrow: Swipe through Home Assistant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/zanna-37/hass-swipe-navigation">Home Assistant Swipe Navigation</a></b> (🥈17 ·  ⭐ 120) - :left-right arrow: Swipe through Home Assistant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/zanna-37/hass-swipe-navigation) (👨‍💻 13 · 🔀 7 · 📥 54K · 📋 35 - 17% open · ⏱️ 04.04.2023):
+- [GitHub](https://github.com/zanna-37/hass-swipe-navigation) (👨‍💻 13 · 🔀 7 · 📥 54K · 📋 37 - 18% open · ⏱️ 04.04.2023):
 
 	```
 	git clone https://github.com/zanna-37/hass-swipe-navigation
 	```
 </details>
+<details><summary><b><a href="https://github.com/bokub/rgb-light-card">RGB Light Card</a></b> (🥈16 ·  ⭐ 350) - :light bulb: A Lovelace custom card for RGB lights. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/bokub/rgb-light-card) (👨‍💻 3 · 🔀 21 · 📥 58K · 📋 65 - 6% open · ⏱️ 26.10.2022):
+
+	```
+	git clone https://github.com/bokub/rgb-light-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/elax46/custom-brand-icons">Custom brand icons</a></b> (🥈16 ·  ⭐ 250) - Custom brand icons for Home Assistant. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/elax46/custom-brand-icons) (👨‍💻 15 · 🔀 48 · 📋 240 - 2% open · ⏱️ 17.04.2023):
+
+	```
+	git clone https://github.com/elax46/custom-brand-icons
+	```
+</details>
 <details><summary><b><a href="https://github.com/custom-cards/decluttering-card">Decluttering Card</a></b> (🥈16 ·  ⭐ 240) - Declutter your lovelace configuration with the help of this.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/custom-cards/decluttering-card) (👨‍💻 4 · 🔀 17 · 📥 25K · 📋 50 - 46% open · ⏱️ 02.04.2023):
+- [GitHub](https://github.com/custom-cards/decluttering-card) (👨‍💻 4 · 🔀 17 · 📥 26K · 📋 50 - 46% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/custom-cards/decluttering-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/arallsopp/hass-hue-icons">Hass Hue Icons</a></b> (🥈16 ·  ⭐ 220) - Additional vector icons for home assistant to model.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/arallsopp/hass-hue-icons) (👨‍💻 2 · 🔀 24 · 📥 64K · 📋 210 - 4% open · ⏱️ 05.03.2023):
+
+	```
+	git clone https://github.com/arallsopp/hass-hue-icons
+	```
+</details>
 <details><summary><b><a href="https://github.com/Deejayfool/hass-shutter-card">Shutter Card</a></b> (🥈16 ·  ⭐ 200) - Shutter card for Home Assistant Lovelace UI. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/Deejayfool/hass-shutter-card) (👨‍💻 2 · 🔀 61 · 📥 38K · 📋 86 - 55% open · ⏱️ 03.03.2023):
+- [GitHub](https://github.com/Deejayfool/hass-shutter-card) (👨‍💻 2 · 🔀 62 · 📥 39K · 📋 86 - 55% open · ⏱️ 03.03.2023):
 
 	```
 	git clone https://github.com/Deejayfool/hass-shutter-card
@@ -6730,7 +6745,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/rianadon/timer-bar-card">Timer Bar Card</a></b> (🥈16 ·  ⭐ 160) - A progress bar display for Home Assistant timers. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/rianadon/timer-bar-card) (👨‍💻 4 · 🔀 6 · 📥 51K · 📦 3 · 📋 72 - 31% open · ⏱️ 01.03.2023):
+- [GitHub](https://github.com/rianadon/timer-bar-card) (👨‍💻 4 · 🔀 6 · 📥 51K · 📦 3 · 📋 72 - 31% open · ⏱️ 23.04.2023):
 
 	```
 	git clone https://github.com/rianadon/timer-bar-card
@@ -6738,7 +6753,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/dbuezas/lovelace-plotly-graph-card">Plotly Graph Card</a></b> (🥈16 ·  ⭐ 140) - Highly customisable Lovelace card to plot interactive.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/dbuezas/lovelace-plotly-graph-card) (👨‍💻 9 · 🔀 10 · 📥 32K · 📋 120 - 6% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/dbuezas/lovelace-plotly-graph-card) (👨‍💻 9 · 🔀 10 · 📥 33K · 📋 120 - 7% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/dbuezas/lovelace-plotly-graph-card
@@ -6754,23 +6769,23 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/KartoffelToby/better-thermostat-ui-card">Better Thermostat UI</a></b> (🥈16 ·  ⭐ 100) - a custom card for a better thermostat in home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/KartoffelToby/better-thermostat-ui-card) (👨‍💻 30 · 🔀 54 · 📥 47K · 📋 63 - 52% open · ⏱️ 12.12.2022):
+- [GitHub](https://github.com/KartoffelToby/better-thermostat-ui-card) (👨‍💻 30 · 🔀 54 · 📥 47K · 📋 64 - 53% open · ⏱️ 12.12.2022):
 
 	```
 	git clone https://github.com/KartoffelToby/better-thermostat-ui-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/junalmeida/homeassistant-minimalistic-area-card">Minimalistic Area Card</a></b> (🥈16 ·  ⭐ 54) - A minimalistic area card with sensors and buttons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wassy92x/lovelace-digital-clock">Digital Clock</a></b> (🥈16 ·  ⭐ 42) - A custom digital clock card for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/junalmeida/homeassistant-minimalistic-area-card) (👨‍💻 2 · 🔀 7 · 📥 22K · 📋 50 - 12% open · ⏱️ 18.04.2023):
+- [GitHub](https://github.com/wassy92x/lovelace-digital-clock) (👨‍💻 3 · 🔀 5 · 📥 41K · 📋 30 - 26% open · ⏱️ 27.04.2023):
 
 	```
-	git clone https://github.com/junalmeida/homeassistant-minimalistic-area-card
+	git clone https://github.com/wassy92x/lovelace-digital-clock
 	```
 </details>
-<details><summary><b><a href="https://github.com/kinghat/tabbed-card">Tabbed Card</a></b> (🥈16 ·  ⭐ 38) - a custom card for home assistant that utilizes tabs to segregate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/kinghat/tabbed-card">Tabbed Card</a></b> (🥈16 ·  ⭐ 39) - a custom card for home assistant that utilizes tabs to segregate.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kinghat/tabbed-card) (🔀 6 · 📥 12K · 📋 47 - 14% open · ⏱️ 15.01.2023):
+- [GitHub](https://github.com/kinghat/tabbed-card) (🔀 6 · 📥 13K · 📋 47 - 14% open · ⏱️ 15.01.2023):
 
 	```
 	git clone https://github.com/kinghat/tabbed-card
@@ -6778,13 +6793,13 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/swingerman/lovelace-fluid-level-background-card">Fluid Level Background Card</a></b> (🥈16 ·  ⭐ 18) - This card wraps any other cards and renders a fluid.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/swingerman/lovelace-fluid-level-background-card) (👨‍💻 5 · 🔀 4 · 📥 7.4K · 📋 21 - 42% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/swingerman/lovelace-fluid-level-background-card) (👨‍💻 5 · 🔀 4 · 📥 7.5K · 📋 21 - 42% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/swingerman/lovelace-fluid-level-background-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/ofekashery/vertical-stack-in-card">Vertical Stack In Card</a></b> (🥈15 ·  ⭐ 760) - :triangular ruler: Home Assistant Card: Group multiple.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/ofekashery/vertical-stack-in-card">Vertical Stack In Card</a></b> (🥈15 ·  ⭐ 770) - :triangular ruler: Home Assistant Card: Group multiple.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/ofekashery/vertical-stack-in-card) (👨‍💻 19 · 🔀 67 · 📥 38K · 📋 110 - 16% open · ⏱️ 22.02.2023):
 
@@ -6794,7 +6809,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/thomasloven/lovelace-layout-card">layout-card</a></b> (🥈15 ·  ⭐ 740) - :small blue diamond: Get more control over the placement of lovelace.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/lovelace-layout-card) (👨‍💻 7 · 🔀 100 · 📋 210 - 21% open · ⏱️ 03.04.2023):
+- [GitHub](https://github.com/thomasloven/lovelace-layout-card) (👨‍💻 7 · 🔀 100 · 📋 210 - 22% open · ⏱️ 03.04.2023):
 
 	```
 	git clone https://github.com/thomasloven/lovelace-layout-card
@@ -6808,31 +6823,31 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/thomasloven/lovelace-slider-entity-row
 	```
 </details>
-<details><summary><b><a href="https://github.com/bokub/rgb-light-card">RGB Light Card</a></b> (🥈15 ·  ⭐ 350) - :light bulb: A Lovelace custom card for RGB lights. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/bokub/rgb-light-card) (👨‍💻 3 · 🔀 20 · 📥 58K · 📋 65 - 6% open · ⏱️ 26.10.2022):
-
-	```
-	git clone https://github.com/bokub/rgb-light-card
-	```
-</details>
 <details><summary><b><a href="https://github.com/iantrich/restriction-card">Restriction Card</a></b> (🥈15 ·  ⭐ 190) - Apply restrictions to Lovelace cards. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iantrich/restriction-card) (👨‍💻 7 · 🔀 14 · 📥 19K · 📦 2 · 📋 55 - 20% open · ⏱️ 20.01.2023):
+- [GitHub](https://github.com/iantrich/restriction-card) (👨‍💻 7 · 🔀 15 · 📥 19K · 📦 2 · 📋 55 - 20% open · ⏱️ 20.01.2023):
 
 	```
 	git clone https://github.com/iantrich/restriction-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/GeorgeSG/lovelace-time-picker-card">Time Picker Card</a></b> (🥈15 ·  ⭐ 180) - :mantelpiece clock: Time Picker Card for Home Assistants.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/GeorgeSG/lovelace-time-picker-card) (👨‍💻 4 · 🔀 8 · 📥 24K · 📋 28 - 21% open · ⏱️ 23.01.2023):
+
+	```
+	git clone https://github.com/GeorgeSG/lovelace-time-picker-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/TECH7Fox/sip-hass-card">SIP Card</a></b> (🥈15 ·  ⭐ 120) - A SIP client inside home assistant!. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/TECH7Fox/sip-hass-card) (👨‍💻 9 · 🔀 20 · 📥 4.3K · 📋 56 - 32% open · ⏱️ 07.10.2022):
+- [GitHub](https://github.com/TECH7Fox/sip-hass-card) (👨‍💻 9 · 🔀 20 · 📥 4.4K · 📋 57 - 33% open · ⏱️ 07.10.2022):
 
 	```
 	git clone https://github.com/TECH7Fox/sip-hass-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/ulic75/power-flow-card">Power Flow Card</a></b> (🥈15 ·  ⭐ 110) - A power distribution card inspired by the official.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/ulic75/power-flow-card">Power Flow Card</a></b> (🥈15 ·  ⭐ 120) - A power distribution card inspired by the official.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/ulic75/power-flow-card) (👨‍💻 3 · 🔀 24 · 📥 25K · 📋 73 - 24% open · ⏱️ 17.03.2023):
 
@@ -6848,6 +6863,14 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/tomvanswam/compass-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/isabellaalstrom/lovelace-grocy-chores-card">Lovelace Grocy Chores Card</a></b> (🥈15 ·  ⭐ 100) - A card to track chores and tasks in Grocy. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) (👨‍💻 18 · 🔀 25 · 📋 70 - 7% open · ⏱️ 27.04.2023):
+
+	```
+	git clone https://github.com/isabellaalstrom/lovelace-grocy-chores-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/iantrich/roku-card">Roku Card</a></b> (🥈15 ·  ⭐ 100) - Roku Remote Card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/iantrich/roku-card) (👨‍💻 6 · 🔀 36 · 📥 19K · 📋 68 - 23% open · ⏱️ 20.01.2023):
@@ -6856,23 +6879,23 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/iantrich/roku-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/marcokreeft87/formulaone-card">Formula One Card</a></b> (🥈15 ·  ⭐ 77 · 🐣) - Present the data of Formula One in a pretty way. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/marcokreeft87/formulaone-card">Formula One Card</a></b> (🥈15 ·  ⭐ 78 · 🐣) - Present the data of Formula One in a pretty way. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/marcokreeft87/formulaone-card) (👨‍💻 5 · 🔀 8 · 📋 61 - 1% open · ⏱️ 11.04.2023):
+- [GitHub](https://github.com/marcokreeft87/formulaone-card) (👨‍💻 5 · 🔀 8 · 📋 62 - 3% open · ⏱️ 11.04.2023):
 
 	```
 	git clone https://github.com/marcokreeft87/formulaone-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/flixlix/power-flow-card-plus">Power Flow Card Plus</a></b> (🥈15 ·  ⭐ 71 · 🐣) - A power distribution card inspired by the official.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/flixlix/power-flow-card-plus">Power Flow Card Plus</a></b> (🥈15 ·  ⭐ 77 · 🐣) - A power distribution card inspired by the official.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/flixlix/power-flow-card-plus) (👨‍💻 7 · 🔀 11 · 📥 3.9K · 📋 45 - 2% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/flixlix/power-flow-card-plus) (👨‍💻 7 · 🔀 11 · 📥 5K · 📋 56 - 1% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/flixlix/power-flow-card-plus
 	```
 </details>
-<details><summary><b><a href="https://github.com/custom-cards/slider-button-card">Slider Button Card</a></b> (🥈15 ·  ⭐ 67) - A button card with integrated slider. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/custom-cards/slider-button-card">Slider Button Card</a></b> (🥈15 ·  ⭐ 68) - A button card with integrated slider. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/custom-cards/slider-button-card) (👨‍💻 14 · 🔀 11 · 📥 27K · 📋 23 - 86% open · ⏱️ 18.11.2022):
 
@@ -6888,15 +6911,15 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/ikaruswill/lovelace-fan-xiaomi
 	```
 </details>
-<details><summary><b><a href="https://github.com/PRProd/HA-Firemote">Firemote Card</a></b> (🥈15 ·  ⭐ 54) - Home Assistant Lovelace Card that emulates the remote control.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
+<details><summary><b><a href="https://github.com/PRProd/HA-Firemote">Firemote Card</a></b> (🥈15 ·  ⭐ 55) - Home Assistant Lovelace Card that emulates the remote control.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/PRProd/HA-Firemote) (👨‍💻 2 · 🔀 24 · 📋 56 - 1% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/PRProd/HA-Firemote) (👨‍💻 2 · 🔀 24 · 📋 58 - 3% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/PRProd/HA-Firemote
 	```
 </details>
-<details><summary><b><a href="https://github.com/johanfrick/custom-sonos-card">Sonos Card</a></b> (🥈15 ·  ⭐ 52) - Home Assistant custom lovelace sonos card. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/johanfrick/custom-sonos-card">Sonos Card</a></b> (🥈15 ·  ⭐ 54) - Home Assistant custom lovelace sonos card. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/johanfrick/custom-sonos-card) (👨‍💻 7 · 🔀 7 · 📥 49K · 📋 70 - 10% open · ⏱️ 12.02.2023):
 
@@ -6904,17 +6927,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/johanfrick/custom-sonos-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/wassy92x/lovelace-digital-clock">Digital Clock</a></b> (🥈15 ·  ⭐ 38) - A custom digital clock card for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/junalmeida/homeassistant-minimalistic-area-card">Minimalistic Area Card</a></b> (🥈15 ·  ⭐ 54) - A minimalistic area card with sensors and buttons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wassy92x/lovelace-digital-clock) (👨‍💻 3 · 🔀 5 · 📥 39K · 📋 29 - 27% open · ⏱️ 06.04.2023):
+- [GitHub](https://github.com/junalmeida/homeassistant-minimalistic-area-card) (👨‍💻 2 · 🔀 7 · 📥 24K · 📋 50 - 12% open · ⏱️ 18.04.2023):
 
 	```
-	git clone https://github.com/wassy92x/lovelace-digital-clock
+	git clone https://github.com/junalmeida/homeassistant-minimalistic-area-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/Gh61/lovelace-hue-like-light-card">Hue-Like Light Card</a></b> (🥈15 ·  ⭐ 23) - This card provides a Hue-like way to control your.. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-- [GitHub](https://github.com/Gh61/lovelace-hue-like-light-card) (🔀 1 · 📥 12K · 📋 22 - 36% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/Gh61/lovelace-hue-like-light-card) (🔀 1 · 📥 12K · 📋 23 - 39% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/Gh61/lovelace-hue-like-light-card
@@ -6922,7 +6945,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/phischdev/lovelace-mushroom-better-sliders">Mushroom - Better Sliders</a></b> (🥈15 ·  ⭐ 11 · 🐣) - Fork of Mushroom Cards - For better touch control of.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/phischdev/lovelace-mushroom-better-sliders) (👨‍💻 80 · 🔀 1 · 📥 9.1K · 📋 4 - 75% open · ⏱️ 04.03.2023):
+- [GitHub](https://github.com/phischdev/lovelace-mushroom-better-sliders) (👨‍💻 80 · 🔀 1 · 📥 9.7K · 📋 4 - 75% open · ⏱️ 04.03.2023):
 
 	```
 	git clone https://github.com/phischdev/lovelace-mushroom-better-sliders
@@ -6930,7 +6953,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/ExperienceLovelace/ha-floorplan">Ha Floorplan</a></b> (🥈14 ·  ⭐ 740) - Bring new life to Home Assistant. By mapping entities to a.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/ExperienceLovelace/ha-floorplan) (👨‍💻 18 · 🔀 140 · 📋 15 - 13% open · ⏱️ 28.02.2023):
+- [GitHub](https://github.com/ExperienceLovelace/ha-floorplan) (👨‍💻 18 · 🔀 150 · 📋 15 - 13% open · ⏱️ 28.02.2023):
 
 	```
 	git clone https://github.com/ExperienceLovelace/ha-floorplan
@@ -6944,7 +6967,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/thomasloven/lovelace-fold-entity-row
 	```
 </details>
-<details><summary><b><a href="https://github.com/Hypfer/lovelace-valetudo-map-card">Valetudo Map Card</a></b> (🥈14 ·  ⭐ 190) - Draws the map available from a Xiaomi Vacuum cleaner flashed.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Hypfer/lovelace-valetudo-map-card">Valetudo Map Card</a></b> (🥈14 ·  ⭐ 200) - Draws the map available from a Xiaomi Vacuum cleaner flashed.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/Hypfer/lovelace-valetudo-map-card) (👨‍💻 20 · 🔀 28 · 📋 97 - 8% open · ⏱️ 15.04.2023):
 
@@ -6952,15 +6975,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/Hypfer/lovelace-valetudo-map-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/GeorgeSG/lovelace-time-picker-card">Time Picker Card</a></b> (🥈14 ·  ⭐ 180) - :mantelpiece clock: Time Picker Card for Home Assistants.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/GeorgeSG/lovelace-time-picker-card) (👨‍💻 4 · 🔀 8 · 📥 24K · 📋 28 - 21% open · ⏱️ 23.01.2023):
-
-	```
-	git clone https://github.com/GeorgeSG/lovelace-time-picker-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/reptilex/tesla-style-solar-power-card">Tesla style solar power card</a></b> (🥈14 ·  ⭐ 160 · 💤) - Home assistant power card mimicking the one tesla.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/reptilex/tesla-style-solar-power-card">Tesla style solar power card</a></b> (🥈14 ·  ⭐ 170 · 💤) - Home assistant power card mimicking the one tesla.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/reptilex/tesla-style-solar-power-card) (👨‍💻 13 · 🔀 50 · 📥 3.1K · 📋 130 - 33% open · ⏱️ 22.07.2022):
 
@@ -6970,13 +6985,13 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/thomasloven/lovelace-template-entity-row">template-entity-row</a></b> (🥈14 ·  ⭐ 150) - :small blue diamond: Display whatever you want in an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/thomasloven/lovelace-template-entity-row) (👨‍💻 4 · 🔀 18 · 📋 90 - 27% open · ⏱️ 27.03.2023):
+- [GitHub](https://github.com/thomasloven/lovelace-template-entity-row) (👨‍💻 4 · 🔀 18 · 📋 92 - 28% open · ⏱️ 27.03.2023):
 
 	```
 	git clone https://github.com/thomasloven/lovelace-template-entity-row
 	```
 </details>
-<details><summary><b><a href="https://github.com/r-renato/ha-card-weather-conditions">HA (Lovelace) Card Weather Conditions</a></b> (🥈14 ·  ⭐ 140) - Weather condition card (Lovelace) for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/r-renato/ha-card-weather-conditions">HA (Lovelace) Card Weather Conditions</a></b> (🥈14 ·  ⭐ 150) - Weather condition card (Lovelace) for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/r-renato/ha-card-weather-conditions) (👨‍💻 5 · 🔀 28 · 📋 97 - 55% open · ⏱️ 08.03.2023):
 
@@ -6992,17 +7007,9 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/marcokreeft87/room-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/isabellaalstrom/lovelace-grocy-chores-card">Lovelace Grocy Chores Card</a></b> (🥈14 ·  ⭐ 100) - A card to track chores and tasks in Grocy. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/isabellaalstrom/lovelace-grocy-chores-card) (👨‍💻 17 · 🔀 24 · 📋 69 - 11% open · ⏱️ 20.04.2023):
-
-	```
-	git clone https://github.com/isabellaalstrom/lovelace-grocy-chores-card
-	```
-</details>
 <details><summary><b><a href="https://github.com/JurajNyiri/PlexMeetsHomeAssistant">Plex Meets Home Assistant</a></b> (🥈14 ·  ⭐ 79) - Custom card which integrates plex into Home Assistant.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) (🔀 6 · 📋 78 - 20% open · ⏱️ 14.04.2023):
+- [GitHub](https://github.com/JurajNyiri/PlexMeetsHomeAssistant) (🔀 6 · 📋 79 - 20% open · ⏱️ 14.04.2023):
 
 	```
 	git clone https://github.com/JurajNyiri/PlexMeetsHomeAssistant
@@ -7026,18 +7033,10 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/AnthonMS/my-cards">My Cards Bundle</a></b> (🥈14 ·  ⭐ 51) - Bundle of my custom Lovelace cards for Home Assistant... <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/AnthonMS/my-cards) (👨‍💻 10 · 🔀 21 · 📥 76K · 📋 41 - 43% open · ⏱️ 21.11.2022):
+- [GitHub](https://github.com/AnthonMS/my-cards) (👨‍💻 10 · 🔀 21 · 📥 77K · 📋 41 - 43% open · ⏱️ 21.11.2022):
 
 	```
 	git clone https://github.com/AnthonMS/my-cards
-	```
-</details>
-<details><summary><b><a href="https://github.com/nicufarmache/lovelace-big-slider-card">Big Slider Card</a></b> (🥈14 ·  ⭐ 13) - A card with a big slider for light entities in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/nicufarmache/lovelace-big-slider-card) (👨‍💻 3 · 📥 5.6K · 📋 15 - 33% open · ⏱️ 02.04.2023):
-
-	```
-	git clone https://github.com/nicufarmache/lovelace-big-slider-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/thomasloven/lovelace-state-switch">state-switch</a></b> (🥈13 ·  ⭐ 300 · 💤) - :small blue diamond:Dynamically replace lovelace cards.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7050,15 +7049,23 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/dylandoamaral/uptime-card">Uptime Card</a></b> (🥈13 ·  ⭐ 190) - Minimalistic uptime card for Home Assistant Lovelace UI. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/dylandoamaral/uptime-card) (👨‍💻 5 · 🔀 8 · 📥 61K · 📋 74 - 5% open · ⏱️ 10.03.2023):
+- [GitHub](https://github.com/dylandoamaral/uptime-card) (👨‍💻 5 · 🔀 8 · 📥 62K · 📋 74 - 5% open · ⏱️ 10.03.2023):
 
 	```
 	git clone https://github.com/dylandoamaral/uptime-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/bramkragten/swipe-card">swipe-card</a></b> (🥈13 ·  ⭐ 150) - Card that allows you to swipe throught multiple cards for.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/bramkragten/swipe-card) (👨‍💻 4 · 🔀 24 · 📥 2.8K · 📋 51 - 80% open · ⏱️ 17.11.2022):
+
+	```
+	git clone https://github.com/bramkragten/swipe-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/Sian-Lee-SA/honeycomb-menu">Honeycomb Menu</a></b> (🥈13 ·  ⭐ 140) - Honeycomb menu is a Home Assistant module (not a card).. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/Sian-Lee-SA/honeycomb-menu) (👨‍💻 2 · 🔀 11 · 📥 7.4K · ⏱️ 07.04.2023):
+- [GitHub](https://github.com/Sian-Lee-SA/honeycomb-menu) (👨‍💻 2 · 🔀 11 · 📥 7.5K · ⏱️ 07.04.2023):
 
 	```
 	git clone https://github.com/Sian-Lee-SA/honeycomb-menu
@@ -7074,7 +7081,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/custom-cards/canvas-gauge-card">Canvas Gauge Card</a></b> (🥈13 ·  ⭐ 120) - The card makes it possible to use gauges from.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/custom-cards/canvas-gauge-card) (👨‍💻 7 · 🔀 22 · 📥 23K · 📋 47 - 6% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/custom-cards/canvas-gauge-card) (👨‍💻 7 · 🔀 23 · 📥 24K · 📋 47 - 6% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/custom-cards/canvas-gauge-card
@@ -7090,7 +7097,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/royto/logbook-card">Logbook Card</a></b> (🥈13 ·  ⭐ 110) - Logbook card for Home Assistant UI Lovelace. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-- [GitHub](https://github.com/royto/logbook-card) (👨‍💻 4 · 🔀 7 · 📥 23K · 📋 60 - 13% open · ⏱️ 07.01.2023):
+- [GitHub](https://github.com/royto/logbook-card) (👨‍💻 4 · 🔀 7 · 📥 24K · 📋 61 - 14% open · ⏱️ 07.01.2023):
 
 	```
 	git clone https://github.com/royto/logbook-card
@@ -7112,9 +7119,9 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/dnguyen800/air-visual-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/jonkristian/entur-card">Entur Card</a></b> (🥈13 ·  ⭐ 44) - Home Assistant Lovelace card card for the Entur public transport.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/jonkristian/entur-card">Entur Card</a></b> (🥈13 ·  ⭐ 45) - Home Assistant Lovelace card card for the Entur public transport.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jonkristian/entur-card) (👨‍💻 5 · 🔀 5 · 📋 26 - 19% open · ⏱️ 25.03.2023):
+- [GitHub](https://github.com/jonkristian/entur-card) (👨‍💻 5 · 🔀 5 · 📋 28 - 21% open · ⏱️ 25.03.2023):
 
 	```
 	git clone https://github.com/jonkristian/entur-card
@@ -7128,9 +7135,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/amaximus/transmission-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/nicufarmache/lovelace-big-slider-card">Big Slider Card</a></b> (🥈13 ·  ⭐ 14) - A card with a big slider for light entities in Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/nicufarmache/lovelace-big-slider-card) (👨‍💻 3 · 📥 5.9K · 📋 15 - 33% open · ⏱️ 02.04.2023):
+
+	```
+	git clone https://github.com/nicufarmache/lovelace-big-slider-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/DBuit/sidebar-card">sidebar card</a></b> (🥈12 ·  ⭐ 310) -  <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/DBuit/sidebar-card) (👨‍💻 6 · 🔀 30 · 📋 62 - 51% open · ⏱️ 11.04.2023):
+- [GitHub](https://github.com/DBuit/sidebar-card) (👨‍💻 6 · 🔀 31 · 📋 62 - 51% open · ⏱️ 11.04.2023):
 
 	```
 	git clone https://github.com/DBuit/sidebar-card
@@ -7146,18 +7161,10 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/azuwis/zigbee2mqtt-networkmap">Zigbee2mqtt Networkmap Card</a></b> (🥈12 ·  ⭐ 160) - Home Assistant Custom Card to show Zigbee2mqtt.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/azuwis/zigbee2mqtt-networkmap) (👨‍💻 7 · 🔀 14 · 📥 43K · ⏱️ 03.02.2023):
+- [GitHub](https://github.com/azuwis/zigbee2mqtt-networkmap) (👨‍💻 7 · 🔀 14 · 📥 43K · 📋 35 - 2% open · ⏱️ 03.02.2023):
 
 	```
 	git clone https://github.com/azuwis/zigbee2mqtt-networkmap
-	```
-</details>
-<details><summary><b><a href="https://github.com/bramkragten/swipe-card">swipe-card</a></b> (🥈12 ·  ⭐ 150) - Card that allows you to swipe throught multiple cards for.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/bramkragten/swipe-card) (👨‍💻 4 · 🔀 23 · 📥 2.8K · 📋 50 - 80% open · ⏱️ 17.11.2022):
-
-	```
-	git clone https://github.com/bramkragten/swipe-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/custom-cards/flex-table-card">Flex Table - Highly customizable, Data visualization</a></b> (🥈12 ·  ⭐ 140 · 💤) - Highly Flexible Lovelace Card - arbitrary.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -7168,33 +7175,41 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/custom-cards/flex-table-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/htmltiger/numberbox-card">Number Box</a></b> (🥈12 ·  ⭐ 72) - Replace input_number sliders with plus and minus buttons. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/AmoebeLabs/swiss-army-knife-card">Swiss Army Knife custom card</a></b> (🥈12 ·  ⭐ 130 · 📈) - The versatile custom Swiss Army Knife card for Home.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/htmltiger/numberbox-card) (👨‍💻 6 · 🔀 10 · 📋 54 - 7% open · ⏱️ 26.02.2023):
+- [GitHub](https://github.com/AmoebeLabs/swiss-army-knife-card) (👨‍💻 2 · 🔀 13 · 📋 120 - 36% open · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/AmoebeLabs/swiss-army-knife-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/htmltiger/numberbox-card">Number Box</a></b> (🥈12 ·  ⭐ 75) - Replace input_number sliders with plus and minus buttons. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/htmltiger/numberbox-card) (👨‍💻 6 · 🔀 10 · 📋 54 - 5% open · ⏱️ 22.04.2023):
 
 	```
 	git clone https://github.com/htmltiger/numberbox-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/iantrich/text-divider-row">Text Divider Row</a></b> (🥈12 ·  ⭐ 72) - :card index dividers: Text Divider Row. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/iantrich/text-divider-row">Text Divider Row</a></b> (🥈12 ·  ⭐ 74) - :card index dividers: Text Divider Row. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/iantrich/text-divider-row) (👨‍💻 5 · 🔀 9 · 📥 14K · 📋 20 - 55% open · ⏱️ 20.01.2023):
+- [GitHub](https://github.com/iantrich/text-divider-row) (👨‍💻 5 · 🔀 9 · 📥 15K · 📋 20 - 55% open · ⏱️ 20.01.2023):
 
 	```
 	git clone https://github.com/iantrich/text-divider-row
 	```
 </details>
-<details><summary><b><a href="https://github.com/Makin-Things/weather-radar-card">Weather Radar Card</a></b> (🥈12 ·  ⭐ 66) - A rain radar card using the tiled images from RainViewer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/Makin-Things/weather-radar-card">Weather Radar Card</a></b> (🥈12 ·  ⭐ 67) - A rain radar card using the tiled images from RainViewer. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Makin-Things/weather-radar-card) (🔀 3 · 📥 490K · 📋 29 - 65% open · ⏱️ 04.11.2022):
+- [GitHub](https://github.com/Makin-Things/weather-radar-card) (🔀 3 · 📥 500K · 📋 29 - 65% open · ⏱️ 04.11.2022):
 
 	```
 	git clone https://github.com/Makin-Things/weather-radar-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/TarheelGrad1998/gallery-card">Gallery Card</a></b> (🥈12 ·  ⭐ 65) - A custom card for Home Assistant that will display images.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/TarheelGrad1998/gallery-card">Gallery Card</a></b> (🥈12 ·  ⭐ 67) - A custom card for Home Assistant that will display images.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/TarheelGrad1998/gallery-card) (👨‍💻 5 · 🔀 22 · 📋 58 - 29% open · ⏱️ 20.03.2023):
+- [GitHub](https://github.com/TarheelGrad1998/gallery-card) (👨‍💻 6 · 🔀 23 · 📋 59 - 30% open · ⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/TarheelGrad1998/gallery-card
@@ -7218,7 +7233,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/pmongloid/flipdown-timer-card">Flipdown Timer Card</a></b> (🥈12 ·  ⭐ 50) - Flipdown Timer Card for Home Assistant Lovelace. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/pmongloid/flipdown-timer-card) (🔀 7 · 📥 13K · 📋 32 - 25% open · ⏱️ 18.11.2022):
+- [GitHub](https://github.com/pmongloid/flipdown-timer-card) (🔀 7 · 📥 14K · 📋 33 - 27% open · ⏱️ 18.11.2022):
 
 	```
 	git clone https://github.com/pmongloid/flipdown-timer-card
@@ -7240,9 +7255,9 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/konnectedvn/lovelace-vertical-slider-cover-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card">Local Conditional card</a></b> (🥈12 ·  ⭐ 41) - This card can show and hide a specific card on current.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card">Local Conditional card</a></b> (🥈12 ·  ⭐ 43) - This card can show and hide a specific card on current.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) (🔀 4 · 📥 2.4K · ⏱️ 13.04.2023):
+- [GitHub](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card) (🔀 4 · 📥 2.5K · ⏱️ 13.04.2023):
 
 	```
 	git clone https://github.com/PiotrMachowski/Home-Assistant-Lovelace-Local-Conditional-card
@@ -7250,7 +7265,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/Sese-Schneider/ha-energy-overview-card">Energy Overview Card</a></b> (🥈12 ·  ⭐ 32 · 🐣) - Current energy consumption overview card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/Sese-Schneider/ha-energy-overview-card) (👨‍💻 2 · 📥 6.5K · 📋 22 - 22% open · ⏱️ 30.03.2023):
+- [GitHub](https://github.com/Sese-Schneider/ha-energy-overview-card) (👨‍💻 2 · 📥 6.7K · 📋 22 - 22% open · ⏱️ 30.03.2023):
 
 	```
 	git clone https://github.com/Sese-Schneider/ha-energy-overview-card
@@ -7264,9 +7279,9 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/vasqued2/ha-teamtracker-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/daredoes/linked-lovelace-ui">Linked Lovelace</a></b> (🥈12 ·  ⭐ 18 · 🐣) - Create cards that can be re-used, updated, and handle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/daredoes/linked-lovelace-ui">Linked Lovelace</a></b> (🥈12 ·  ⭐ 19 · 🐣) - Create cards that can be re-used, updated, and handle.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/daredoes/linked-lovelace-ui) (👨‍💻 4 · 🔀 2 · 📥 5.4K · 📋 15 - 33% open · ⏱️ 07.03.2023):
+- [GitHub](https://github.com/daredoes/linked-lovelace-ui) (👨‍💻 4 · 🔀 2 · 📥 5.5K · 📋 15 - 33% open · ⏱️ 07.03.2023):
 
 	```
 	git clone https://github.com/daredoes/linked-lovelace-ui
@@ -7282,10 +7297,18 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/wassy92x/lovelace-ha-dashboard">HA Dashboard</a></b> (🥈12 ·  ⭐ 17) - A custom dashboard for Home Assistant with sidebar. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/wassy92x/lovelace-ha-dashboard) (👨‍💻 3 · 🔀 2 · 📥 7.8K · 📋 15 - 53% open · ⏱️ 06.04.2023):
+- [GitHub](https://github.com/wassy92x/lovelace-ha-dashboard) (👨‍💻 3 · 🔀 2 · 📥 8.2K · 📋 15 - 53% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/wassy92x/lovelace-ha-dashboard
+	```
+</details>
+<details><summary><b><a href="https://github.com/berrywhite96/lovelace-shutter-row">Shutter Row</a></b> (🥈12 ·  ⭐ 11) - Home Assistant Lovelace Shutter Row Card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/berrywhite96/lovelace-shutter-row) (👨‍💻 2 · 🔀 4 · 📥 8.9K · 📋 22 - 9% open · ⏱️ 22.04.2023):
+
+	```
+	git clone https://github.com/berrywhite96/lovelace-shutter-row
 	```
 </details>
 <details><summary><b><a href="https://github.com/Nyaran/myjdownloader-card">MyJDownloader Card</a></b> (🥈12 ·  ⭐ 3) - This Lovelace custom card displays downloads information.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7296,17 +7319,25 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/Nyaran/myjdownloader-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/madmicio/LG-WebOS-Remote-Control">LG WebOS Remote Control</a></b> (🥉11 ·  ⭐ 280) - Remote Control for LG TV WebOS. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/madmicio/LG-WebOS-Remote-Control">LG WebOS Remote Control</a></b> (🥉11 ·  ⭐ 290) - Remote Control for LG TV WebOS. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/madmicio/LG-WebOS-Remote-Control) (👨‍💻 8 · 🔀 65 · 📋 83 - 61% open · ⏱️ 12.01.2023):
+- [GitHub](https://github.com/madmicio/LG-WebOS-Remote-Control) (👨‍💻 8 · 🔀 66 · 📋 83 - 61% open · ⏱️ 12.01.2023):
 
 	```
 	git clone https://github.com/madmicio/LG-WebOS-Remote-Control
 	```
 </details>
+<details><summary><b><a href="https://github.com/AmoebeLabs/flex-horseshoe-card">Flexible Horseshoe Card for Lovelace</a></b> (🥉11 ·  ⭐ 160) - Flexible Horseshoe card for Home Assistant Lovelace.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/AmoebeLabs/flex-horseshoe-card) (👨‍💻 5 · 🔀 29 · 📋 53 - 79% open · ⏱️ 27.04.2023):
+
+	```
+	git clone https://github.com/AmoebeLabs/flex-horseshoe-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/DBuit/light-popup-card">Light popup card (homekit style)</a></b> (🥉11 ·  ⭐ 150) - Lovelace card to use as custom pop-up for light in.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/DBuit/light-popup-card) (👨‍💻 9 · 🔀 39 · 📋 66 - 30% open · ⏱️ 19.10.2022):
+- [GitHub](https://github.com/DBuit/light-popup-card) (👨‍💻 9 · 🔀 39 · 📋 67 - 31% open · ⏱️ 19.10.2022):
 
 	```
 	git clone https://github.com/DBuit/light-popup-card
@@ -7322,7 +7353,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/custom-cards/group-element">custom-cards/group-element</a></b> (🥉11 ·  ⭐ 59) - A group element for picture-elements with dynamic.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/custom-cards/group-element) (🔀 5 · 📥 4.2K · ⏱️ 16.02.2023):
+- [GitHub](https://github.com/custom-cards/group-element) (🔀 5 · 📥 4.3K · ⏱️ 16.02.2023):
 
 	```
 	git clone https://github.com/custom-cards/group-element
@@ -7330,15 +7361,15 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/usernein/tv-card">TV Remote Card (with touchpad and haptic feedback)</a></b> (🥉11 ·  ⭐ 58 · 💤) - TV Remote Card (with touchpad and haptic feedback). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/usernein/tv-card) (👨‍💻 11 · 🔀 16 · 📥 7.9K · 📋 26 - 65% open · ⏱️ 12.07.2022):
+- [GitHub](https://github.com/usernein/tv-card) (👨‍💻 11 · 🔀 16 · 📥 8K · 📋 26 - 65% open · ⏱️ 12.07.2022):
 
 	```
 	git clone https://github.com/usernein/tv-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/AalianKhan/mushroom-strategy">Auto generating Mushroom dashboard strategy</a></b> (🥉11 ·  ⭐ 29 · 🐣) - A strategy to automatically generate a dashboard.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/AalianKhan/mushroom-strategy">Auto generating Mushroom dashboard strategy</a></b> (🥉11 ·  ⭐ 45 · 🐣) - A strategy to automatically generate a dashboard.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/AalianKhan/mushroom-strategy) (📋 10 - 50% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/AalianKhan/mushroom-strategy) (🔀 2 · 📋 12 - 50% open · ⏱️ 10.04.2023):
 
 	```
 	git clone https://github.com/AalianKhan/mushroom-strategy
@@ -7350,22 +7381,6 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 
 	```
 	git clone https://github.com/iantrich/podcast-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/berrywhite96/lovelace-shutter-row">Shutter Row</a></b> (🥉11 ·  ⭐ 11) - Home Assistant Lovelace Shutter Row Card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/berrywhite96/lovelace-shutter-row) (👨‍💻 2 · 🔀 4 · 📥 8K · 📋 22 - 9% open · ⏱️ 19.03.2023):
-
-	```
-	git clone https://github.com/berrywhite96/lovelace-shutter-row
-	```
-</details>
-<details><summary><b><a href="https://github.com/AmoebeLabs/flex-horseshoe-card">Flexible Horseshoe Card for Lovelace</a></b> (🥉10 ·  ⭐ 160) - Flexible Horseshoe card for Home Assistant Lovelace.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/AmoebeLabs/flex-horseshoe-card) (👨‍💻 5 · 🔀 29 · 📋 53 - 79% open · ⏱️ 10.11.2022):
-
-	```
-	git clone https://github.com/AmoebeLabs/flex-horseshoe-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/twrecked/lovelace-hass-aarlo">twrecked/lovelace-hass-aarlo</a></b> (🥉10 ·  ⭐ 60) - Lovelace card for hass-aarlo integration. <code>❗Unlicensed</code></summary>
@@ -7384,6 +7399,14 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/tcarlsen/lovelace-light-with-profiles
 	```
 </details>
+<details><summary><b><a href="https://github.com/IhorSyerkov/linak-desk-card">LinakDesk Card</a></b> (🥉10 ·  ⭐ 49) - Home Assistant Lovelace Card for controlling desks based on linak.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/IhorSyerkov/linak-desk-card) (👨‍💻 8 · 🔀 7 · 📥 1.8K · 📋 7 - 57% open · ⏱️ 02.01.2023):
+
+	```
+	git clone https://github.com/IhorSyerkov/linak-desk-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/PiotrMachowski/lovelace-google-keep-card">PiotrMachowski/lovelace-google-keep-card</a></b> (🥉10 ·  ⭐ 48 · 💤) - This is a companion card for Google Keep sensor. It.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/PiotrMachowski/lovelace-google-keep-card) (👨‍💻 3 · 🔀 7 · 📋 18 - 33% open · ⏱️ 15.08.2022):
@@ -7392,17 +7415,9 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/PiotrMachowski/lovelace-google-keep-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/IhorSyerkov/linak-desk-card">LinakDesk Card</a></b> (🥉10 ·  ⭐ 48) - Home Assistant Lovelace Card for controlling desks based on linak.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/IhorSyerkov/linak-desk-card) (👨‍💻 8 · 🔀 7 · 📥 1.8K · 📋 7 - 57% open · ⏱️ 02.01.2023):
-
-	```
-	git clone https://github.com/IhorSyerkov/linak-desk-card
-	```
-</details>
 <details><summary><b><a href="https://github.com/ownbee/bootstrap-grid-card">bootstrap-grid-card</a></b> (🥉10 ·  ⭐ 29) - Bootstrap grid in Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ownbee/bootstrap-grid-card) (👨‍💻 2 · 🔀 4 · 📥 15K · 📋 7 - 28% open · ⏱️ 22.02.2023):
+- [GitHub](https://github.com/ownbee/bootstrap-grid-card) (👨‍💻 2 · 🔀 4 · 📥 15K · 📋 8 - 37% open · ⏱️ 22.02.2023):
 
 	```
 	git clone https://github.com/ownbee/bootstrap-grid-card
@@ -7432,6 +7447,30 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/ljmerza/tracking-number-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/lozzd/octopus-energy-rates-card">octopus-energy-rates-card</a></b> (🥉10 ·  ⭐ 11 · 🐣) - This lovelace card for Home Assistant displays the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/lozzd/octopus-energy-rates-card) (🔀 4 · 📋 10 - 40% open · ⏱️ 11.04.2023):
+
+	```
+	git clone https://github.com/lozzd/octopus-energy-rates-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/mawinkler/astroweather-card">AstroWeather Card</a></b> (🥉10 ·  ⭐ 10) - Lovalace Card for the AstroWeather Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/mawinkler/astroweather-card) (👨‍💻 2 · 🔀 1 · 📋 9 - 11% open · ⏱️ 26.04.2023):
+
+	```
+	git clone https://github.com/mawinkler/astroweather-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/jtbgroup/kodi-search-card">Kodi Search Card</a></b> (🥉10 ·  ⭐ 8) - Custom card for home assistant allowing to search in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jtbgroup/kodi-search-card) (👨‍💻 2 · 🔀 2 · 📥 3.6K · ⏱️ 21.04.2023):
+
+	```
+	git clone https://github.com/jtbgroup/kodi-search-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/hasl-sensor/lovelace-hasl-departure-card">HASL Departure Card</a></b> (🥉10 ·  ⭐ 8) - Lovelace Departure Card for the HASL Platform. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/hasl-sensor/lovelace-hasl-departure-card) (👨‍💻 9 · 🔀 11 · 📋 23 - 21% open · ⏱️ 17.02.2023):
@@ -7442,34 +7481,18 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/mathoudebine/homeassistant-browser-control-card">Browser Control Card</a></b> (🥉10 ·  ⭐ 8 · 💤) - Control your browser from a Home Assistant lovelace.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/mathoudebine/homeassistant-browser-control-card) (👨‍💻 3 · 📥 4.7K · 📋 6 - 50% open · ⏱️ 15.04.2022):
+- [GitHub](https://github.com/mathoudebine/homeassistant-browser-control-card) (👨‍💻 3 · 📥 4.8K · 📋 6 - 50% open · ⏱️ 15.04.2022):
 
 	```
 	git clone https://github.com/mathoudebine/homeassistant-browser-control-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/lozzd/octopus-energy-rates-card">octopus-energy-rates-card</a></b> (🥉10 ·  ⭐ 8 · 🐣) - This lovelace card for Home Assistant displays the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/lozzd/octopus-energy-rates-card) (🔀 4 · 📋 9 - 33% open · ⏱️ 11.04.2023):
-
-	```
-	git clone https://github.com/lozzd/octopus-energy-rates-card
-	```
-</details>
 <details><summary><b><a href="https://github.com/ljmerza/harmony-remote-card">Harmony Remote Card</a></b> (🥉10 ·  ⭐ 6) - Harmony Hub Remote Control Card for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/ljmerza/harmony-remote-card) (👨‍💻 2 · 🔀 2 · 📥 5.2K · 📋 3 - 33% open · ⏱️ 28.03.2023):
+- [GitHub](https://github.com/ljmerza/harmony-remote-card) (👨‍💻 2 · 🔀 2 · 📥 5.3K · 📋 3 - 33% open · ⏱️ 28.03.2023):
 
 	```
 	git clone https://github.com/ljmerza/harmony-remote-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/AmoebeLabs/swiss-army-knife-card">Swiss Army Knife custom card</a></b> (🥉9 ·  ⭐ 130) - The versatile custom Swiss Army Knife card for Home.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/AmoebeLabs/swiss-army-knife-card) (👨‍💻 2 · 🔀 13 · 📋 120 - 36% open · ⏱️ 10.11.2022):
-
-	```
-	git clone https://github.com/AmoebeLabs/swiss-army-knife-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/RossMcMillan92/lovelace-collapsable-cards">Collapsable cards</a></b> (🥉9 ·  ⭐ 120) - A custom Lovelace card that hides other cards behind.. <code>❗Unlicensed</code></summary>
@@ -7480,15 +7503,15 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/RossMcMillan92/lovelace-collapsable-cards
 	```
 </details>
-<details><summary><b><a href="https://github.com/gadgetchnnel/lovelace-card-templater">Lovelace Card Templater</a></b> (🥉9 ·  ⭐ 97) - Custom Lovelace card which allows Jinja2 templates to.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/gadgetchnnel/lovelace-card-templater">Lovelace Card Templater</a></b> (🥉9 ·  ⭐ 99) - Custom Lovelace card which allows Jinja2 templates to.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/gadgetchnnel/lovelace-card-templater) (👨‍💻 6 · 🔀 6 · 📋 43 - 48% open · ⏱️ 22.11.2022):
+- [GitHub](https://github.com/gadgetchnnel/lovelace-card-templater) (👨‍💻 6 · 🔀 6 · 📋 44 - 50% open · ⏱️ 22.11.2022):
 
 	```
 	git clone https://github.com/gadgetchnnel/lovelace-card-templater
 	```
 </details>
-<details><summary><b><a href="https://github.com/Olen/lovelace-flower-card">Flower Card</a></b> (🥉9 ·  ⭐ 54) - Lovelace Flower Card to match the custom plant integration. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/Olen/lovelace-flower-card">Flower Card</a></b> (🥉9 ·  ⭐ 55) - Lovelace Flower Card to match the custom plant integration. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Olen/lovelace-flower-card) (👨‍💻 10 · 🔀 15 · 📋 20 - 45% open · ⏱️ 23.02.2023):
 
@@ -7496,7 +7519,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/Olen/lovelace-flower-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/rianadon/opensprinkler-card">OpenSprinkler Card</a></b> (🥉9 ·  ⭐ 49) - Home Assistant card for collecting OpenSprinkler.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/rianadon/opensprinkler-card">OpenSprinkler Card</a></b> (🥉9 ·  ⭐ 50) - Home Assistant card for collecting OpenSprinkler.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/rianadon/opensprinkler-card) (👨‍💻 4 · 🔀 7 · 📥 6K · 📋 14 - 42% open · ⏱️ 25.11.2022):
 
@@ -7504,7 +7527,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/rianadon/opensprinkler-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card">HTML Jinja2 Template card</a></b> (🥉9 ·  ⭐ 41 · 💤) - This card displays provided Jinja2 template as an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card">HTML Jinja2 Template card</a></b> (🥉9 ·  ⭐ 43 · 💤) - This card displays provided Jinja2 template as an.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/PiotrMachowski/Home-Assistant-Lovelace-HTML-Jinja2-Template-card) (🔀 7 · 📋 16 - 50% open · ⏱️ 15.08.2022):
 
@@ -7520,7 +7543,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/jeremywillans/lovelace-roomba-vacuum-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/htmltiger/config-editor-card">Config Editor Card</a></b> (🥉9 ·  ⭐ 35) - Home Assistant Configuration Files Editor for Lovelace. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/htmltiger/config-editor-card">Config Editor Card</a></b> (🥉9 ·  ⭐ 36) - Home Assistant Configuration Files Editor for Lovelace. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/htmltiger/config-editor-card) (🔀 11 · 📋 30 - 3% open · ⏱️ 02.04.2023):
 
@@ -7552,28 +7575,12 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/rgc99/irrigation-unlimited-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/jtbgroup/kodi-search-card">Kodi Search Card</a></b> (🥉9 ·  ⭐ 8) - Custom card for home assistant allowing to search in the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/wassy92x/lovelace-entities-btn-group">Entities Button Group</a></b> (🥉9 ·  ⭐ 8) - A custom card for Home Assistant to group multiple buttons. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/jtbgroup/kodi-search-card) (👨‍💻 2 · 🔀 2 · 📥 3.4K · ⏱️ 30.03.2023):
-
-	```
-	git clone https://github.com/jtbgroup/kodi-search-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/wassy92x/lovelace-entities-btn-group">Entities Button Group</a></b> (🥉9 ·  ⭐ 8 · 💤) - A custom card for Home Assistant to group multiple.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/wassy92x/lovelace-entities-btn-group) (👨‍💻 3 · 🔀 2 · 📥 5.8K · 📋 2 - 50% open · ⏱️ 15.05.2022):
+- [GitHub](https://github.com/wassy92x/lovelace-entities-btn-group) (👨‍💻 3 · 🔀 2 · 📥 6.1K · 📋 2 - 50% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/wassy92x/lovelace-entities-btn-group
-	```
-</details>
-<details><summary><b><a href="https://github.com/mawinkler/astroweather-card">AstroWeather Card</a></b> (🥉9 ·  ⭐ 8) - Lovalace Card for the AstroWeather Integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/mawinkler/astroweather-card) (👨‍💻 2 · 🔀 1 · 📋 8 - 37% open · ⏱️ 16.04.2023):
-
-	```
-	git clone https://github.com/mawinkler/astroweather-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/jtbgroup/kodi-playlist-card">Kodi Playlist Card</a></b> (🥉9 ·  ⭐ 2) - This repository is used to contain the code of a kodi playlist.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7618,7 +7625,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/custom-cards/light-entity-row">light-entity-row</a></b> (🥉8 ·  ⭐ 52) - Entity row for lights with sliders for adjusting.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/custom-cards/light-entity-row) (👨‍💻 4 · 🔀 10 · 📋 20 - 75% open · ⏱️ 28.01.2023):
+- [GitHub](https://github.com/custom-cards/light-entity-row) (👨‍💻 4 · 🔀 10 · 📋 21 - 76% open · ⏱️ 28.01.2023):
 
 	```
 	git clone https://github.com/custom-cards/light-entity-row
@@ -7626,7 +7633,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/lukevink/lovelace-buien-rain-card">lukevink/lovelace-buien-rain-card</a></b> (🥉8 ·  ⭐ 48) - Graph of Buienradars rain forecast. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/lukevink/lovelace-buien-rain-card) (🔀 12 · 📥 3.5K · 📋 15 - 80% open · ⏱️ 09.11.2022):
+- [GitHub](https://github.com/lukevink/lovelace-buien-rain-card) (🔀 13 · 📥 3.5K · 📋 15 - 80% open · ⏱️ 09.11.2022):
 
 	```
 	git clone https://github.com/lukevink/lovelace-buien-rain-card
@@ -7634,13 +7641,13 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/fufar/simple-clock-card">Simple Clock Card</a></b> (🥉8 ·  ⭐ 30) - Simple clock card for Home assistant lovelace. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/fufar/simple-clock-card) (👨‍💻 7 · 🔀 12 · 📋 17 - 17% open · ⏱️ 23.03.2023):
+- [GitHub](https://github.com/fufar/simple-clock-card) (👨‍💻 7 · 🔀 12 · 📋 18 - 22% open · ⏱️ 23.03.2023):
 
 	```
 	git clone https://github.com/fufar/simple-clock-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/gadgetchnnel/lovelace-header-cards">Header Cards</a></b> (🥉8 ·  ⭐ 28) - Header Cards. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/gadgetchnnel/lovelace-header-cards">Header Cards</a></b> (🥉8 ·  ⭐ 29) - Header Cards. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/gadgetchnnel/lovelace-header-cards) (🔀 1 · 📋 11 - 63% open · ⏱️ 06.04.2023):
 
@@ -7666,7 +7673,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/bernikr/lovelace-notify-card">Notify Card</a></b> (🥉8 ·  ⭐ 23 · 💤) - Send notifications directly from the dashboard. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/bernikr/lovelace-notify-card) (👨‍💻 3 · 🔀 6 · 📋 14 - 35% open · ⏱️ 08.09.2022):
+- [GitHub](https://github.com/bernikr/lovelace-notify-card) (👨‍💻 3 · 🔀 7 · 📋 14 - 35% open · ⏱️ 08.09.2022):
 
 	```
 	git clone https://github.com/bernikr/lovelace-notify-card
@@ -7682,7 +7689,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/NemesisRE/upcoming-media-card">Upcoming Media Card</a></b> (🥉8 ·  ⭐ 20 · 💤) - A card to display upcoming episodes and movies from.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/NemesisRE/upcoming-media-card) (👨‍💻 12 · 🔀 1 · 📥 6.1K · ⏱️ 31.05.2022):
+- [GitHub](https://github.com/NemesisRE/upcoming-media-card) (👨‍💻 12 · 🔀 1 · 📥 6.2K · ⏱️ 31.05.2022):
 
 	```
 	git clone https://github.com/NemesisRE/upcoming-media-card
@@ -7698,7 +7705,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/a-p-z/datetime-card">Datetime Card</a></b> (🥉8 ·  ⭐ 15) - A minimalistic card for Home Assistant Lovelace UI which.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/a-p-z/datetime-card) (👨‍💻 4 · 📥 3.8K · 📋 10 - 20% open · ⏱️ 13.02.2023):
+- [GitHub](https://github.com/a-p-z/datetime-card) (👨‍💻 4 · 📥 3.9K · 📋 10 - 20% open · ⏱️ 13.02.2023):
 
 	```
 	git clone https://github.com/a-p-z/datetime-card
@@ -7714,7 +7721,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/amaximus/bkk-stop-card">BKK Stop Information Card</a></b> (🥉8 ·  ⭐ 6) - Custom Lovelace card for Budapest Public.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/amaximus/bkk-stop-card) (👨‍💻 3 · 🔀 3 · 📥 750 · ⏱️ 28.12.2022):
+- [GitHub](https://github.com/amaximus/bkk-stop-card) (👨‍💻 3 · 🔀 3 · 📥 760 · ⏱️ 28.12.2022):
 
 	```
 	git clone https://github.com/amaximus/bkk-stop-card
@@ -7738,7 +7745,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/kizza/magic-home-party-card">Magic Home Party Card</a></b> (🥉8 · 🐣) - A Home Assistant custom card for managing Magic Home lighting.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/kizza/magic-home-party-card) (🔀 1 · 📥 760 · ⏱️ 16.01.2023):
+- [GitHub](https://github.com/kizza/magic-home-party-card) (🔀 1 · 📥 780 · ⏱️ 16.01.2023):
 
 	```
 	git clone https://github.com/kizza/magic-home-party-card
@@ -7776,20 +7783,20 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/nervetattoo/themable-grid
 	```
 </details>
+<details><summary><b><a href="https://github.com/finity69x2/fan-percent-button-row">Fan Percent Button Row</a></b> (🥉7 ·  ⭐ 24 · 💤) - Frontend plugin to control fans in Home Assistant.. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/finity69x2/fan-percent-button-row) (👨‍💻 2 · 🔀 12 · 📋 34 - 5% open · ⏱️ 24.05.2022):
+
+	```
+	git clone https://github.com/finity69x2/fan-percent-button-row
+	```
+</details>
 <details><summary><b><a href="https://github.com/Imbuzi/meteo-france-weather-card">Météo France Weather Card</a></b> (🥉7 ·  ⭐ 24 · 💤) - Weather Card with animated icons for Home Assistant.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/Imbuzi/meteo-france-weather-card) (👨‍💻 5 · 🔀 10 · 📋 21 - 42% open · ⏱️ 01.06.2022):
 
 	```
 	git clone https://github.com/Imbuzi/meteo-france-weather-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/finity69x2/fan-percent-button-row">Fan Percent Button Row</a></b> (🥉7 ·  ⭐ 21 · 💤) - Frontend plugin to control fans in Home Assistant.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/finity69x2/fan-percent-button-row) (👨‍💻 2 · 🔀 12 · 📋 34 - 5% open · ⏱️ 24.05.2022):
-
-	```
-	git clone https://github.com/finity69x2/fan-percent-button-row
 	```
 </details>
 <details><summary><b><a href="https://github.com/daredoes/default-dashboard">Default Dashboard</a></b> (🥉7 ·  ⭐ 14 · 🐣) - Automatically set the default dashboard for all devices for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7800,22 +7807,6 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/daredoes/default-dashboard
 	```
 </details>
-<details><summary><b><a href="https://github.com/jampez77/Multiline-Entity-Card">Multiline Entity Card</a></b> (🥉7 ·  ⭐ 13) - A custom entity card for Home Assistant that allows text.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/jampez77/Multiline-Entity-Card) (👨‍💻 2 · ⏱️ 31.01.2023):
-
-	```
-	git clone https://github.com/jampez77/Multiline-Entity-Card
-	```
-</details>
-<details><summary><b><a href="https://github.com/petergridge/Irrigation-Card">IrrigationProgram Custom Card</a></b> (🥉7 ·  ⭐ 7 · 🐣) - Companion card for Irrigation-V5. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/petergridge/Irrigation-Card) (📥 1.8K · ⏱️ 19.02.2023):
-
-	```
-	git clone https://github.com/petergridge/Irrigation-Card
-	```
-</details>
 <details><summary><b><a href="https://github.com/custom-cards/text-action-element">custom-cards/text-action-element</a></b> (🥉7 ·  ⭐ 7) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
 - [GitHub](https://github.com/custom-cards/text-action-element) (📥 1.4K · ⏱️ 16.02.2023):
@@ -7824,20 +7815,20 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/custom-cards/text-action-element
 	```
 </details>
+<details><summary><b><a href="https://github.com/abualy/philips-tv-remote-card">Philips TV Remote</a></b> (🥉7 ·  ⭐ 6) - philips tv remote card for for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/abualy/philips-tv-remote-card) (🔀 1 · 📋 3 - 33% open · ⏱️ 27.02.2023):
+
+	```
+	git clone https://github.com/abualy/philips-tv-remote-card
+	```
+</details>
 <details><summary><b><a href="https://github.com/frozenwizard/onlylocklock">Only Lock Lock Row</a></b> (🥉7 ·  ⭐ 5) - Custom entity rows that prevent users from unlocking a lock,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/frozenwizard/onlylocklock) (⏱️ 15.11.2022):
 
 	```
 	git clone https://github.com/frozenwizard/onlylocklock
-	```
-</details>
-<details><summary><b><a href="https://github.com/abualy/philips-tv-remote-card">Philips TV Remote</a></b> (🥉7 ·  ⭐ 5) - philips tv remote card for for home assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/abualy/philips-tv-remote-card) (🔀 1 · ⏱️ 27.02.2023):
-
-	```
-	git clone https://github.com/abualy/philips-tv-remote-card
 	```
 </details>
 <details><summary><b><a href="https://github.com/rsnodgrass/water-heater-card">Water Heater Card</a></b> (🥉7 ·  ⭐ 4 · 💤) - Water Heater card for Home Assistants Lovelace UI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7858,7 +7849,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/rccoleman/lovelace-lamarzocco-config-card">La Marzocco Config Card</a></b> (🥉7 ·  ⭐ 2) - Lovelace card to configure network-connected La Marzocco.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/rccoleman/lovelace-lamarzocco-config-card) (👨‍💻 3 · 🔀 1 · 📥 240 · ⏱️ 15.11.2022):
+- [GitHub](https://github.com/rccoleman/lovelace-lamarzocco-config-card) (👨‍💻 3 · 🔀 1 · 📥 250 · ⏱️ 15.11.2022):
 
 	```
 	git clone https://github.com/rccoleman/lovelace-lamarzocco-config-card
@@ -7866,7 +7857,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/CyrisXD/love-lock-card">Lovelace Lock Card</a></b> (🥉6 ·  ⭐ 110) - Home Assistant Lovelace card to lock entire cards behind.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/CyrisXD/love-lock-card) (👨‍💻 5 · 🔀 12 · 📋 15 - 86% open · ⏱️ 20.02.2023):
+- [GitHub](https://github.com/CyrisXD/love-lock-card) (👨‍💻 5 · 🔀 11 · 📋 15 - 86% open · ⏱️ 20.02.2023):
 
 	```
 	git clone https://github.com/CyrisXD/love-lock-card
@@ -7874,7 +7865,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/DBuit/thermostat-popup-card">Thermostat popup card</a></b> (🥉6 ·  ⭐ 33) - Lovelace card to use as custom pop-up for thermostat.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/DBuit/thermostat-popup-card) (🔀 16 · 📋 13 - 84% open · ⏱️ 19.10.2022):
+- [GitHub](https://github.com/DBuit/thermostat-popup-card) (🔀 15 · 📋 13 - 84% open · ⏱️ 19.10.2022):
 
 	```
 	git clone https://github.com/DBuit/thermostat-popup-card
@@ -7904,6 +7895,14 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/Anonym-tsk/lovelace-starline-card
 	```
 </details>
+<details><summary><b><a href="https://github.com/jampez77/Multiline-Entity-Card">Multiline Entity Card</a></b> (🥉6 ·  ⭐ 13) - A custom entity card for Home Assistant that allows text.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/jampez77/Multiline-Entity-Card) (👨‍💻 2 · ⏱️ 31.01.2023):
+
+	```
+	git clone https://github.com/jampez77/Multiline-Entity-Card
+	```
+</details>
 <details><summary><b><a href="https://github.com/swiergot/ha-catt-fix">ha-catt-fix</a></b> (🥉6 ·  ⭐ 13 · 💤) - A solution for the timeout issue when casting Home Assistant using.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/swiergot/ha-catt-fix) (📋 5 - 40% open · ⏱️ 29.08.2022):
@@ -7912,9 +7911,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/swiergot/ha-catt-fix
 	```
 </details>
+<details><summary><b><a href="https://github.com/javawizard/ha-navbar-position">Navbar Position</a></b> (🥉6 ·  ⭐ 11 · 💤) - Moves the Home Assistant dashboard navigation bar to the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+
+- [GitHub](https://github.com/javawizard/ha-navbar-position) (🔀 3 · 📋 6 - 83% open · ⏱️ 08.05.2022):
+
+	```
+	git clone https://github.com/javawizard/ha-navbar-position
+	```
+</details>
 <details><summary><b><a href="https://github.com/iablon/HomeAssistant-Touchpad-Card">Ultimate tv remote card with touchpad and more</a></b> (🥉6 ·  ⭐ 11) - A card that simplifies TV interaction from.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/iablon/HomeAssistant-Touchpad-Card) (🔀 2 · ⏱️ 16.04.2023):
+- [GitHub](https://github.com/iablon/HomeAssistant-Touchpad-Card) (🔀 2 · 📋 5 - 20% open · ⏱️ 16.04.2023):
 
 	```
 	git clone https://github.com/iablon/HomeAssistant-Touchpad-Card
@@ -7926,6 +7933,14 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 
 	```
 	git clone https://github.com/georgezhao2010/lovelace-curtain-card
+	```
+</details>
+<details><summary><b><a href="https://github.com/petergridge/Irrigation-Card">IrrigationProgram Custom Card</a></b> (🥉6 ·  ⭐ 8 · 🐣) - Companion card for Irrigation-V5. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/petergridge/Irrigation-Card) (📥 1.9K · ⏱️ 19.02.2023):
+
+	```
+	git clone https://github.com/petergridge/Irrigation-Card
 	```
 </details>
 <details><summary><b><a href="https://github.com/Kaptensanders/skolmat-card">Skolmat Card</a></b> (🥉6 ·  ⭐ 6) - Home Assistant Lovelace card to display the food menu in Swedish.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -7954,7 +7969,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/amaximus/pollen-hu-card">Pollen Information Card for Hungary </a></b> (🥉5 ·  ⭐ 10) - Home Assistant custom Lovelace card for pollen.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-- [GitHub](https://github.com/amaximus/pollen-hu-card) (👨‍💻 2 · 🔀 2 · 📥 700 · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/amaximus/pollen-hu-card) (👨‍💻 2 · 🔀 2 · 📥 710 · ⏱️ 20.04.2023):
 
 	```
 	git clone https://github.com/amaximus/pollen-hu-card
@@ -7990,14 +8005,6 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 
 	```
 	git clone https://github.com/aex351/home-assistant-neerslag-card
-	```
-</details>
-<details><summary><b><a href="https://github.com/javawizard/ha-navbar-position">Navbar Position</a></b> (🥉4 ·  ⭐ 11 · 💤) - Moves the Home Assistant dashboard navigation bar to the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
-
-- [GitHub](https://github.com/javawizard/ha-navbar-position) (🔀 2 · 📋 6 - 83% open · ⏱️ 08.05.2022):
-
-	```
-	git clone https://github.com/javawizard/ha-navbar-position
 	```
 </details>
 <details><summary><b><a href="https://github.com/MathisAlepis/lovelace-tam-card">TAM Card</a></b> (🥉4 ·  ⭐ 4 · 💤) - Montpellier Lovelace TAM card displays next two crossing times of the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -8040,7 +8047,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 	git clone https://github.com/ben8p/lovelace-tab-redirect-card
 	```
 </details>
-<details><summary><b><a href="https://github.com/madmicio/ph-meter-temperature">pH meter</a></b> (🥉3 ·  ⭐ 7 · 🐣) - Ph meter, temperature, tds, ec cl & salinity for fish tank and.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/madmicio/ph-meter-temperature">pH meter</a></b> (🥉3 ·  ⭐ 8 · 🐣) - Ph meter, temperature, tds, ec cl & salinity for fish tank and.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/madmicio/ph-meter-temperature) (🔀 2 · 📋 5 - 80% open · ⏱️ 14.04.2023):
 
@@ -8066,7 +8073,7 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 </details>
 <details><summary><b><a href="https://github.com/silentbil/silent-remotes-card">Silent remotes card</a></b> (🥉2 ·  ⭐ 6 · 🐣) - Remotes control card for home assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/silentbil/silent-remotes-card) (⏱️ 17.03.2023):
+- [GitHub](https://github.com/silentbil/silent-remotes-card) (⏱️ 25.04.2023):
 
 	```
 	git clone https://github.com/silentbil/silent-remotes-card
@@ -8103,9 +8110,10 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 - <b><a href="https://github.com/benct/lovelace-battery-entity-row">Battery Entity Row</a></b> (🥉10 ·  ⭐ 56 · 💀) - Show battery states or attributes with dynamic icon on.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mattieha/select-list-card">Select list Card</a></b> (🥉10 ·  ⭐ 55 · 💀) - Select List Card displays an input_select entity as a list.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/maxwroc/github-flexi-card">Github Flexi Card / Entity Row</a></b> (🥉10 ·  ⭐ 23 · 💀) - Github stats card for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/fineemb/lovelace-cn-map-card">Gaode Map card</a></b> (🥉9 ·  ⭐ 47 · 💀) - Lovelace,. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/fineemb/lovelace-cn-map-card">Gaode Map card</a></b> (🥉9 ·  ⭐ 46 · 💀) - Lovelace,. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/KTibow/fullscreen-card">Fullscreen Card</a></b> (🥉9 ·  ⭐ 27 · 💀) - Make your Home Assistant browser fullscreen with one tap. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/gadgetchnnel/lovelace-card-preloader">Lovelace Card Preloader</a></b> (🥉9 ·  ⭐ 21 · 💀) - Allows preloading of Lovelace cards as a work around.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/Kibibit/kb-steam-card">Steam Card</a></b> (🥉9 ·  ⭐ 23 · 💀) - A Home Assistant card for Steam integrations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/gadgetchnnel/lovelace-card-preloader">Lovelace Card Preloader</a></b> (🥉9 ·  ⭐ 23 · 💀) - Allows preloading of Lovelace cards as a work around.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-cards/cover-element">custom-cards/cover-element</a></b> (🥉9 ·  ⭐ 16 · 💀) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/custom-cards/secondaryinfo-entity-row">Secondaryinfo Entity Row</a></b> (🥉8 ·  ⭐ 150 · 💀) - Custom entity row for HomeAssistant, providing.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/thomasloven/lovelace-badge-card">badge-card</a></b> (🥉8 ·  ⭐ 61 · 💀) - :small blue diamond: Place badges anywhere in the lovelace layout. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -8114,7 +8122,6 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 - <b><a href="https://github.com/TheLastProject/lovelace-media-art-background">TheLastProject/lovelace-media-art-background</a></b> (🥉8 ·  ⭐ 26 · 💀) - Sets the background of your Home Assistant to match.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ljmerza/fitbit-card">ljmerza/fitbit-card</a></b> (🥉8 ·  ⭐ 24 · 💀) - fitbit-card for lovelace. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-cards/group-card">group-card</a></b> (🥉8 ·  ⭐ 23 · 💀) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/Kibibit/kb-steam-card">Steam Card</a></b> (🥉8 ·  ⭐ 23 · 💀) - A Home Assistant card for Steam integrations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Kirbo/ha-lovelace-elapsed-time-card">Time Elapsed Card</a></b> (🥉8 ·  ⭐ 23 · 💀) - Home Assistant Lovelace Custom Card to calculate time.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/benct/lovelace-github-entity-row">GitHub Entity Row</a></b> (🥉8 ·  ⭐ 21 · 💀) - GitHub repository sensor data on entity rows in Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/bbbenji/synthwave-hass-extras">bbbenji/synthwave-hass-extras</a></b> (🥉8 ·  ⭐ 13 · 💀) - Extras for the synthwave inspired theme for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -8123,9 +8130,10 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 - <b><a href="https://github.com/hasl-sensor/lovelace-hasl-traffic-status-card">HASL Traffic Status Card</a></b> (🥉8 ·  ⭐ 4 · 💀) - Lovelace Traffic Status Card for the HASL Platform. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Ceerbeerus/beerbolaget-card">Ceerbeerus/beerbolaget-card</a></b> (🥉8 ·  ⭐ 3 · 💀) - A custom card for displaying information provided by.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/thomasloven/lovelace-more-info-card">more-info-card</a></b> (🥉7 ·  ⭐ 82 · 💀) - :small blue diamond: Display the more-info dialog of any entity.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/custom-cards/entity-attributes-card">custom-cards/entity-attributes-card</a></b> (🥉7 ·  ⭐ 58 · 💀) - Entity Attributes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+- <b><a href="https://github.com/custom-cards/entity-attributes-card">custom-cards/entity-attributes-card</a></b> (🥉7 ·  ⭐ 59 · 💀) - Entity Attributes. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/custom-cards/unused-card">custom-cards/unused-card</a></b> (🥉7 ·  ⭐ 27 · 💀) - All your unused entities in a list. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/fineemb/lovelace-dc1-card">PHICOMM DC1 card</a></b> (🥉7 ·  ⭐ 21 · 💀) - DC1Lovelace. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/RodBr/miflora-card">RodBr/miflora-card</a></b> (🥉7 ·  ⭐ 21 · 💀) - A Home Assistant Lovelace card to report MiFlora.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ironsheep/lovelace-lightning-detector-card">Lightning Detector Card</a></b> (🥉7 ·  ⭐ 17 · 💀) - A Lightning Detection Display Card for Home Assistant.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/rautesamtr/thermal_comfort_icons">rautesamtr/thermal_comfort_icons</a></b> (🥉7 ·  ⭐ 15 · 💀) - Thermal Comfort custom icons for Home Assistant to.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/ezand/lovelace-posten-card">Posten Card</a></b> (🥉7 ·  ⭐ 14 · 💀) - A Lovelace card to display Norwegian mail delivery days. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -8136,18 +8144,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 - <b><a href="https://github.com/itobey/update-time-card">Update Time Card</a></b> (🥉7 ·  ⭐ 5 · 💀) - Simple last-updated card for Home assistant lovelace. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-cards/beer-card">custom-cards/beer-card</a></b> (🥉7 ·  ⭐ 3 · 💀) - This card give you a list of your wishlist items. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/Voxxie/lovelace-jumbo-card">Jumbo Card</a></b> (🥉7 ·  ⭐ 2 · 💀) - A custom lovelace card for the custom Jumbo component. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/dmulcahey/zha-network-card">dmulcahey/zha-network-card</a></b> (🥉6 ·  ⭐ 77 · 💀) - Custom Lovelace card that displays ZHA network and.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/dmulcahey/zha-network-card">dmulcahey/zha-network-card</a></b> (🥉6 ·  ⭐ 78 · 💀) - Custom Lovelace card that displays ZHA network and.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
 - <b><a href="https://github.com/fineemb/lovelace-colorfulclouds-weather-card">Colorfulclouds Weather Card</a></b> (🥉6 ·  ⭐ 45 · 💀) - Lovelace. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/Villhellm/lovelace-clock-card">Lovelace Clock Card</a></b> (🥉6 ·  ⭐ 41 · 💀) - Basic analog clock for Lovelace. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-cards/gauge-card">gauge-card</a></b> (🥉6 ·  ⭐ 32 · 💀) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/custom-cards/plan-coordinates">custom-cards/plan-coordinates</a></b> (🥉6 ·  ⭐ 28 · 💀) -  <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
-- <b><a href="https://github.com/RodBr/miflora-card">RodBr/miflora-card</a></b> (🥉6 ·  ⭐ 20 · 💀) - A Home Assistant Lovelace card to report MiFlora.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/dooz127/swipe-glance-card">Swipe Glance Card</a></b> (🥉6 ·  ⭐ 12 · 💀) - :point_up_2: Swipe Glance Card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/ljmerza/github-card">ljmerza/github-card</a></b> (🥉6 ·  ⭐ 10 · 💀) - Track your repo issues, starts, forks, and pull requests. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/badguy99/PlantPictureCard">Plant Picture Card</a></b> (🥉6 ·  ⭐ 10 · 💀) - Like a picture glance card, but for plant data. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/Kibibit/kb-better-graph-colors">kibibit Better Graph Colors</a></b> (🥉6 ·  ⭐ 9 · 💀) - Replace the history graph colors with a material.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/mampfes/ha-knx-uf-iconset">KNX User Forum Icon Set</a></b> (🥉6 ·  ⭐ 6 · 💀) - Icon set from KNX User Forum for Home Assistant. The.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/gadgetchnnel/lovelace-text-input-row">gadgetchnnel/lovelace-text-input-row</a></b> (🥉5 ·  ⭐ 30 · 💀) - A custom Lovelace text input row for use in entities.. <code>❗Unlicensed</code>
+- <b><a href="https://github.com/gadgetchnnel/lovelace-text-input-row">gadgetchnnel/lovelace-text-input-row</a></b> (🥉5 ·  ⭐ 31 · 💀) - A custom Lovelace text input row for use in entities.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/finity69x2/binary-control-button-row">Binary Control Button Row</a></b> (🥉5 ·  ⭐ 17 · 💀) - Provides a customizable button row for binary.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/custom-cards/rmv-card">RMV Card</a></b> (🥉5 ·  ⭐ 15 · 💀) - Custom card for the RMV component. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 - <b><a href="https://github.com/fineemb/lovelace-air-filter-card">Air Purifier Card</a></b> (🥉5 ·  ⭐ 14 · 💀) - Lovelace. <code>❗Unlicensed</code>
@@ -8155,13 +8162,13 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 - <b><a href="https://github.com/finity69x2/fan-mode-button-row">Fan Mode Button Row</a></b> (🥉5 ·  ⭐ 10 · 💀) - Frontend plugin to control fans in Home Assistant.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/isabellaalstrom/krisinfo-card">isabellaalstrom/krisinfo-card</a></b> (🥉5 ·  ⭐ 7 · 💀) - A Lovelace custom card for custom component.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/turbulator/pandora-cas-card">Pandora CAS card</a></b> (🥉5 ·  ⭐ 4 · 💀) - Pandora lovelace card for Home Assistant. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code>
+- <b><a href="https://github.com/finity69x2/cover-position-preset-row">Cover Position Preset Row</a></b> (🥉4 ·  ⭐ 18 · 💀) - pluig-in for Home Assistant that provides an easy.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/sdelliot/pie-chart-card">Pie Chart Card</a></b> (🥉4 ·  ⭐ 11 · 💀) - Generalized Lovelace pie chart card. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/finity69x2/cover-control-button-row">Cover Control Button Row</a></b> (🥉4 ·  ⭐ 11 · 💀) - button row for controlling open/close covers in Home.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/fineemb/lovelace-car-card">Car card</a></b> (🥉4 ·  ⭐ 5 · 💀) -  <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/queimadus/cover-icon-element">Cover Icon Element</a></b> (🥉4 ·  ⭐ 5 · 💀) - Improved cover icon for home assistant picture element. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/pfunkmallone/HACS-camect-custom_card">Camect Camera Card</a></b> (🥉4 ·  ⭐ 5 · 💀) - A custom card which exposes Camect video streams via.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/madmicio/channel-pad">LG WebOS channel pad</a></b> (🥉3 ·  ⭐ 18 · 💀) - channel pad for LG TV Remote control. <code>❗Unlicensed</code>
-- <b><a href="https://github.com/finity69x2/cover-position-preset-row">Cover Position Preset Row</a></b> (🥉3 ·  ⭐ 18 · 💀) - pluig-in for Home Assistant that provides an easy.. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/bernikr/lovelace-webos-keyboard-card">WebOS Keyboard Card</a></b> (🥉3 ·  ⭐ 4 · 💀) - Type on your WebOS TV using this lovelace card. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/dimagoltsman/content-card-remote-control">dimagoltsman/content-card-remote-control</a></b> (🥉3 ·  ⭐ 4 · 💀) - Home assistant remote control. <code>❗Unlicensed</code>
 - <b><a href="https://github.com/finity69x2/toggle-control-button-row">Toggle Control Button Row</a></b> (🥉2 ·  ⭐ 11 · 💀) - A one-button control row for any Home Assistant.. <code>❗Unlicensed</code>
@@ -8177,9 +8184,17 @@ _The Lovelace UI is a customizable interface. With additional community plugins 
 
 _Themes is a part of the Home Assistant frontend integration._
 
+<details><summary><b><a href="https://github.com/piitaya/lovelace-mushroom-themes">Mushroom Themes</a></b> (🥇12 ·  ⭐ 150) - Additional themes for Lovelace Mushroom Cards. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+
+- [GitHub](https://github.com/piitaya/lovelace-mushroom-themes) (👨‍💻 2 · 🔀 15 · 📋 43 - 20% open · ⏱️ 03.11.2022):
+
+	```
+	git clone https://github.com/piitaya/lovelace-mushroom-themes
+	```
+</details>
 <details><summary><b><a href="https://github.com/th3jesta/ha-lcars">HA LCARS</a></b> (🥇12 ·  ⭐ 120) - LCARS theme for Home Assistant. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/th3jesta/ha-lcars) (👨‍💻 5 · 🔀 4 · 📋 46 - 34% open · ⏱️ 20.04.2023):
+- [GitHub](https://github.com/th3jesta/ha-lcars) (👨‍💻 5 · 🔀 4 · 📋 46 - 21% open · ⏱️ 27.04.2023):
 
 	```
 	git clone https://github.com/th3jesta/ha-lcars
@@ -8201,7 +8216,7 @@ _Themes is a part of the Home Assistant frontend integration._
 	git clone https://github.com/basnijholt/lovelace-ios-dark-mode-theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/orickcorreia/caule-themes-pack-1">Caule Themes Pack 1 - by caule.studio</a></b> (🥇11 ·  ⭐ 210 · 💤) - 10 modern colors | 4 categories of styles (Black.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/orickcorreia/caule-themes-pack-1">Caule Themes Pack 1 - by caule.studio</a></b> (🥇11 ·  ⭐ 200 · 💤) - 10 modern colors | 4 categories of styles (Black.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/orickcorreia/caule-themes-pack-1) (👨‍💻 5 · 🔀 16 · 📋 22 - 18% open · ⏱️ 20.06.2022):
 
@@ -8217,23 +8232,15 @@ _Themes is a part of the Home Assistant frontend integration._
 	git clone https://github.com/aFFekopp/noctis
 	```
 </details>
-<details><summary><b><a href="https://github.com/piitaya/lovelace-mushroom-themes">Mushroom Themes</a></b> (🥇11 ·  ⭐ 150) - Additional themes for Lovelace Mushroom Cards. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/Madelena/Metrology-for-Hass">Metrology - Metro + Fluent + Windows Themes - by mmak.es</a></b> (🥈10 ·  ⭐ 310) - :artist palette: Give your Home Assistant a modern.. <code>❗Unlicensed</code></summary>
 
-- [GitHub](https://github.com/piitaya/lovelace-mushroom-themes) (👨‍💻 2 · 🔀 15 · 📋 43 - 20% open · ⏱️ 03.11.2022):
-
-	```
-	git clone https://github.com/piitaya/lovelace-mushroom-themes
-	```
-</details>
-<details><summary><b><a href="https://github.com/Madelena/Metrology-for-Hass">Metrology - Metro + Fluent + Windows Themes - by mmak.es</a></b> (🥇10 ·  ⭐ 310) - :artist palette: Give your Home Assistant a modern.. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/Madelena/Metrology-for-Hass) (👨‍💻 5 · 🔀 20 · 📋 35 - 14% open · ⏱️ 02.04.2023):
+- [GitHub](https://github.com/Madelena/Metrology-for-Hass) (👨‍💻 5 · 🔀 19 · 📋 35 - 14% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/Madelena/Metrology-for-Hass
 	```
 </details>
-<details><summary><b><a href="https://github.com/tgcowell/waves">Waves</a></b> (🥇10 ·  ⭐ 58) - This is a blend of 2 themes found within the Home Assistant.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/tgcowell/waves">Waves</a></b> (🥈10 ·  ⭐ 60) - This is a blend of 2 themes found within the Home Assistant.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/tgcowell/waves) (👨‍💻 5 · 🔀 13 · 📋 41 - 9% open · ⏱️ 02.02.2023):
 
@@ -8241,7 +8248,7 @@ _Themes is a part of the Home Assistant frontend integration._
 	git clone https://github.com/tgcowell/waves
 	```
 </details>
-<details><summary><b><a href="https://github.com/JOHLC/transparentblue">Transparent Blue</a></b> (🥇10 ·  ⭐ 24) - A transparent blue theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/JOHLC/transparentblue">Transparent Blue</a></b> (🥈10 ·  ⭐ 24) - A transparent blue theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/JOHLC/transparentblue) (🔀 8 · 📥 310 · 📋 13 - 7% open · ⏱️ 26.02.2023):
 
@@ -8273,7 +8280,7 @@ _Themes is a part of the Home Assistant frontend integration._
 	git clone https://github.com/seangreen2/slate_theme
 	```
 </details>
-<details><summary><b><a href="https://github.com/JuanMTech/google-theme">Google Theme - Based on the Android light and dark interface</a></b> (🥈7 ·  ⭐ 61) - :artist palette: By JuanMTech -- Theme based on the.. <code>❗Unlicensed</code></summary>
+<details><summary><b><a href="https://github.com/JuanMTech/google-theme">Google Theme - Based on the Android light and dark interface</a></b> (🥈7 ·  ⭐ 63) - :artist palette: By JuanMTech -- Theme based on the.. <code>❗Unlicensed</code></summary>
 
 - [GitHub](https://github.com/JuanMTech/google-theme) (👨‍💻 3 · 🔀 13 · 📋 14 - 14% open · ⏱️ 13.01.2023):
 
@@ -8313,12 +8320,20 @@ _Themes is a part of the Home Assistant frontend integration._
 	git clone https://github.com/mikosoft83/hass-windows10-themes
 	```
 </details>
-<details><summary><b><a href="https://github.com/catppuccin/home-assistant">Catppuccin Theme</a></b> (🥈6 ·  ⭐ 22 · 🐣) - Soothing pastel theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
+<details><summary><b><a href="https://github.com/catppuccin/home-assistant">Catppuccin Theme</a></b> (🥈6 ·  ⭐ 23 · 🐣) - Soothing pastel theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
 - [GitHub](https://github.com/catppuccin/home-assistant) (👨‍💻 2 · 📋 8 - 50% open · ⏱️ 02.04.2023):
 
 	```
 	git clone https://github.com/catppuccin/home-assistant
+	```
+</details>
+<details><summary><b><a href="https://github.com/home-assistant-community-themes/blue-night">Blue Night Theme</a></b> (🥈6 ·  ⭐ 8) - Blue Night theme for Home Assistant. <code>❗Unlicensed</code></summary>
+
+- [GitHub](https://github.com/home-assistant-community-themes/blue-night) (👨‍💻 8 · 🔀 4 · 📋 6 - 16% open · ⏱️ 27.01.2023):
+
+	```
+	git clone https://github.com/home-assistant-community-themes/blue-night
 	```
 </details>
 <details><summary><b><a href="https://github.com/3ative/3ative-blue-theme">3Ative Blue Theme</a></b> (🥈6 ·  ⭐ 3) - :smiling face with sunglasses: My Theme Blue - with semi-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -8375,14 +8390,6 @@ _Themes is a part of the Home Assistant frontend integration._
 
 	```
 	git clone https://github.com/home-assistant-community-themes/blackened
-	```
-</details>
-<details><summary><b><a href="https://github.com/home-assistant-community-themes/blue-night">Blue Night Theme</a></b> (🥈5 ·  ⭐ 8) - Blue Night theme for Home Assistant. <code>❗Unlicensed</code></summary>
-
-- [GitHub](https://github.com/home-assistant-community-themes/blue-night) (👨‍💻 8 · 🔀 4 · 📋 6 - 16% open · ⏱️ 27.01.2023):
-
-	```
-	git clone https://github.com/home-assistant-community-themes/blue-night
 	```
 </details>
 <details><summary><b><a href="https://github.com/home-assistant-community-themes/vaporwave-pink">Vaporwave Pink Theme</a></b> (🥈5 ·  ⭐ 3 · 💤) - Vaporwave Pink Theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -8612,7 +8619,7 @@ _Themes is a part of the Home Assistant frontend integration._
 <details><summary>Show 21 hidden projects...</summary>
 
 - <b><a href="https://github.com/bbbenji/synthwave-hass">bbbenji/synthwave-hass</a></b> (🥇12 ·  ⭐ 140 · 💀) - Synthwave inspired theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
-- <b><a href="https://github.com/Kibibit/hass-kibibit-theme">kibibit Theme</a></b> (🥇10 ·  ⭐ 150 · 💀) - A milky glass theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+- <b><a href="https://github.com/Kibibit/hass-kibibit-theme">kibibit Theme</a></b> (🥇11 ·  ⭐ 150 · 💀) - A milky glass theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/naofireblade/clear-theme-dark">Clear Theme Dark</a></b> (🥈7 ·  ⭐ 16 · 💀) - Dark variant of Clear Theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/DickSwart/swart_ninja_dark_theme">Swart Ninja Dark Theme</a></b> (🥈7 ·  ⭐ 4 · 💀) - :artist palette: Green, dark mode theme for Home.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 - <b><a href="https://github.com/naofireblade/clear-theme">Clear Theme</a></b> (🥈6 ·  ⭐ 21 · 💀) - Clear Theme for Home Assistant. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
@@ -8641,17 +8648,17 @@ _Themes is a part of the Home Assistant frontend integration._
 
 _Python Scripts is a part of the Home Assistant python_script integration._
 
-<details><summary><b><a href="https://github.com/bieniu/ha-shellies-discovery">Shellies Discovery</a></b> (🥇23 ·  ⭐ 240) - Script that adds MQTT discovery support for Shellies.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bieniu/ha-shellies-discovery">Shellies Discovery</a></b> (🥇23 ·  ⭐ 250) - Script that adds MQTT discovery support for Shellies.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bieniu/ha-shellies-discovery) (👨‍💻 21 · 🔀 93 · 📥 34K · 📋 180 - 0% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/bieniu/ha-shellies-discovery) (👨‍💻 21 · 🔀 93 · 📥 34K · ⏱️ 24.04.2023):
 
 	```
 	git clone https://github.com/bieniu/ha-shellies-discovery
 	```
 </details>
-<details><summary><b><a href="https://github.com/bieniu/ha-shellies-discovery-gen2">Shellies Discovery Gen2</a></b> (🥈17 ·  ⭐ 41) - Script that adds MQTT discovery support for Shellies.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
+<details><summary><b><a href="https://github.com/bieniu/ha-shellies-discovery-gen2">Shellies Discovery Gen2</a></b> (🥈17 ·  ⭐ 43) - Script that adds MQTT discovery support for Shellies.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-- [GitHub](https://github.com/bieniu/ha-shellies-discovery-gen2) (👨‍💻 6 · 🔀 11 · 📥 4.9K · 📋 46 - 2% open · ⏱️ 10.04.2023):
+- [GitHub](https://github.com/bieniu/ha-shellies-discovery-gen2) (👨‍💻 6 · 🔀 11 · 📥 4.9K · 📋 46 - 2% open · ⏱️ 26.04.2023):
 
 	```
 	git clone https://github.com/bieniu/ha-shellies-discovery-gen2
