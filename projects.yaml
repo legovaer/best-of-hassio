@@ -9,7 +9,7 @@ configuration:
 categories:
   - category: "integration"
     title: "Integrations"
-    description: "Integrations in HACS (or custom_components as they are often referred to) are community-built integrations."
+    subtitle: "Integrations in HACS (or custom_components as they are often referred to) are community-built integrations."
   - category: "appdaemon"
     title: "AppDaemon Apps"
     subtitle: "AppDaemon apps are apps for AppDaemon"
