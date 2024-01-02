@@ -1,6 +1,6 @@
 <!-- markdownlint-disable -->
 <h1 align="center">
-    best-of-hassio
+    best-of-h
     <br>
 </h1>
 
