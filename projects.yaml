@@ -5466,3 +5466,7 @@ projects:
   github_id: pkissling/clock-weather-card
   description: Shows todays date/time, along with an iOS inspired weather forecast for the next days with animated icons
   category: plugin
+- name: Additional CA
+  github_id: Athozs/hass-additional-ca
+  description: Add private Certificate Authority or self-signed certificate into Home Assistant to access 3rd-party service with TLS/SSL
+  category: integration
