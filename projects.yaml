@@ -5466,3 +5466,7 @@ projects:
   github_id: pkissling/clock-weather-card
   description: Shows todays date/time, along with an iOS inspired weather forecast for the next days with animated icons
   category: plugin
+- name: Battery Notes
+  github_id: andrew-codechimp/HA-Battery-Notes
+  description: Track the battery type, when the battery was replaced, when a battery is low or hasn't reported a battery for a while.
+  category: integration  
